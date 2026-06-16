@@ -1,1 +1,11 @@
 group_id	genre_id	relationship_type	source_id	confidence	review_status
+GRP0001	GEN0001	primary_genre	SRC0001	high	approved
+GRP0001	GEN0002	secondary_genre	SRC0001	high	approved
+GRP0001	GEN0003	secondary_genre	SRC0001	high	approved
+GRP0001	GEN0004	secondary_genre	SRC0001	high	approved
+GRP0002	GEN0006	primary_genre	SRC0002	high	approved
+GRP0002	GEN0007	secondary_genre	SRC0002	high	approved
+GRP0003	GEN0001	primary_genre	SRC0003	high	approved
+GRP0004	GEN0001	primary_genre	SRC0003	high	approved
+GRP0005	GEN0007	primary_genre	SRC0003	high	approved
+GRP0006	GEN0008	primary_genre	SRC0003	high	approved

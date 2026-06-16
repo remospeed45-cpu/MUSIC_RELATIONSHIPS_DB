@@ -1,1 +1,7 @@
 group_id	canonical_group_name	alternate_names	group_type	country	primary_genre_id	source_id	confidence	review_status	created_at	updated_at
+GRP0001	Sonora Matancera		Sonora	Cuba	GEN0001	SRC0001	high	approved	2026-06-16	2026-06-16
+GRP0002	Orquesta Lucho Bermúdez		Large Orchestra	Colombia	GEN0006	SRC0002	high	approved	2026-06-16	2026-06-16
+GRP0003	Conjunto Casino		Conjunto	Cuba	GEN0001	SRC0003	high	approved	2026-06-16	2026-06-16
+GRP0004	Trío Matamoros		Trio	Cuba	GEN0001	SRC0003	high	approved	2026-06-16	2026-06-16
+GRP0005	Billo's Caracas Boys		Orchestra	Venezuela	GEN0007	SRC0003	high	approved	2026-06-16	2026-06-16
+GRP0006	Juan Luis Guerra 440		Band	Dominican Republic	GEN0008	SRC0003	high	approved	2026-06-16	2026-06-16
