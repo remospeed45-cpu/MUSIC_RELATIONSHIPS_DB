@@ -1,6 +1,4 @@
 recording_id	label_id	relationship_type	source_id	confidence	review_status
-REC000001	LBL000001	recording_label	SRC0003	high	approved
-REC000002	LBL000001	recording_label	SRC0003	high	approved
 REC000003	LBL000002	recording_label	SRC0001	high	raw_extracted
 REC000004	LBL000002	recording_label	SRC0001	high	raw_extracted
 REC000005	LBL000002	recording_label	SRC0001	high	raw_extracted
