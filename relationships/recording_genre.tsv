@@ -1,1 +1,3 @@
 recording_id	genre_id	relationship_type	source_id	confidence	review_status
+REC000001	GEN0001	inferred_from_group	SRC0003	medium	needs_review
+REC000002	GEN0001	inferred_from_group	SRC0003	medium	needs_review
