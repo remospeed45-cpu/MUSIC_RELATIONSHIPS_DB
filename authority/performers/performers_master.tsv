@@ -1,1 +1,4 @@
 performer_id	canonical_performer_name	alternate_names	performer_type	country	primary_genre_id	source_id	confidence	review_status	created_at	updated_at
+PER000001	Celia Cruz	Úrsula Hilaria Celia de la Caridad Cruz Alfonso	vocalist	Cuba	Female	GEN0001	SRC0003	high	approved	2026-06-16
+PER000002	Daniel Santos	Daniel Doroteo Santos Betancourt	vocalist	Puerto Rico	Male	GEN0002	SRC0003	high	approved	2026-06-16
+PER000003	Bienvenido Granda	Bienvenido Rosendo Granda Aguilera	vocalist	Cuba	Male	GEN0001	SRC0003	high	approved	2026-06-16

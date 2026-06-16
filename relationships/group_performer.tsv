@@ -1,1 +1,4 @@
 group_id	performer_id	role	start_year	end_year	source_id	confidence	review_status
+GRP0001	PER000001	vocalist	1950	1960	SRC0003	high	approved
+GRP0001	PER000002	vocalist	1948	1950	SRC0003	medium	needs_review
+GRP0001	PER000003	vocalist	1940	1954	SRC0003	high	approved
