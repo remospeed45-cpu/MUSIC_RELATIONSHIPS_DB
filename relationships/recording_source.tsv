@@ -1,1 +1,3 @@
 recording_id	source_id	relationship_type	source_reference	confidence	review_status
+REC000001	SRC0003	authority_source	SECCION04Mpt1.txt:10627-10806	high	approved
+REC000002	SRC0003	authority_source	SECCION04Mpt1.txt:10627-10806	high	approved
