@@ -1,1 +1,7 @@
 source_id	source_name	source_type	source_priority	source_url	notes	confidence	review_status	created_at	updated_at
+SRC0001	Frontera	authority	A		fundational source	high	approved	2026-06-16	2026-06-16
+SRC0002	Discos Fuentes	label_catalog	A		fundational source	high	approved	2026-06-16	2026-06-16
+SRC0003	Diaz-Ayala	discography	B		historical discography	high	approved	2026-06-16	2026-06-16
+SRC0004	MusicBrainz	reference	C		external reference	medium	approved	2026-06-16	2026-06-16
+SRC0005	Discogs	reference	C		external reference	medium	approved	2026-06-16	2026-06-16
+SRC0006	Cuba Canta y Baila	book	B		historical source	high	approved	2026-06-16	2026-06-16
