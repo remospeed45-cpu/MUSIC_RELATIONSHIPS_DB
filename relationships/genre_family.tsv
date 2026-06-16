@@ -1,0 +1,11 @@
+genre_id	genre_family_id	relationship_type	source_id	confidence	review_status
+GEN0001	GFAM0001	primary_family	SRC0001	high	approved
+GEN0002	GFAM0004	primary_family	SRC0003	high	approved
+GEN0003	GFAM0001	primary_family	SRC0001	high	approved
+GEN0004	GFAM0001	primary_family	SRC0001	high	approved
+GEN0005	GFAM0001	primary_family	SRC0003	high	approved
+GEN0006	GFAM0002	primary_family	SRC0002	high	approved
+GEN0007	GFAM0002	primary_family	SRC0002	high	approved
+GEN0008	GFAM0003	primary_family	SRC0003	high	approved
+GEN0009	GFAM0002	primary_family	SRC0002	high	approved
+GEN0010	GFAM0002	primary_family	SRC0002	high	approved
