@@ -1,1 +1,11 @@
 genre_id	canonical_genre_name	parent_genre_id	genre_family	country_region	source_id	confidence	review_status	created_at	updated_at
+GEN0001	Son Cubano		Afro-Cuban	Cuba	SRC0001	high	approved	2026-06-16	2026-06-16
+GEN0002	Bolero		Latin Song	Cuba	SRC0003	high	approved	2026-06-16	2026-06-16
+GEN0003	Guaracha	GEN0001	Afro-Cuban	Cuba	SRC0001	high	approved	2026-06-16	2026-06-16
+GEN0004	Guajira	GEN0001	Afro-Cuban	Cuba	SRC0001	high	approved	2026-06-16	2026-06-16
+GEN0005	Danzón		Afro-Cuban	Cuba	SRC0003	high	approved	2026-06-16	2026-06-16
+GEN0006	Porro		Colombian	Colombia	SRC0002	high	approved	2026-06-16	2026-06-16
+GEN0007	Cumbia		Colombian	Colombia	SRC0002	high	approved	2026-06-16	2026-06-16
+GEN0008	Merengue		Dominican	Dominican Republic	SRC0003	high	approved	2026-06-16	2026-06-16
+GEN0009	Paseo		Vallenato	Colombia	SRC0002	high	approved	2026-06-16	2026-06-16
+GEN0010	Vallenato		Colombian	Colombia	SRC0002	high	approved	2026-06-16	2026-06-16
