@@ -1,0 +1,6 @@
+genre_family_id	canonical_family_name	parent_family_id	region	source_id	confidence	review_status	created_at	updated_at
+GFAM0001	Afro-Cuban		Caribbean	SRC0001	high	approved	2026-06-16	2026-06-16
+GFAM0002	Colombian Tropical		South America	SRC0002	high	approved	2026-06-16	2026-06-16
+GFAM0003	Dominican		Caribbean	SRC0003	high	approved	2026-06-16	2026-06-16
+GFAM0004	Latin Song		Latin America	SRC0003	high	approved	2026-06-16	2026-06-16
+GFAM0005	Venezuelan Tropical		South America	SRC0003	high	approved	2026-06-16	2026-06-16
