@@ -1,0 +1,19 @@
+candidate_entity_name	candidate_entity_type	review_reason
+Conjunto De Cuerdas Y Arpa Grande De Antioco Garibay	conjunto	contains_Y;
+Conjunto De Cuerdas Y Arpa Grande De Antioco Garibay Y Leandro Corona	conjunto	contains_Y;
+Demetrio González	trio	trio_not_prefix;
+Dueto Adan Y Eva	duo	contains_Y;
+Dueto Aguila Y Sol	duo	contains_Y;
+Dueto Blanco Y Negro	duo	contains_Y;
+Dueto Carlos Y Alicia	duo	contains_Y;
+Dueto Sanchez Y Galvez	duo	contains_Y;
+Dueto Timbre Y Sobre	duo	contains_Y;
+Lola Beltran Y Trio Hnos. Michel	trio	contains_Y;trio_not_prefix;
+Los Baby’s	group	apostrophe_variant;
+Los Blue Angel’s	group	apostrophe_variant;
+Los Freddy’s	group	apostrophe_variant;
+Los Sonor’s	group	apostrophe_variant;
+Los Xochimilcas Trio De La Playa	group	trio_not_prefix;
+Luis Demetrio	trio	trio_not_prefix;
+Mariachi Blanco Y Negro	mariachi	contains_Y;
+Mariachi Oro Y Plata De Pepe Chávez	mariachi	contains_Y;
