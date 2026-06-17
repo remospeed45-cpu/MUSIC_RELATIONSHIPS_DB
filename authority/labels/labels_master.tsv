@@ -1,3 +1,4 @@
 label_id	canonical_label_name	alternate_names	country	active_period	source_id	confidence	review_status	created_at	updated_at
 LBL000001	Victor	Victor Talking Machine / RCA Victor	United States	active_historical	SRC0003	high	approved	2026-06-16	2026-06-16
 LBL000002	Peerless	Discos Peerless	Mexico	active_historical	SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+LBL000004	Discos Fuentes		Colombia	active	SRC0002	high	approved	2026-06-17	2026-06-17

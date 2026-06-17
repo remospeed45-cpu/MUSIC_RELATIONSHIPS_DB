@@ -1,0 +1,11 @@
+batch_song_id	promotion_status	song_id	canonical_song_title	source_id	source_reference	match_basis	confidence	review_status
+SRC0002-B0002-SONG001	NEW	SONG004180	Tanto Que No Aguanto	SRC0002	https://tiendadiscosfuentes.com/productos/vinilos/lp-la-cumbia-une-a-latinoamerica/#track-A1	no_exact_normalized_song_title_match	high	approved
+SRC0002-B0002-SONG002	MATCH_EXISTING	SONG000155	Amapola	SRC0002	https://tiendadiscosfuentes.com/productos/vinilos/lp-la-cumbia-une-a-latinoamerica/#track-A2	exact_normalized_song_title_match	high	approved
+SRC0002-B0002-SONG003	NEW	SONG004181	Mi Cocha Pechocha	SRC0002	https://tiendadiscosfuentes.com/productos/vinilos/lp-la-cumbia-une-a-latinoamerica/#track-A3	no_exact_normalized_song_title_match	high	approved
+SRC0002-B0002-SONG004	NEW	SONG004182	Sonidero	SRC0002	https://tiendadiscosfuentes.com/productos/vinilos/lp-la-cumbia-une-a-latinoamerica/#track-A4	no_exact_normalized_song_title_match	high	approved
+SRC0002-B0002-SONG005	NEW	SONG004183	La Canoa Se Va	SRC0002	https://tiendadiscosfuentes.com/productos/vinilos/lp-la-cumbia-une-a-latinoamerica/#track-A5	no_exact_normalized_song_title_match	high	approved
+SRC0002-B0002-SONG006	NEW	SONG004184	Raza	SRC0002	https://tiendadiscosfuentes.com/productos/vinilos/lp-la-cumbia-une-a-latinoamerica/#track-B1	no_exact_normalized_song_title_match	high	approved
+SRC0002-B0002-SONG007	NEW	SONG004185	Wepa	SRC0002	https://tiendadiscosfuentes.com/productos/vinilos/lp-la-cumbia-une-a-latinoamerica/#track-B2	no_exact_normalized_song_title_match	high	approved
+SRC0002-B0002-SONG008	NEW	SONG004186	Coqueto	SRC0002	https://tiendadiscosfuentes.com/productos/vinilos/lp-la-cumbia-une-a-latinoamerica/#track-B3	no_exact_normalized_song_title_match	high	approved
+SRC0002-B0002-SONG009	NEW	SONG004187	Y Volver	SRC0002	https://tiendadiscosfuentes.com/productos/vinilos/lp-la-cumbia-une-a-latinoamerica/#track-B4	no_exact_normalized_song_title_match	high	approved
+SRC0002-B0002-SONG010	MATCH_EXISTING	SONG003751	Tierra Mala	SRC0002	https://tiendadiscosfuentes.com/productos/vinilos/lp-la-cumbia-une-a-latinoamerica/#track-B5	exact_normalized_song_title_match	high	approved
