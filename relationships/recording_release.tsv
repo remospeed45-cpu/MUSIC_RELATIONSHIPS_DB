@@ -1,1 +1,15 @@
 recording_id	release_id	relationship_type	source_id	confidence	review_status
+REC005503	REL000001	appears_on_release	SRC0002	high	approved
+REC005504	REL000001	appears_on_release	SRC0002	high	approved
+REC005505	REL000001	appears_on_release	SRC0002	high	approved
+REC005506	REL000001	appears_on_release	SRC0002	high	approved
+REC005507	REL000001	appears_on_release	SRC0002	high	approved
+REC005508	REL000001	appears_on_release	SRC0002	high	approved
+REC005509	REL000001	appears_on_release	SRC0002	high	approved
+REC005510	REL000001	appears_on_release	SRC0002	high	approved
+REC005511	REL000001	appears_on_release	SRC0002	high	approved
+REC005512	REL000001	appears_on_release	SRC0002	high	approved
+REC005513	REL000001	appears_on_release	SRC0002	high	approved
+REC005514	REL000001	appears_on_release	SRC0002	high	approved
+REC005515	REL000001	appears_on_release	SRC0002	high	approved
+REC005516	REL000001	appears_on_release	SRC0002	high	approved
