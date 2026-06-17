@@ -1,0 +1,43 @@
+candidate_name	recordings_count	sample_recording_ids	sample_recording_titles	source_id	label_name	gemini_decision	gemini_notes	human_review_status
+Acerina y su Danzonera	2	REC001953; REC003885	Elia; Orquesta Principal	SRC0001	Peerless			pending
+Alarcon Leal Y La Tamaulipeca	6	REC000423; REC003613; REC004114; REC004690; REC004775	Aunque Pasen Los Años; Ni Plata Ni Cobre; Por Eso Lloro; Si, La Parranda Me Gusta; Solo Que La Mar Se Seque	SRC0001	Peerless			pending
+Alegres De Terán Y Marcelo Y Aurelia	1	REC001511	El Corrido De Pedro Infante	SRC0001	Peerless			pending
+Angelina Y Tono	26	REC000188; REC000602; REC000816; REC000941; REC000959	Alma Mia De Mi Grandota; Camioncito Flecha Roja; Compadecete Mujer; Corrido De Elena; Corrido De Rafaelita	SRC0001	Peerless			pending
+Beatriz Adriana Y Pedro Infante	1	REC000701	Carta Y Contestacion De Eufemia	SRC0001	Peerless			pending
+Beatriz Eugenia y Luis Lozano	1	REC002944	Las Mañanitas	SRC0001	Peerless			pending
+Bertha Y Juan	2	REC001669; REC002311	El Jilguerillo; Hoy Te Digo Adios	SRC0001	Peerless			pending
+Carlos Y Gela	2	REC000151; REC005120	Al Ver; Tu Santa Madre	SRC0001	Peerless			pending
+Cirila Y Celedonio	2	REC000441; REC001790	Ay Cuanto Quiero A Mi Consuelito; El Potrancon	SRC0001	Peerless			pending
+Cuates Castilla Y Ana Morena	2	REC001476; REC001685	El Chinito De La Habana; El Limpiabotas	SRC0001	Peerless			pending
+Cuco Y Lupe	6	REC000669; REC000696; REC001560; REC001722; REC002081	Cariño Falso; Carta Fatal; El Diablo Y Yo; El Mosquito Americano; Esta Noche Me Emborracho	SRC0001	Peerless			pending
+Duarte y sus Corsarios	2	REC001494; REC002863	El Compadre De Tololoche; La Vieja De Pancho	SRC0001	Peerless			pending
+Dueto Adan Y Eva	22	REC000489; REC000843; REC000942; REC000954; REC001361	Barrio Alegre; Con Rabia Y Despecho; Corrido De Heraclio Bernal; Corrido De Nicolas Zurdo Flores; El Anillo Grabado	SRC0001	Peerless			pending
+Dueto Aguila Y Sol	26	REC000110; REC000175; REC000182; REC000518; REC000603	Adrede; Alma Angelina; Alma De Mi Grandota; Besos De Papel; Camioncito Flecha Roja	SRC0001	Peerless			pending
+Dueto Blanco Y Negro	8	REC000647; REC000648; REC000915; REC001024; REC004258	Cantinero; Cantinero; Corona De Espadas; Cuando Nadie Te Quiera; Puro Amor	SRC0001	Peerless			pending
+Dueto Carlos Y Alicia	2	REC001938; REC002232	El Volado; Güera Color De Rosa	SRC0001	Peerless			pending
+Dueto Sanchez Y Galvez	2	REC001626; REC003231	El Güero; Maria Teresa	SRC0001	Peerless			pending
+Dueto Timbre Y Sobre	2	REC001531; REC003498	El Cuatro Lenguas; Mirando Arriba	SRC0001	Peerless			pending
+El Charro Y La Adelita	2	REC000813; REC004694	Como Una Colilla; Siempre Fui Tu General	SRC0001	Peerless			pending
+Erendira Y Rene	2	REC000046; REC003968	A Rebozasos; Para Que Quiero Un Amor	SRC0001	Peerless			pending
+Hermanas Cora Y Hermanos Zaizar	2	REC002742; REC004930	La Pascasia; Te Vas A Lavar La Boca	SRC0001	Peerless			pending
+La Panchita Y Amapola	4	REC000809; REC004104; REC004673; REC004983	Como Que No!; Por Andar De Hablador; Si No Me Puedes Querer; Tierra De Dios	SRC0001	Peerless			pending
+La Prieta Linda y Hermanos Zaizar	2	REC002798; REC003718	La Rielera; No Soy Culpable	SRC0001	Peerless			pending
+Laurita y Ray	18	REC000206; REC000224; REC000522; REC000739; REC000741	Amapolita; Amigo Pulque; Bigotes; Chapala; Chapultepec	SRC0001	Peerless			pending
+Lola Beltran Y Hnos. Michel	4	REC001078; REC001083; REC001267; REC001523	Cucurrucucu Paloma; Cucurucucu Paloma; Donde Estas Juventud; El Crucifijo De Piedra	SRC0001	Peerless			pending
+Lola Beltran y Los Tres Cotorros	2	REC001416; REC004403	El Caballo Bayo; Que Ya Te Vas?	SRC0001	Peerless			pending
+Lola Beltran Y Prieta Linda	2	REC004102; REC004506	Por Adorarte; Rio Crecido	SRC0001	Peerless			pending
+Luis Aguilar - Emilio Galvez y Roberto G. Rivera	2	REC000945; REC000946	Corrido de Lopez Mateos Soy Puro Mexicano; Corrido de Lopez Mateos Soy Puro Mexicano	SRC0001	Peerless			pending
+Lupe y Bella	2	REC001508; REC001546	El Corrido De Montana; El Descalzo	SRC0001	Peerless			pending
+Manuel Nuñez Y Goty	2	REC002805; REC002998	La Segunda Despedida; Limosna De Un Hijo	SRC0001	Peerless			pending
+Martha Y Felipe	2	REC003118; REC003916	Los Mecanicos; Palabra Que Da Coraje	SRC0001	Peerless			pending
+Martin Y Catita	7	REC000847; REC000931; REC003248; REC003640; REC004158	Conchita; Corrido De Cananea; Mateo Magdaleno; No Les Pido Amor De Caridad; Por Ti Lloro	SRC0001	Peerless			pending
+Martin Y Eloisa	38	REC000009; REC000010; REC000076; REC000364; REC000407	A La Guerra Me Llevan; A La Guerra Me Llevan; Adelita; Arandas; Asi Semos En Jalisco	SRC0001	Peerless			pending
+Martin Y Malena	91	REC000003; REC000066; REC000098; REC000143; REC000209	!Ay! No No; Aca Nomas; Adios Mujer; Al Patriotico 201; Amargado De La Vida	SRC0001	Peerless			pending
+Martin Y Martita	14	REC000446; REC001378; REC001649; REC001740; REC002249	AY! Uruapan; El Bandolero Mexicano; El Huerfano; El Nuevo Mezquite; Hasta La Pregunta Es Necia	SRC0001	Peerless			pending
+Pedro Patricio Y Panfilo Patricio	1	REC003560	Musica De La Danza De Chananscua	SRC0001	Peerless			pending
+Pepe Y Lulu	4	REC000074; REC001522; REC003050; REC003240	Adelaida; El Crimen De Cuajimalpa; Lo Pasado Pasado; Marque Mi Corazon	SRC0001	Peerless			pending
+Pimentel Y Ledezma	2	REC002285; REC002548	Historia De Un Amor; La Enramada	SRC0001	Peerless			pending
+Poncho Y Martha	4	REC000919; REC000928; REC001506; REC003984	Corrido A La Noria; Corrido De Arnulfo Gonzalez; El Corrido De Felipe Angeles; Paso Del Norte	SRC0001	Peerless			pending
+Rodolfo y Beatriz	2	REC001034; REC004785	Cuando Salgo A Los Campos; Son Las 11 De La Noche	SRC0001	Peerless			pending
+Tere Y Maricela	2	REC003656; REC004905	No Me Hables De Ese Amor; Te Quedas O Te Vas	SRC0001	Peerless			pending
+Victor Cordero Y Martita	6	REC000253; REC002289; REC002655; REC003721; REC003740	Amor Del Alma; Hoja De Un Arbol; La Mariquita; No Soy Guarin; No Tengo Amigos	SRC0001	Peerless			pending
