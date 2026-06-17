@@ -5,3 +5,200 @@ GRP0003	Conjunto Casino		Conjunto	Cuba	GEN0001	SRC0003	high	approved	2026-06-16	
 GRP0004	Trío Matamoros		Trio	Cuba	GEN0001	SRC0003	high	approved	2026-06-16	2026-06-16
 GRP0005	Billo's Caracas Boys		Orchestra	Venezuela	GEN0007	SRC0003	high	approved	2026-06-16	2026-06-16
 GRP0006	Juan Luis Guerra 440		Band	Dominican Republic	GEN0008	SRC0003	high	approved	2026-06-16	2026-06-16
+GRP0007	Banda De El Limon, Sinaloa		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0008	Banda De Galeana Michoacan De Bonifacio Contreras		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0009	Banda De Galeana, Michoacan		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0010	Banda De Policía De Mexico		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0011	Banda El Recodo De Cruz Lizárraga		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0012	Banda Los Tamazulas		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0013	Banda Los Tamazulas De Culiacan		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0014	Banda Mochis De Porfirio Amarillas		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0015	Banda Regional Sinaloense		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0016	Banda Regional Sinaloense De Cruz Lizárraga		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0017	Banda Regional Sinaloense Los Escamillas De Carlos Peña		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0018	Banda Sinaloense De Mazatlan		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0019	Banda Sinaloense Los Rubio De Mocorito		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0020	Banda Tamazulas		banda			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0021	Conjunto Africa		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0022	Conjunto Armonico De Juan G. Esquivel		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0023	Conjunto De Arpa Grande De Timoteo Mireles		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0024	Conjunto De Raúl Macías		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0025	Conjunto Del Maestro Heliodoro Oseguera		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0026	Conjunto Hermanos Fuentes		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0027	Conjunto Los Abuelitos		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0028	Conjunto Los Norteñitos De Atilano Aguilar		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0029	Conjunto Medellin		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0030	Conjunto Medellin De Lino Chávez		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0031	Conjunto Peerless		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0032	Conjunto San Benito Alegre		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0033	Conjunto Tlalixcoyan		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0034	Conjunto Veracruzano De Chucho G. Machuca		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0035	Conjunto Veracruzano Villa Del Mar De Angel Valencia		conjunto			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0036	Dueto Alma Criolla		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0037	Dueto Alvarado		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0038	Dueto Azteca		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0039	Dueto Barcelata - Cortazar		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0040	Dueto Beltran		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0041	Dueto De La Laguna		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0042	Dueto Hermanos Estrella		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0043	Dueto Hermanos Huesca		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0044	Dueto Las Guerrilleras De La Frontera		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0045	Dueto Los Chamacones		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0046	Dueto Los Lechugueros		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0047	Dueto Los Sultanes		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0048	Dueto Los Valedores		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0049	Dueto Martinez - Gil		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0050	Dueto Miguel Aceves - Chelo Flores		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0051	Dueto Monterrey		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0052	Dueto Regiomontano		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0053	Dueto Romantico		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0054	Dueto Rubio		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0055	Dueto San Martin		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0056	Dueto San Miguel		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0057	Dueto Sanchez - Becerra		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0058	Dueto Sensacion		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0059	Dueto Sorpresa		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0060	Dueto Sánchez Galvez		duo			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0061	Las Alteñas		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0062	Las Calandrias		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0063	Las Cancioneras Del Panuco		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0064	Las Carrancistas		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0065	Las Dos Rosas		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0066	Las Estrellitas		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0067	Las Golondrinas		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0068	Las Guerrilleras		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0069	Las Hermanas Aguila		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0070	Las Hermanas Pulido		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0071	Las Norteñitas		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0072	Las Perlitas		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0073	Las Potranquitas Del Norte		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0074	Las Preferidas		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0075	Las Virrey		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0076	Los Abuelitos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0077	Los Alegres De Sabinas		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0078	Los Alegres Laguneros		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0079	Los Alegres de Terán		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0080	Los Apson		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0081	Los Broncos De Reynosa		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0082	Los Cancioneros Del Bajío		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0083	Los Cardenales		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0084	Los Charangos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0085	Los Charros De Ameca		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0086	Los Charros De Ameca De Roman Palomar		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0087	Los Cinco Del Norte		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0088	Los Corraleros De Majagual		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0089	Los Criollos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0090	Los Dorados De Terán		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0091	Los Dos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0092	Los Dos Luceritos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0093	Los Dos Palomos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0094	Los Duendes		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0095	Los Elegantes		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0096	Los Errantes		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0097	Los Escamilla		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0098	Los Galleros		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0099	Los Gallos De Oro		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0100	Los Halcones Del Norte		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0101	Los Hermanos Bañuelos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0102	Los Jilgueros De La Loma		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0103	Los Johnny Jets		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0104	Los Lechugueros		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0105	Los Llopis		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0106	Los Lobos Del Norte		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0107	Los Madrugadores Del Valle		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0108	Los Margaritos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0109	Los Modernistas De Morelos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0110	Los Oros		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0111	Los Pajarillos Del Norte		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0112	Los Pajaritos Del Norte		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0113	Los Palillos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0114	Los Panterones De Torreon		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0115	Los Plateados De Nicandro Castillo		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0116	Los Potros		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0117	Los Quijotes		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0118	Los Rancheritos Del Norte		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0119	Los Rayos De Chuy Luviano		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0120	Los Reno		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0121	Los Sembradores Del Naranjo		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0122	Los Seven Days		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0123	Los Sicodelicos Del Norte		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0124	Los Soberanos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0125	Los Solitarios		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0126	Los Tecolines		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0127	Los Tecolinos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0128	Los Teporingos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0129	Los Tequileros De Cesar Suedan		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0130	Los Tres Vaqueros		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0131	Los Trincas		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0132	Los Trincos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0133	Los Triunfadores Del Norte		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0134	Los Trovadores Del Palenque		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0135	Los Trovadores Del Viejo Elpidio		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0136	Los Trovadores Huastecos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0137	Los Trovadores Huastecos Del Viejo Elpidio		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0138	Los Trovadores Plateados		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0139	Los Trovadores Tropicales		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0140	Los Trovadors Plateados		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0141	Los Vagabundos Del Norte		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0142	Los Xochimilcas		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0143	Los Yumbos		group			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0144	Mariachi Colimense		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0145	Mariachi De Alfredo Serna		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0146	Mariachi De Juan Güitrón		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0147	Mariachi De Roman Palomar		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0148	Mariachi Estrella		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0149	Mariachi Estrella De Boni Collazo		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0150	Mariachi Estrella De Bony Collazo		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0151	Mariachi Guadalajara		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0152	Mariachi Guadalajara De Silvestre Vargas		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0153	Mariachi Guadalaraja De Silvestre Vargas		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0154	Mariachi Güitrón		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0155	Mariachi Jalisco De Pepe Villa		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0156	Mariachi Los Abajeños		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0157	Mariachi Los Coyotes		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0158	Mariachi Los Tecolotes		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0159	Mariachi Los Vargas De Arturo Mendoza		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0160	Mariachi Marmolejo		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0161	Mariachi Mexico		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0162	Mariachi Mexico De Pepe Villa		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0163	Mariachi Miguel Diaz		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0164	Mariachi Murcielagos De Chapala		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0165	Mariachi Perla De Occidente		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0166	Mariachi Pulido		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0167	Mariachi Serna		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0168	Mariachi Tapatio		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0169	Mariachi Tapatio Marmolejo		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0170	Mariachi Vargas		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0171	Mariachi Vargas De Tecalitlán		mariachi			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0172	Trio Alma Hidalguense		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0173	Trio Alma Hidalguense De Hilarión Hernández G.		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0174	Trio Argentino		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0175	Trio Bohemio		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0176	Trio Cantarrecio		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0177	Trio Casino		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0178	Trio Cervantes		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0179	Trio Copacaban		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0180	Trio Copacabaña		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0181	Trio Dorados De Villa		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0182	Trio Durango		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0183	Trio Guayacan		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0184	Trio Hermanos Michel		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0185	Trio Hnos. Michel		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0186	Trio Janitzio		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0187	Trio Los Dandys		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0188	Trio Los Embajadores		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0189	Trio Los Halcones		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0190	Trio Los Jaibos		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0191	Trio Los Jaibos y Catalina Hernandez		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0192	Trio Los Jinetes		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0193	Trio Los Madrigales		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0194	Trio Los Paisanos		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0195	Trio Los Pepes		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0196	Trio Los Yucas		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0197	Trio Martinez Gil		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0198	Trio Mensajeros del Bajío		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0199	Trio San Juan		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0200	Trio San Juan y Catalina Hernandez		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0201	Trio Tariacuri		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0202	Trio Taxqueño		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+GRP0203	Trio Trovador		trio			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
