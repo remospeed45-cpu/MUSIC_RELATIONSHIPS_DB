@@ -92,5 +92,5 @@ Clean promote SRC0003 batch0001 from restored staging, using current clean maste
 - recording_source: 5701 -> 5752
 
 ### Commit And Git Status
-- Commit hash: pending
-- Git status: pending
+- Promotion commit hash: 0ba26e4
+- Git status after push verification: clean
