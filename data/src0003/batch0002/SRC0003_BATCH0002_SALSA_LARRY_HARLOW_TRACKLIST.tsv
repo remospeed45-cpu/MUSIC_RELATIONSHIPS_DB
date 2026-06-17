@@ -1,0 +1,6 @@
+source_id	batch_id	release_title	primary_artist	release_year	label	track_position	recording_title	source_url	evidence_status	review_status
+SRC0003	0002	Salsa	Orchestra Harlow	1974	Fania Records	A1	No Quiero	https://fania.com/eras/orquesta-harlow-salsa/	source_verified	candidate
+SRC0003	0002	Salsa	Orchestra Harlow	1974	Fania Records	A2	La Cartera	https://fania.com/eras/orquesta-harlow-salsa/	source_verified	candidate
+SRC0003	0002	Salsa	Orchestra Harlow	1974	Fania Records	A3	Popo Pa' Mi	https://fania.com/eras/orquesta-harlow-salsa/	source_verified	candidate
+SRC0003	0002	Salsa	Orchestra Harlow	1974	Fania Records	B1	El Paso De Encarnacion	https://fania.com/eras/orquesta-harlow-salsa/	source_verified	candidate
+SRC0003	0002	Salsa	Orchestra Harlow	1974	Fania Records	B2	No Hay Amigo	https://fania.com/eras/orquesta-harlow-salsa/	source_verified	candidate
