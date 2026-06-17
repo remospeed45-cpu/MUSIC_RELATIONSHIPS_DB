@@ -1,0 +1,5 @@
+song_id	group_id	relationship_type	source_id	confidence	review_status
+SONG001130	GRP0250	derived_from_updated_recording_artist	SRC0001	medium	staged
+SONG001460	GRP0249	derived_from_updated_recording_artist	SRC0001	medium	staged
+SONG002113	GRP0250	derived_from_updated_recording_artist	SRC0001	medium	staged
+SONG002905	GRP0249	derived_from_updated_recording_artist	SRC0001	medium	staged
