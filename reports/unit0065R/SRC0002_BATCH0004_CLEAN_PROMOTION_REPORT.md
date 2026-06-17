@@ -84,5 +84,5 @@ Rebuild clean promotion for SRC0002 batch0004 from restored staging, using curre
 - recording_source: 5600 -> 5660
 
 ### Commit And Git Status
-- Commit hash: pending
-- Git status: pending
+- Promotion commit hash: e5d219c
+- Git status after push verification: clean
