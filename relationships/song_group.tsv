@@ -1646,3 +1646,7 @@ SONG004129	GRP0211	derived_from_recovered_recording_group	SRC0001	medium-high	ap
 SONG004132	GRP0243	derived_from_recovered_recording_group	SRC0001	medium-high	approved
 SONG004160	GRP0208	derived_from_recovered_recording_group	SRC0001	medium-high	approved
 SONG004164	GRP0209	derived_from_recovered_recording_group	SRC0001	medium-high	approved
+SONG001130	GRP0250	derived_from_updated_recording_artist	SRC0001	medium	approved
+SONG001460	GRP0249	derived_from_updated_recording_artist	SRC0001	medium	approved
+SONG002113	GRP0250	derived_from_updated_recording_artist	SRC0001	medium	approved
+SONG002905	GRP0249	derived_from_updated_recording_artist	SRC0001	medium	approved
