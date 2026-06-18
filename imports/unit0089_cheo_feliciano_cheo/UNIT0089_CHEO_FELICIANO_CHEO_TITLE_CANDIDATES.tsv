@@ -1,0 +1,5 @@
+unit_id	source_id	raw_artist	raw_release	raw_title	canonical_recording_title	canonical_song_title	primary_performer	label_name	evidence_source	evidence_status	confidence	review_status	notes
+UNIT-0089	SRC0003	Cheo Feliciano	Cheo	Anacaona	Anacaona	Anacaona	Cheo Feliciano	Fania	prior_fania_text_verified	fania_text_verified	high	candidate	carry-forward from prior clean Cheo acquisition notes
+UNIT-0089	SRC0003	Cheo Feliciano	Cheo	Pa Que Afinquen	Pa Que Afinquen	Pa Que Afinquen	Cheo Feliciano	Fania	prior_fania_text_verified	fania_text_verified	high	candidate	carry-forward from prior clean Cheo acquisition notes
+UNIT-0089	SRC0003	Cheo Feliciano	Cheo	Mi Triste Problema	Mi Triste Problema	Mi Triste Problema	Cheo Feliciano	Fania	prior_fania_text_verified	fania_text_verified	high	candidate	carry-forward from prior clean Cheo acquisition notes
+UNIT-0089	SRC0003	Cheo Feliciano	Cheo	Si Por Mi Llueve	Si Por Mi Llueve	Si Por Mi Llueve	Cheo Feliciano	Fania	prior_fania_text_verified	fania_text_verified	high	candidate	carry-forward from prior clean Cheo acquisition notes
