@@ -1,0 +1,4 @@
+recording_id	canonical_recording_title	canonical_song_id	primary_group_id	primary_performer_id	recording_genre_id	release_id	label_id	recording_year	country	language	source_id	confidence	review_status	created_at	updated_at
+REC005858	Mi Gente	SONG004355		PER000334		REL000032	LBL000005				SRC0003	high	approved	2026-06-17	2026-06-17
+REC005859	Mucho Amor	SONG004452		PER000334		REL000032	LBL000005				SRC0003	high	approved	2026-06-17	2026-06-17
+REC005860	Tus Ojos	SONG004453		PER000334		REL000032	LBL000005				SRC0003	high	approved	2026-06-17	2026-06-17
