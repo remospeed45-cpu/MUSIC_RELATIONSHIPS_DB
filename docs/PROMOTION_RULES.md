@@ -29,3 +29,9 @@ Push completed units.
 
 RULE-0010
 Document every process improvement.
+
+RULE-0011
+Use primary_artist exactly as stored in source tracklist unless later authority correction is needed.
+
+RULE-0012
+Multi-artist blocks are allowed when all releases come from validated local source tracklists.

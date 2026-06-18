@@ -19,3 +19,11 @@ This confirms that the system should prioritize recording relationships over son
 
 LESSON-0006
 A successful block unit should be followed by one block audit, not one audit per release.
+
+LESSON-0007
+UNIT-0102 showed that not every block will reuse SONG_ID values.
+Some artist blocks may add mostly new songs, but block promotion still reduces overhead.
+
+LESSON-0008
+Report display names must follow source evidence.
+UNIT-0102 source uses Orchestra Harlow, even if discovery note used Larry Harlow.

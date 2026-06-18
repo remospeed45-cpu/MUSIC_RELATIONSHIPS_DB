@@ -32,3 +32,10 @@ UNIT-0100 confirmed block promotion works:
 IMPROVEMENT-0010
 Delta staging is sufficient for block promotion:
 UNIT-0100 avoided full master backup and committed only useful staging/report/script artifacts.
+
+IMPROVEMENT-0011
+UNIT-0102 confirmed multi-artist block promotion works:
+13 recordings promoted across 2 performers and 2 releases in one unit.
+
+IMPROVEMENT-0012
+For SRC0003 tracklists already stored locally, promotion should proceed directly from source TSV files without additional research.
