@@ -1,0 +1,9 @@
+unit_id	source_id	raw_artist	raw_release	raw_title	canonical_recording_title	canonical_song_title	primary_performer	label_name	evidence_source	evidence_status	confidence	review_status	notes
+UNIT-0094	SRC0003	Héctor Lavoe	La Voz	El Todopoderoso	El Todopoderoso	El Todopoderoso	Héctor Lavoe	Fania	UNIT0073_candidate_plus_common_fania_tracklist	source_text_pending	medium	candidate	La Voz title
+UNIT-0094	SRC0003	Héctor Lavoe	La Voz	Emborráchame De Amor	Emborráchame De Amor	Emborráchame De Amor	Héctor Lavoe	Fania	UNIT0073_candidate_plus_common_fania_tracklist	source_text_pending	medium	candidate	La Voz title
+UNIT-0094	SRC0003	Héctor Lavoe	La Voz	Paraíso De Dulzura	Paraíso De Dulzura	Paraíso De Dulzura	Héctor Lavoe	Fania	UNIT0073_candidate_plus_common_fania_tracklist	source_text_pending	medium	candidate	La Voz title
+UNIT-0094	SRC0003	Héctor Lavoe	La Voz	Un Amor De La Calle	Un Amor De La Calle	Un Amor De La Calle	Héctor Lavoe	Fania	UNIT0073_candidate_plus_common_fania_tracklist	source_text_pending	medium	candidate	La Voz title
+UNIT-0094	SRC0003	Héctor Lavoe	La Voz	Rompe Saraguey	Rompe Saraguey	Rompe Saraguey	Héctor Lavoe	Fania	UNIT0073_candidate_plus_common_fania_tracklist	source_text_pending	medium	candidate	La Voz title
+UNIT-0094	SRC0003	Héctor Lavoe	La Voz	Muchachita	Muchachita	Muchachita	Héctor Lavoe	Fania	UNIT0073_candidate_plus_common_fania_tracklist	source_text_pending	medium	candidate	La Voz title
+UNIT-0094	SRC0003	Héctor Lavoe	La Voz	El Rey De La Puntualidad	El Rey De La Puntualidad	El Rey De La Puntualidad	Héctor Lavoe	Fania	UNIT0073_candidate_plus_common_fania_tracklist	source_text_pending	medium	candidate	La Voz title
+UNIT-0094	SRC0003	Héctor Lavoe	La Voz	Las Flores Del Campo	Las Flores Del Campo	Las Flores Del Campo	Héctor Lavoe	Fania	UNIT0073_candidate_plus_common_fania_tracklist	source_text_pending	medium	candidate	La Voz title
