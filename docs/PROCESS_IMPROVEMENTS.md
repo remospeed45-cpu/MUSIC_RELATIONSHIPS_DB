@@ -24,3 +24,11 @@ Measure growth primarily through recordings added.
 IMPROVEMENT-0008
 Resolve release IDs dynamically.
 Never hardcode release IDs.
+
+IMPROVEMENT-0009
+UNIT-0100 confirmed block promotion works:
+17 candidate recordings promoted in one unit, with 0 songs added and 17 SONG_ID values reused.
+
+IMPROVEMENT-0010
+Delta staging is sufficient for block promotion:
+UNIT-0100 avoided full master backup and committed only useful staging/report/script artifacts.
