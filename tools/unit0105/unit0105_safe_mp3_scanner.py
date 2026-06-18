@@ -51,6 +51,9 @@ def get_tags(path):
     return tags
 
 def maybe_fpcalc(path):
+    # Fast scan mode: fingerprint disabled unless ENABLE_FPCALC=1
+    if os.environ.get("ENABLE_FPCALC", "0") != "1":
+        return "available" if shutil.which("fpcalc") else "", "skipped_fast_scan"
     fpcalc = shutil.which("fpcalc")
     if not fpcalc:
         return "", ""
