@@ -1,0 +1,10 @@
+unit_id	source_id	raw_artist	raw_release	raw_title	canonical_recording_title	canonical_song_title	primary_performer	label_name	evidence_source	evidence_status	confidence	review_status	notes
+UNIT-0091	SRC0003	Cheo Feliciano	Estampas	Los Entierros	Los Entierros	Los Entierros	Cheo Feliciano	Fania	data/src0003/cheo_feliciano/CHEO_FELICIANO_FAST_ID_TITLES.tsv	fania_text_verified	high	candidate	Estampas title
+UNIT-0091	SRC0003	Cheo Feliciano	Estampas	Estampa Marina	Estampa Marina	Estampa Marina	Cheo Feliciano	Fania	data/src0003/cheo_feliciano/CHEO_FELICIANO_FAST_ID_TITLES.tsv	fania_text_verified	high	candidate	Estampas title
+UNIT-0091	SRC0003	Cheo Feliciano	Estampas	Cualquier Cosa	Cualquier Cosa	Cualquier Cosa	Cheo Feliciano	Fania	data/src0003/cheo_feliciano/CHEO_FELICIANO_FAST_ID_TITLES.tsv	fania_text_verified	medium	candidate	Estampas title
+UNIT-0091	SRC0003	Cheo Feliciano	Estampas	Con Mis Memorias	Con Mis Memorias	Con Mis Memorias	Cheo Feliciano	Fania	data/src0003/cheo_feliciano/CHEO_FELICIANO_FAST_ID_TITLES.tsv	fania_text_verified	medium	candidate	Estampas title
+UNIT-0091	SRC0003	Cheo Feliciano	Estampas	Lucero	Lucero	Lucero	Cheo Feliciano	Fania	data/src0003/cheo_feliciano/CHEO_FELICIANO_FAST_ID_TITLES.tsv	fania_text_verified	medium	candidate	Estampas title
+UNIT-0091	SRC0003	Cheo Feliciano	Estampas	Lamento Guajiro	Lamento Guajiro	Lamento Guajiro	Cheo Feliciano	Fania	data/src0003/cheo_feliciano/CHEO_FELICIANO_FAST_ID_TITLES.tsv	fania_text_verified	medium	candidate	Estampas title
+UNIT-0091	SRC0003	Cheo Feliciano	Estampas	Tiempo Muerto	Tiempo Muerto	Tiempo Muerto	Cheo Feliciano	Fania	data/src0003/cheo_feliciano/CHEO_FELICIANO_FAST_ID_TITLES.tsv	fania_text_verified	medium	candidate	Estampas title
+UNIT-0091	SRC0003	Cheo Feliciano	Estampas	Así Soy	Así Soy	Así Soy	Cheo Feliciano	Fania	data/src0003/cheo_feliciano/CHEO_FELICIANO_FAST_ID_TITLES.tsv	fania_text_verified	medium	candidate	Estampas title
+UNIT-0091	SRC0003	Cheo Feliciano	Estampas	Desahogo	Desahogo	Desahogo	Cheo Feliciano	Fania	data/src0003/cheo_feliciano/CHEO_FELICIANO_FAST_ID_TITLES.tsv	fania_text_verified	medium	candidate	Estampas title
