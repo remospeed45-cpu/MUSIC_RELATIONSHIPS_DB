@@ -1,0 +1,4 @@
+review_unit	source_area	source_id	recording_id	song_id	title	artist_or_group_fields	release_id	label_id	confidence	review_status	review_note
+UNIT0082	cheo_candidate	SRC0003			El Parrandero	Cheo Feliciano	Felicidades		fania_text_candidate	needs_human_review	Cheo candidate from Felicidades; title matches existing master title.
+UNIT0082	recordings_master	SRC0001	REC001763	SONG001324	El Parrandero	group= performer=PER000127		LBL000003	high	approved	Existing master recording with same title.
+UNIT0082	songs_master	SRC0001		SONG001324	El Parrandero				medium	approved_title_candidate	Existing master song with same title.
