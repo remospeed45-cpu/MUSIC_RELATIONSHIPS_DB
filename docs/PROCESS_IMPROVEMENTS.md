@@ -39,3 +39,10 @@ UNIT-0102 confirmed multi-artist block promotion works:
 
 IMPROVEMENT-0012
 For SRC0003 tracklists already stored locally, promotion should proceed directly from source TSV files without additional research.
+
+IMPROVEMENT-0013
+UNIT-0100 through UNIT-0103 confirmed block mode is stable:
+30 recordings promoted across 4 releases using two promotion units and two block audits.
+
+IMPROVEMENT-0014
+Coverage reports should identify already-promoted local tracklists before opening new acquisition work.

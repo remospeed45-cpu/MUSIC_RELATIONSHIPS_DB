@@ -35,3 +35,9 @@ Use primary_artist exactly as stored in source tracklist unless later authority 
 
 RULE-0012
 Multi-artist blocks are allowed when all releases come from validated local source tracklists.
+
+RULE-0013
+Before new external acquisition, inventory local source tracklists and promote any unpromoted complete tracklists first.
+
+RULE-0014
+If source tracklist titles exactly match promoted release recordings, mark the release as PROMOTED_PASS and do not reopen it.
