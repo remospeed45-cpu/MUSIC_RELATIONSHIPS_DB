@@ -1,0 +1,7 @@
+target_id	artist_or_group	release_title	url	local_html	status
+BOBVAL001	Bobby Valentín	Rey del Bajo	https://fania.com/record/rey-del-bajo/	data/src0003/unit0086_fania_bulk/html/bobval001.html	downloaded
+ISMIR001	Ismael Miranda	https://fania.com/artist/ismael-miranda/	pending	data/src0003/unit0086_fania_bulk/html/ismir001.html	failed
+LARHAR001	Larry Harlow	https://fania.com/artist/larry-harlow/	pending	data/src0003/unit0086_fania_bulk/html/larhar001.html	failed
+CHEO001	Cheo Feliciano	https://fania.com/artist/cheo-feliciano/	pending	data/src0003/unit0086_fania_bulk/html/cheo001.html	failed
+HECLAV001	Héctor Lavoe	https://fania.com/artist/hector-lavoe/	pending	data/src0003/unit0086_fania_bulk/html/heclav001.html	failed
+RAYBAR001	Ray Barretto	https://fania.com/artist/ray-barretto/	pending	data/src0003/unit0086_fania_bulk/html/raybar001.html	failed
