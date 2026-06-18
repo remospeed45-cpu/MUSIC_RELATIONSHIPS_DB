@@ -1,0 +1,2 @@
+unit_id	source_id	raw_artist	raw_release	raw_title	canonical_recording_title	canonical_song_title	primary_group_or_performer	label_name	evidence_source	evidence_status	confidence	review_status	notes
+UNIT-0088	SRC0003	Bobby Valentín		TBD	TBD	TBD	Bobby Valentín	Fania	fania_text_pending	pending	medium	review	bulk title extraction seed
