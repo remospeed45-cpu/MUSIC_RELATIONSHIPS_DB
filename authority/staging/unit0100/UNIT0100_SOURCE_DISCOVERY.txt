@@ -1,0 +1,86 @@
+data/src0003/batch0002/SRC0003_BATCH0002_RELEASE_CANDIDATES.tsv:4:Así Se Compone Un Son	Ismael Miranda	LP	Fania Records	SRC0003	A	core_fania_artist_absent	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ESTE_ES_ISMAEL_MIRANDA_TRACKLIST.tsv:2:SRC0003	0002	Este Es Ismael Miranda	Ismael Miranda	1975	Fania Records	1	La Cosa No Es Como Antes	https://ismaelmiranda.bandcamp.com/album/este-es-ismael-miranda	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ESTE_ES_ISMAEL_MIRANDA_TRACKLIST.tsv:3:SRC0003	0002	Este Es Ismael Miranda	Ismael Miranda	1975	Fania Records	2	Puerto Abandonado	https://ismaelmiranda.bandcamp.com/album/este-es-ismael-miranda	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ESTE_ES_ISMAEL_MIRANDA_TRACKLIST.tsv:4:SRC0003	0002	Este Es Ismael Miranda	Ismael Miranda	1975	Fania Records	3	Yo no Me Quejo	https://ismaelmiranda.bandcamp.com/album/este-es-ismael-miranda	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ESTE_ES_ISMAEL_MIRANDA_TRACKLIST.tsv:5:SRC0003	0002	Este Es Ismael Miranda	Ismael Miranda	1975	Fania Records	4	Cipriano Armenteros	https://ismaelmiranda.bandcamp.com/album/este-es-ismael-miranda	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ESTE_ES_ISMAEL_MIRANDA_TRACKLIST.tsv:6:SRC0003	0002	Este Es Ismael Miranda	Ismael Miranda	1975	Fania Records	5	Madre	https://ismaelmiranda.bandcamp.com/album/este-es-ismael-miranda	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ESTE_ES_ISMAEL_MIRANDA_TRACKLIST.tsv:7:SRC0003	0002	Este Es Ismael Miranda	Ismael Miranda	1975	Fania Records	6	María Luisa	https://ismaelmiranda.bandcamp.com/album/este-es-ismael-miranda	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ESTE_ES_ISMAEL_MIRANDA_TRACKLIST.tsv:8:SRC0003	0002	Este Es Ismael Miranda	Ismael Miranda	1975	Fania Records	7	En Mi Viejo San Juan	https://ismaelmiranda.bandcamp.com/album/este-es-ismael-miranda	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_TRACKLIST.tsv:2:SRC0003	0002	Así Se Compone Un Son	Ismael Miranda	1973	Fania Records	A1	Así Se Compone Un Son	https://fania.com/record/asi-se-compone-un-son/	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_TRACKLIST.tsv:3:SRC0003	0002	Así Se Compone Un Son	Ismael Miranda	1973	Fania Records	A2	Nicolás	https://fania.com/record/asi-se-compone-un-son/	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_TRACKLIST.tsv:4:SRC0003	0002	Así Se Compone Un Son	Ismael Miranda	1973	Fania Records	A3	Sálvame	https://fania.com/record/asi-se-compone-un-son/	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_TRACKLIST.tsv:5:SRC0003	0002	Así Se Compone Un Son	Ismael Miranda	1973	Fania Records	A4	Ahora Sí	https://fania.com/record/asi-se-compone-un-son/	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_TRACKLIST.tsv:6:SRC0003	0002	Así Se Compone Un Son	Ismael Miranda	1973	Fania Records	A5	Me Voy Pa' Colombia	https://fania.com/record/asi-se-compone-un-son/	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_TRACKLIST.tsv:7:SRC0003	0002	Así Se Compone Un Son	Ismael Miranda	1973	Fania Records	B1	Cuídate Bien	https://fania.com/record/asi-se-compone-un-son/	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_TRACKLIST.tsv:8:SRC0003	0002	Así Se Compone Un Son	Ismael Miranda	1973	Fania Records	B2	Mulence	https://fania.com/record/asi-se-compone-un-son/	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_TRACKLIST.tsv:9:SRC0003	0002	Así Se Compone Un Son	Ismael Miranda	1973	Fania Records	B3	Las Cuarentas	https://fania.com/record/asi-se-compone-un-son/	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_TRACKLIST.tsv:10:SRC0003	0002	Así Se Compone Un Son	Ismael Miranda	1973	Fania Records	B4	Sonerito	https://fania.com/record/asi-se-compone-un-son/	source_verified	candidate
+data/src0003/batch0002/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_TRACKLIST.tsv:11:SRC0003	0002	Así Se Compone Un Son	Ismael Miranda	1973	Fania Records	B5	Ahora Que Estoy Sabroso	https://fania.com/record/asi-se-compone-un-son/	source_verified	candidate
+data/src0003/cheo_feliciano/record_3_felicidades.html:146:Justo Betancourt, Hector Lavoe, Ismael Miranda, Ismael Quintana</p>
+data/src0003/unit0086_fania_bulk/UNIT0086_DOWNLOAD_MANIFEST.tsv:3:ISMIR001	Ismael Miranda	https://fania.com/artist/ismael-miranda/	pending	data/src0003/unit0086_fania_bulk/html/ismir001.html	failed
+data/src0003/unit0086_fania_bulk/UNIT0086_TARGETS.tsv:3:A	Ismael Miranda		additional Ismael Miranda Fania records	pending
+data/src0003/unit0086_fania_bulk/UNIT0086_SEED_URLS.tsv:3:ISMIR001	Ismael Miranda		https://fania.com/artist/ismael-miranda/	pending
+reports/unit0087/UNIT0087_CLOSURE_REPORT.md:11:- Ismael Miranda candidates
+reports/unit0087/UNIT0087_BULK_PROMOTION_REPORT.md:8:- Ismael Miranda candidates
+reports/unit0077/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_EXTRACTION_REPORT.md:10:Así Se Compone Un Son
+reports/unit0077/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_EXTRACTION_REPORT.md:13:Ismael Miranda
+reports/unit0077/SRC0003_BATCH0002_ASI_SE_COMPONE_UN_SON_EXTRACTION_REPORT.md:31:Fania confirms Así Se Compone Un Son and identifies the main album tracks.
+reports/unit0077/SRC0003_BATCH0002_ISMAEL_MIRANDA_MULTI_RELEASE_REPORT.md:10:Ismael Miranda
+reports/unit0077/SRC0003_BATCH0002_ISMAEL_MIRANDA_MULTI_RELEASE_REPORT.md:20:1. Así Se Compone Un Son
+reports/unit0077/SRC0003_BATCH0002_ISMAEL_MIRANDA_MULTI_RELEASE_REPORT.md:38:Add additional Ismael Miranda releases before commit.
+reports/unit0077/SRC0003_BATCH0002_ISMAEL_MIRANDA_MULTI_RELEASE_REPORT.md:41:Este Es Ismael Miranda
+reports/unit0077/SRC0003_BATCH0002_ISMAEL_MIRANDA_MULTI_RELEASE_REPORT.md:47:Este Es Ismael Miranda
+reports/unit0077/SRC0003_BATCH0002_ISMAEL_MIRANDA_MULTI_RELEASE_REPORT.md:59:Validation for Este Es Ismael Miranda:
+reports/unit0077/SRC0003_BATCH0002_ISMAEL_MIRANDA_MULTI_RELEASE_REPORT.md:74:Ismael Miranda
+reports/unit0077/SRC0003_BATCH0002_ISMAEL_MIRANDA_MULTI_RELEASE_REPORT.md:79:1. Así Se Compone Un Son
+reports/unit0077/SRC0003_BATCH0002_ISMAEL_MIRANDA_MULTI_RELEASE_REPORT.md:80:2. Este Es Ismael Miranda
+reports/unit0085/UNIT0085_SRC0003_DISCOVERY_ROUND2.md:23:Ismael Miranda:
+reports/unit0085/UNIT0085_SRC0003_DISCOVERY_ROUND2.md:33:1. Ismael Miranda
+reports/unit0071/SRC0003_BATCH0001_CLEAN_PROMOTION_REPORT.md:45:- Ismael Miranda (performer_candidate_needs_review)
+reports/unit0073/SRC0003_BATCH0002_DISCOVERY_REPORT.md:65:3. Así Se Compone Un Son — Ismael Miranda
+reports/unit0084/UNIT0084_ISMAEL_EXPANSION_PLAN.md:4:Ismael Miranda
+reports/unit0084/UNIT0084_ISMAEL_EXPANSION_PLAN.md:18:Acquire additional Ismael Miranda releases before promotion.
+reports/unit0084/UNIT0084_DISCOVERY_STATUS.md:7:Ismael Miranda
+reports/unit0084/UNIT0084_DISCOVERY_STATUS.md:10:1. Así Se Compone Un Son
+reports/unit0084/UNIT0084_DISCOVERY_STATUS.md:11:2. Este Es Ismael Miranda
+reports/unit0084/UNIT0084_DISCOVERY_STATUS.md:17:No additional Ismael Miranda releases are currently present in local SRC0003 discovery artifacts.
+reports/unit0084/UNIT0084_DISCOVERY_STATUS.md:23:Run a new SRC0003 release discovery cycle to locate additional Ismael Miranda releases before further extraction.
+authority/staging/src0003_batch0001_artist_candidates.tsv:7:SRC0003-B0001-ART006	performer_candidate_needs_review	medium-high	Artist text appears on Fania official shop product page for release 'Live At Yankee Stadium Vol. 1': Ismael Miranda	Ismael Miranda	SRC0003-B0001-REL003	Live At Yankee Stadium Vol. 1	staged_for_review	SRC0003	Fania Records	https://fania.com/products/fania-all-stars-live-at-yankee-stadium-vol-1-lp	https://fania.com/products/fania-all-stars-live-at-yankee-stadium-vol-1-lp
+authority/staging/src0003_batch0001_recordings.tsv:19:Fania All Stars (Vocals: Ismael Miranda)	SRC0003-B0001-REC018	high	Fania official shop product page: release='Live At Yankee Stadium Vol. 1', track='A1', raw_track='Que Rico Suena Mi Tambor'	18	Fania Records	Que Rico Suena Mi Tambor	Que Rico Suena Mi Tambor		SRC0003-B0001-REL003	LP	Salsa / Latin Soul	Fania All Stars	Live At Yankee Stadium Vol. 1		staged_for_review	A	SRC0003	Fania Records	https://fania.com/products/fania-all-stars-live-at-yankee-stadium-vol-1-lp#track-A1	https://fania.com/products/fania-all-stars-live-at-yankee-stadium-vol-1-lp	1
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:2:Así Se Compone Un Son	Ismael Miranda	Así Se Compone Un Son
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:3:Así Se Compone Un Son	Ismael Miranda	Nicolás
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:4:Así Se Compone Un Son	Ismael Miranda	Sálvame
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:5:Así Se Compone Un Son	Ismael Miranda	Ahora Sí
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:6:Así Se Compone Un Son	Ismael Miranda	Me Voy Pa' Colombia
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:7:Así Se Compone Un Son	Ismael Miranda	Cuídate Bien
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:8:Así Se Compone Un Son	Ismael Miranda	Mulence
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:9:Así Se Compone Un Son	Ismael Miranda	Las Cuarentas
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:10:Así Se Compone Un Son	Ismael Miranda	Sonerito
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:11:Así Se Compone Un Son	Ismael Miranda	Ahora Que Estoy Sabroso
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:12:Este Es Ismael Miranda	Ismael Miranda	La Cosa No Es Como Antes
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:13:Este Es Ismael Miranda	Ismael Miranda	Puerto Abandonado
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:14:Este Es Ismael Miranda	Ismael Miranda	Yo no Me Quejo
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:15:Este Es Ismael Miranda	Ismael Miranda	Cipriano Armenteros
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:16:Este Es Ismael Miranda	Ismael Miranda	Madre
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:17:Este Es Ismael Miranda	Ismael Miranda	María Luisa
+authority/staging/src0003_batch0002_ismael_miranda_candidates.tsv:18:Este Es Ismael Miranda	Ismael Miranda	En Mi Viejo San Juan
+authority/staging/src0003_batch0001_recording_promotion.tsv:19:SRC0003-B0001-REC018	NEW	REC005717	Que Rico Suena Mi Tambor	SONG004351	GRP0279		REL000022		no_exact_title_conclusive_artist_match	SRC0003	Fania Records	https://fania.com/products/fania-all-stars-live-at-yankee-stadium-vol-1-lp	SRC0003-B0001-REL003	Live At Yankee Stadium Vol. 1	Fania All Stars	Salsa / Latin Soul	LP			A	1	18	Que Rico Suena Mi Tambor	Fania All Stars (Vocals: Ismael Miranda)	https://fania.com/products/fania-all-stars-live-at-yankee-stadium-vol-1-lp#track-A1	Fania official shop product page: release='Live At Yankee Stadium Vol. 1', track='A1', raw_track='Que Rico Suena Mi Tambor'	high	staged_for_review
+authority/staging/src0003_batch0001_artist_promotion.tsv:7:SRC0003-B0001-ART006	SRC0003	Fania Records	https://fania.com/products/fania-all-stars-live-at-yankee-stadium-vol-1-lp	Ismael Miranda	performer_candidate_needs_review	REVIEW_REQUIRED			artist_candidate_requires_review	SRC0003-B0001-REL003	Live At Yankee Stadium Vol. 1	https://fania.com/products/fania-all-stars-live-at-yankee-stadium-vol-1-lp	Artist text appears on Fania official shop product page for release 'Live At Yankee Stadium Vol. 1': Ismael Miranda	medium-high	staged_for_review
+authority/backups/unit0097/songs_master.before_unit0097.tsv:4420:SONG004419	Así Se Compone Un Son						SRC0003	medium	approved_title_candidate	2026-06-17	2026-06-17
+authority/backups/unit0097/recordings_master.before_unit0097.tsv:5788:REC005787	Así Se Compone Un Son	SONG004419									SRC0003	medium	approved	2026-06-17	2026-06-17
+authority/backups/unit0090/songs_master.tsv.before_unit0090.tsv:4420:SONG004419	Así Se Compone Un Son						SRC0003	medium	approved_title_candidate	2026-06-17	2026-06-17
+authority/backups/unit0090/recordings_master.tsv.before_unit0090.tsv:5788:REC005787	Así Se Compone Un Son	SONG004419									SRC0003	medium	approved	2026-06-17	2026-06-17
+authority/backups/unit0093/recordings_master.tsv.before_unit0093.tsv:5788:REC005787	Así Se Compone Un Son	SONG004419									SRC0003	medium	approved	2026-06-17	2026-06-17
+authority/backups/unit0093/songs_master.tsv.before_unit0093.tsv:4420:SONG004419	Así Se Compone Un Son						SRC0003	medium	approved_title_candidate	2026-06-17	2026-06-17
+authority/backups/unit0098/recordings_master.tsv.before_unit0098.tsv:5788:REC005787	Así Se Compone Un Son	SONG004419									SRC0003	medium	approved	2026-06-17	2026-06-17
+authority/backups/unit0098/songs_master.tsv.before_unit0098.tsv:4420:SONG004419	Así Se Compone Un Son						SRC0003	medium	approved_title_candidate	2026-06-17	2026-06-17
+authority/backups/unit0091/recordings_master.tsv.before_unit0091.tsv:5788:REC005787	Así Se Compone Un Son	SONG004419									SRC0003	medium	approved	2026-06-17	2026-06-17
+authority/backups/unit0091/songs_master.tsv.before_unit0091.tsv:4420:SONG004419	Así Se Compone Un Son						SRC0003	medium	approved_title_candidate	2026-06-17	2026-06-17
+authority/backups/unit0088/songs_master.tsv.before_unit0088.tsv:4420:SONG004419	Así Se Compone Un Son						SRC0003	medium	approved_title_candidate	2026-06-17	2026-06-17
+authority/backups/unit0088/recordings_master.tsv.before_unit0088.tsv:5788:REC005787	Así Se Compone Un Son	SONG004419									SRC0003	medium	approved	2026-06-17	2026-06-17
+authority/backups/unit0094/recordings_master.tsv.before_unit0094.tsv:5788:REC005787	Así Se Compone Un Son	SONG004419									SRC0003	medium	approved	2026-06-17	2026-06-17
+authority/backups/unit0094/songs_master.tsv.before_unit0094.tsv:4420:SONG004419	Así Se Compone Un Son						SRC0003	medium	approved_title_candidate	2026-06-17	2026-06-17
+authority/backups/unit0092/songs_master.tsv.before_unit0092.tsv:4420:SONG004419	Así Se Compone Un Son						SRC0003	medium	approved_title_candidate	2026-06-17	2026-06-17
+authority/backups/unit0092/recordings_master.tsv.before_unit0092.tsv:5788:REC005787	Así Se Compone Un Son	SONG004419									SRC0003	medium	approved	2026-06-17	2026-06-17
+authority/recordings/recordings_master.tsv:5788:REC005787	Así Se Compone Un Son	SONG004419									SRC0003	medium	approved	2026-06-17	2026-06-17
+authority/songs/songs_master.tsv:4420:SONG004419	Así Se Compone Un Son						SRC0003	medium	approved_title_candidate	2026-06-17	2026-06-17
