@@ -1,0 +1,12 @@
+status	title
+MATCH	El Todopoderoso
+MATCH	Emborráchame De Amor
+MATCH	Paraíso De Dulzura
+MATCH	Rompe Saraguey
+MATCH	Un Amor De La Calle
+REMOVE	El Rey De La Puntualidad
+REMOVE	Las Flores Del Campo
+REMOVE	Muchachita
+ADD	Mi Gente
+ADD	Mucho Amor
+ADD	Tus Ojos
