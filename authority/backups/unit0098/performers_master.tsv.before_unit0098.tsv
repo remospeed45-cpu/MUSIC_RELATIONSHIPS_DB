@@ -1,0 +1,335 @@
+performer_id	canonical_performer_name	alternate_names	performer_type	country	primary_genre_id	source_id	confidence	review_status	created_at	updated_at
+PER000001	Celia Cruz	Úrsula Hilaria Celia de la Caridad Cruz Alfonso	vocalist	Cuba	GEN0001	SRC0003	high	approved	2026-06-16	2026-06-16
+PER000002	Daniel Santos	Daniel Doroteo Santos Betancourt	vocalist	Puerto Rico	GEN0002	SRC0003	high	approved	2026-06-16	2026-06-16
+PER000003	Bienvenido Granda	Bienvenido Rosendo Granda Aguilera	vocalist	Cuba	GEN0001	SRC0003	high	approved	2026-06-16	2026-06-16
+PER000004	A. De Montenegro		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000005	Abel Domínguez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000006	Adelita		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000007	Adrian Gallardo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000008	Agueda Curiel		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000009	Agustín Lara		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000010	Alberto Dominguez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000011	Alberto Suarez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000012	Alejandro De Montenegro		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000013	Alejandro Martinez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000014	Alejandro Montenegro		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000015	Alex Sosa		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000016	Alfonso Bruschetta		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000017	Alfonso Ortiz Tirado		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000018	Alicia Maria		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000019	Amalia Macias		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000020	Amparo Montes		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000021	Ana María		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000022	Andrés Huesca		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000023	Angel Infante		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000024	Angel Montañez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000025	Anselmo Alvarado		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000026	Antar Daly		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000027	Antinoco Garibay		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000028	Antonio Badu		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000029	Antonio Tanguma		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000030	Armando Blancarte		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000031	Beatriz Adriana		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000032	Beatriz Eugenia		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000033	Blas Salazar		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000034	Bulmaro Paleo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000035	Carlos Alas Del Casino		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000036	Carlos Madrigal		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000037	Carlos Spaventa		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000038	Carlos Valadez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000039	Carmela		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000040	Carmen Cardenal		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000041	Carmen Del Real		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000042	Chabela Durán		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000043	Chagua González		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000044	Charro Gil		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000045	Chelo Silva		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000046	Chucho Monge		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000047	Chuy Luviano		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000048	Conchita Del Mar		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000049	Cuco Sanchez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000050	Dalia Iñiguez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000051	Daltas		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000052	David Zaizar		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000053	Demetrio González		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000054	Don Rogelio		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000055	Eduardo Alexander		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000056	Eduardo Del Campo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000057	Eduardo Lara H.		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000058	Eduardo Solis		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000059	El Negro Marcelino		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000060	Emilio Barney		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000061	Emilio Tuero		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000062	Emily Cranz		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000063	Enrique Alejandro		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000064	Enrique Olivarez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000065	Esmeralda		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000066	Fco. Spaventa		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000067	Federico Curiel		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000068	Felipe B. Gil		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000069	Felipe Bermejo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000070	Felipe Pérez Lopez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000071	Fernando Rios		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000072	Fernando Rosas		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000073	Fernando Zaizar		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000074	Filiberto Parra		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000075	Frankie		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000076	Frankle		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000077	Gaby Daltas		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000078	Genaro Salinas		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000079	George Jay		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000080	Gilberto Lazaro Gaona		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000081	Gonzalo Curiel		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000082	Gualberto Castro		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000083	Guillermo Alvarez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000084	Gustavo Morales		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000085	Guty Cárdenas		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000086	Hector Galeana Serna		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000087	Hemanas Hernandez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000088	Heriberto Molina		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000089	Hermanas Aguila		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000090	Hermanas Barocio		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000091	Hermanas Cora		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000092	Hermanas Del Valle		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000093	Hermanas Hernandes		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000094	Hermanas Hernández		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000095	Hermanas Luna		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000096	Hermanas Medrano		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000097	Hermanas Orozco		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000098	Hermanas Ruelas		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000099	Hermanas Velazquez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000100	Hermanos Calderon		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000101	Hermanos Cárdenas		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000102	Hermanos Huesca		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000103	Hermanos Luna		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000104	Hermanos Michel		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000105	Hermanos Orozco		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000106	Hermanos Recio		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000107	Hermanos Zaizar		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000108	Hnas. Hernandez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000109	Hnos. Carrillo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000110	Hnos. Huesca		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000111	Hnos. Martinez Gil		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000112	Homero Rodriguez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000113	Humberto Bethancourt		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000114	Jaime Nolla Reyes		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000115	Jesus Bernal		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000116	Johnny Lopez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000117	Jorge Fernández		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000118	Jorge Ledezma		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000119	Jorge M. Dada		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000120	Jose Luis Caro		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000121	José Agustin Hernandez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000122	José Contreras		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000123	José Luis Vazquez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000124	José Martin		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000125	Juan Arvizú		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000126	Juan Manuel Colombo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000127	Juan Mendoza		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000128	Juan Murrieta		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000129	Juan Zaizar		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000130	Juanita Escoto		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000131	Julio Aldama		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000132	Julio Flores		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000133	Julio Jaramillo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000134	La Gran Rondalla Mexicana De Tata Nacho		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000135	La Marimba Chiapaneca		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000136	La Mexicanita		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000137	La Niebla		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000138	La Panchita		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000139	La Prieta Linda		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000140	La Rosa Michoacana		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000141	La Torcacita		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000142	Lalo Guerrero		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000143	Laura Alegria		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000144	Leandro Espinoza		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000145	Licha Ramos		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000146	Lino Lujan		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000147	Lira De San Cristóbal		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000148	Lira De San Cristóbal Marimba		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000149	Lola Beltrán		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000150	Lolita Sandoval C.		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000151	Los Baby’s		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000152	Los Blue Angel’s		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000153	Los Freddy’s		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000154	Los Sonor’s		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000155	Los Xochimilcas Trio De La Playa		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000156	Luis Arcaraz		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000157	Luis Demetrio		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000158	Luis G. Roldan		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000159	Luis Lozano		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000160	Luis Pérez Meza		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000161	Lupe Aguilar		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000162	Lupe Mejia		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000163	Lupita Alday		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000164	Lupita Cabrera		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000165	Lupita Carmona		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000166	Lupita Moran		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000167	Lupita Palomera		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000168	Lupita Parra		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000169	Lupita Tovar		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000170	Lydia Mendoza		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000171	Maciste		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000172	Magda Franco		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000173	Manolita Arreola		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000174	Manuel D. Núñez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000175	Manuel Lopez Ochoa		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000176	Manuelita Arriola		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000177	Marco Antonio Vazquez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000178	Marga Llergo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000179	Margarita Romero		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000180	Margarita Sierra		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000181	Maria Alma		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000182	Maria Cristina		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000183	Maria De Jesus Vasquez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000184	Maria De Jesus Vazquez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000185	Maria De Lourdes		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000186	Maria Elena Sandova		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000187	Maria Elena Sandoval		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000188	Maria Izquierdo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000189	Maria Trinidad		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000190	Marilu		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000191	Marimba Chiapaneca		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000192	Marimba Cuquita De los Hermanos Narváez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000193	Marimba Cuquita De los Hnos. Narváez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000194	Marimba De Los Hermanos Paniagua		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000195	Marimba De Los Hnos. Paniaga		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000196	Marimba Hermanos Paniagua		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000197	Marimba Hnos. Paniagua		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000198	Mario A. Rodriguez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000199	Mario Alberto Rodríguez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000200	Mario F. Porta		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000201	Mario Robledo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000202	Mario Rodriguez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000203	Marta Triana		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000204	Martha Laura		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000205	Martha Triana		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000206	Martin Becerra		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000207	Martita		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000208	María Luisa Landín		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000209	Memo Lugo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000210	Memo Salamanca		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000211	Miguel Aceves Mejía		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000212	Miguel Angel Torres		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000213	Miguel De Gonzalo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000214	Nano Molina		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000215	Negrito Barrios		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000216	Nestor Chayres		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000217	Noé Bahena		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000218	Ody Duran		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000219	Olga Darson		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000220	Ortiz Tirado		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000221	Oscar Lopez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000222	Paco Betancourt		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000223	Pareja Quiroz		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000224	Pedro Galindo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000225	Pedro Infante		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000226	Pedro Vargas		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000227	Pepe Gavilan		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000228	Pepe Infante		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000229	Pepe Peña		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000230	Pepe Vasquez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000231	Prieta Linda		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000232	Queta Jimenez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000233	Rafael Cabrera		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000234	Rafael De Paz		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000235	Ramón Manzo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000236	Raquel Domenech		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000237	Raquel Esparza Montañez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000238	Raul Martinez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000239	Renato López Magaña		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000240	Ricardo Barquera		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000241	Ricardo Duardo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000242	Rodolfo Castillo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000243	Rolando Arce		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000244	Rosa Maria		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000245	Rosa Maria Mayer		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000246	Rosario De Alba		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000247	Ruben Mendez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000248	Rudy Macias Quintet		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000249	Salvador García		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000250	Salvador Huerta		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000251	Salvador S. Najera		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000252	Salvajes De La Frontera		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000253	Santa Oviedo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000254	Sebastian Muñoz		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000255	Severiano Briseno		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000256	Son Yumuri		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000257	Tito Enriquez		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000258	Tito Güizar		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000259	Tomas Andres		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000260	Tomas Mendez Sosa		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000261	Tony Camargo		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000262	Toña La Negra		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000263	Toña Montiel		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000264	Tropical Caribe De Miguel Aguilar		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000265	Tropical Florida		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000266	Trovadores Huastecos		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000267	Trovadores Huastecos del Viejo Elpidio		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000268	Trovadores Tlalixcoyanos		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000269	Trío Calaveras		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000270	Trío Guerrerense		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000271	Trío Los Compadres		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000272	Trío Tamaulipas		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000273	Ventura Romero		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000274	Veronica Castro		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000275	Vicente Garrido		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000276	Vicente Herrera		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000277	Vicentico Valdés		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000278	Vicentico Valdéz		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000279	Victor Cordero		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000280	Wayne Gregg		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000281	unknown artist		vocalist			SRC0001	high	raw_extracted	2026-06-16	2026-06-16
+PER000282	Hermanos Zaizar - Prieta Linda		recovered_performer			SRC0001	medium-high	approved	2026-06-17	2026-06-17
+PER000283	Pimentel - Ledezma		recovered_performer			SRC0001	medium-high	approved	2026-06-17	2026-06-17
+PER000284	Emilio Tuero - Hnas. Aguila		recovered_performer			SRC0001	medium-high	approved	2026-06-17	2026-06-17
+PER000285	Juan Arvizú - Mario Talavera		recovered_performer			SRC0001	medium-high	approved	2026-06-17	2026-06-17
+PER000286	Luis Aquiles Orchestra		recovered_performer			SRC0001	medium-high	approved	2026-06-17	2026-06-17
+PER000287	D’Artega Orchestra		recovered_performer			SRC0001	medium-high	approved	2026-06-17	2026-06-17
+PER000288	Carlos Madrigal - Emilio Galvez		recovered_performer			SRC0001	medium-high	approved	2026-06-17	2026-06-17
+PER000289	Montane - Andrade - Jimenez		recovered_performer			SRC0001	medium-high	approved	2026-06-17	2026-06-17
+PER000290	Prieta Linda - Hermanos Zaizar		recovered_performer			SRC0001	medium-high	approved	2026-06-17	2026-06-17
+PER000291	N. Farjardo - L. Bravo - A. Islas		recovered_performer			SRC0001	medium-high	approved	2026-06-17	2026-06-17
+PER000292	Bob & Tony		recovered_performer			SRC0001	medium-high	approved	2026-06-17	2026-06-17
+PER000293	Alarcon Leal Y La Tamaulipeca		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000294	Alegres De Terán Y Marcelo Y Aurelia		gemini_reviewed_multiple_performers			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000295	Angelina Y Tono		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000296	Beatriz Adriana Y Pedro Infante		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000297	Beatriz Eugenia y Luis Lozano		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000298	Bertha Y Juan		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000299	Carlos Y Gela		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000300	Cirila Y Celedonio		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000301	Cuates Castilla Y Ana Morena		gemini_reviewed_multiple_performers			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000302	Cuco Y Lupe		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000303	Dueto Adan Y Eva		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000304	Dueto Aguila Y Sol		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000305	Dueto Blanco Y Negro		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000306	Dueto Carlos Y Alicia		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000307	Dueto Sanchez Y Galvez		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000308	Dueto Timbre Y Sobre		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000309	El Charro Y La Adelita		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000310	Erendira Y Rene		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000311	Hermanas Cora Y Hermanos Zaizar		gemini_reviewed_multiple_performers			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000312	La Panchita Y Amapola		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000313	La Prieta Linda y Hermanos Zaizar		gemini_reviewed_multiple_performers			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000314	Laurita y Ray		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000315	Lola Beltran Y Hnos. Michel		gemini_reviewed_multiple_performers			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000316	Lola Beltran y Los Tres Cotorros		gemini_reviewed_multiple_performers			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000317	Lola Beltran Y Prieta Linda		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000318	Luis Aguilar - Emilio Galvez y Roberto G. Rivera		gemini_reviewed_multiple_performers			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000319	Lupe y Bella		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000320	Manuel Nuñez Y Goty		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000321	Martha Y Felipe		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000322	Martin Y Catita		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000323	Martin Y Eloisa		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000324	Martin Y Malena		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000325	Martin Y Martita		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000326	Pedro Patricio Y Panfilo Patricio		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000327	Pepe Y Lulu		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000328	Pimentel Y Ledezma		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000329	Poncho Y Martha		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000330	Rodolfo y Beatriz		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000331	Tere Y Maricela		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000332	Victor Cordero Y Martita		gemini_reviewed_duo			SRC0001	medium	approved	2026-06-17	2026-06-17
+PER000333	Cheo Feliciano					SRC0003	high	approved	2026-06-17	2026-06-17
+PER000334	Héctor Lavoe					SRC0003	high	approved	2026-06-17	2026-06-17
