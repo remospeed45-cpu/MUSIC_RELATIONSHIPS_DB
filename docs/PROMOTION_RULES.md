@@ -41,3 +41,13 @@ Before new external acquisition, inventory local source tracklists and promote a
 
 RULE-0014
 If source tracklist titles exactly match promoted release recordings, mark the release as PROMOTED_PASS and do not reopen it.
+
+RULE-0015
+MP3 organization priority:
+1. Identify existing MP3s against local database.
+2. Reuse known recording/song/performer/release relationships.
+3. Only research unknown or unmatched MP3s.
+4. Never modify MP3 files during scan.
+
+RULE-0016
+Scanner outputs must be TSV files suitable for later promotion or placement planning.

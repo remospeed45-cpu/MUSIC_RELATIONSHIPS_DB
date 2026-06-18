@@ -46,3 +46,16 @@ UNIT-0100 through UNIT-0103 confirmed block mode is stable:
 
 IMPROVEMENT-0014
 Coverage reports should identify already-promoted local tracklists before opening new acquisition work.
+
+IMPROVEMENT-0015
+Shift from manual relationship entry to MP3-driven database growth.
+
+The project goal is organizing MP3 files. Therefore future work should prioritize:
+- scanning MP3 filenames and tags
+- matching against recordings_master and songs_master
+- identifying unknown MP3s
+- promoting relationships needed for actual files
+
+IMPROVEMENT-0016
+External tools such as beets, chromaprint/fpcalc, mutagen, and pyacoustid may be used only in safe read-only mode first.
+No MP3 rename, move, or metadata write is allowed without a placement plan.
