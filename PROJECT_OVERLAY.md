@@ -167,3 +167,48 @@ Return all known recordings.
 Given a recording:
 
 Return song, performer, release, label, source, evidence, and confidence.
+
+------------------------------------------------------------------------------
+
+HIGH-YIELD SOURCE FIRST STRATEGY (MANDATORY)
+
+Project objective:
+
+Acquire authority data as efficiently as possible to maximize MP3 organization,
+identification and coverage.
+
+Mandatory rules:
+
+- Prioritize source-level acquisition over release-level acquisition.
+- Prioritize inventory-level extraction over artist-by-artist workflows.
+- Evaluate pending sources by expected authority volume before starting work.
+- Process highest-yield sources first.
+- Prefer:
+
+  source inventory
+  -> mass extraction
+  -> mass normalization
+  -> mass promotion
+
+  over:
+
+  source
+  -> release
+  -> release
+  -> release
+
+- Small releases are secondary and should only be processed when:
+  - they belong to a larger extraction batch, or
+  - no higher-yield source exists.
+
+- Minimize manual review whenever safe automated recovery is possible.
+
+- Avoid strategic drift toward discographic completeness.
+
+Primary optimization metric:
+
+Authority gained per unit of work.
+
+When multiple paths exist, select the path with the highest expected authority gain.
+
+------------------------------------------------------------------------------
