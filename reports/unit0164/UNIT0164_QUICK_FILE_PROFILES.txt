@@ -1,0 +1,171 @@
+
+----- authority/staging/unit0119/UNIT0119_PROMOTION_READY_FROM_RECOVERY.tsv -----
+lines:
+1 authority/staging/unit0119/UNIT0119_PROMOTION_READY_FROM_RECOVERY.tsv
+header:
+     1	unit_candidate_id
+     2	source_id
+     3	source_row
+     4	release_title
+     5	product_title
+     6	release_url
+     7	artist_name
+     8	candidate_title
+     9	review_class
+    10	review_detail
+    11	existing_recording_id
+    12	existing_song_id
+    13	matched_performer_id
+    14	matched_group_id
+    15	resolved_release_id
+    16	source_tracklist_status
+    17	source_extract_method
+    18	candidate_title_clean
+    19	extracted_artist_name
+    20	split_status
+    21	recovered_match_type
+    22	recovered_performer_id
+    23	recovered_group_id
+    24	recovered_entity_name
+    25	recovery_status
+    26	final_candidate_title
+    27	final_artist_name
+    28	final_performer_id
+    29	final_group_id
+    30	unit0119_status
+    31	unit0119_recheck_reasons
+first rows:
+unit_candidate_id	source_id	source_row	release_title	product_title	release_url	artist_name	candidate_title	review_class	review_detail	existing_recording_id	existing_song_id	matched_performer_id	matched_group_id	resolved_release_id	source_tracklist_status	source_extract_method	candidate_title_clean	extracted_artist_name	split_status	recovered_match_type	recovered_performer_id	recovered_group_id	recovered_entity_name	recovery_status	final_candidate_title	final_artist_name	final_performer_id	final_group_id	unit0119_status	unit0119_recheck_reasons
+
+----- authority/staging/unit0119/UNIT0119_STILL_REVIEW_REQUIRED.tsv -----
+lines:
+160 authority/staging/unit0119/UNIT0119_STILL_REVIEW_REQUIRED.tsv
+header:
+     1	unit_candidate_id
+     2	source_id
+     3	source_row
+     4	release_title
+     5	product_title
+     6	release_url
+     7	artist_name
+     8	candidate_title
+     9	review_class
+    10	review_detail
+    11	existing_recording_id
+    12	existing_song_id
+    13	matched_performer_id
+    14	matched_group_id
+    15	resolved_release_id
+    16	source_tracklist_status
+    17	source_extract_method
+    18	candidate_title_clean
+    19	extracted_artist_name
+    20	split_status
+    21	recovered_match_type
+    22	recovered_performer_id
+    23	recovered_group_id
+    24	recovered_entity_name
+    25	recovery_status
+    26	final_candidate_title
+    27	final_artist_name
+    28	final_performer_id
+    29	final_group_id
+    30	unit0119_status
+    31	unit0119_recheck_reasons
+first rows:
+unit_candidate_id	source_id	source_row	release_title	product_title	release_url	artist_name	candidate_title	review_class	review_detail	existing_recording_id	existing_song_id	matched_performer_id	matched_group_id	resolved_release_id	source_tracklist_status	source_extract_method	candidate_title_clean	extracted_artist_name	split_status	recovered_match_type	recovered_performer_id	recovered_group_id	recovered_entity_name	recovery_status	final_candidate_title	final_artist_name	final_performer_id	final_group_id	unit0119_status	unit0119_recheck_reasons
+UNIT0113-01-001	SRC0002	1	USB - Colección Música Colombiana	USB - Colección Música Colombiana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-canciones-musica-colombiana/	Varios Intérpretes	Yo Tambien TuveVeinteAños	performer_conflict	performer_or_group_not_resolved_to_authority;release_not_resolved_to_authority;short_description_only_source						complete_or_exceeds_track_count	short_description	Yo Tambien TuveVeinteAños		no_split	none				not_recovered	Yo Tambien TuveVeinteAños				review_required	performer_or_group_unresolved;release_unresolved;short_description_only_source
+UNIT0113-04-001	SRC0002	4	USB - Colección 100 Exitos de Música Cubana	USB - Colección 100 Exitos de Música Cubana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-exitos-de-musica-cubana/	Varios Artistas	El Carretero – Guillermo Portabales	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000012	partial_10_of_15	description_tab	El Carretero	Guillermo Portabales	split	none				split_only	El Carretero	Guillermo Portabales	PER000339		review_required	partial_source_tracklist
+UNIT0113-04-002	SRC0002	4	USB - Colección 100 Exitos de Música Cubana	USB - Colección 100 Exitos de Música Cubana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-exitos-de-musica-cubana/	Varios Artistas	Malao de Caña – La Sonora Matancera	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000012	partial_10_of_15	description_tab	Malao de Caña	La Sonora Matancera	split	none				split_only	Malao de Caña	La Sonora Matancera		GRP0286	review_required	partial_source_tracklist
+UNIT0113-04-003	SRC0002	4	USB - Colección 100 Exitos de Música Cubana	USB - Colección 100 Exitos de Música Cubana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-exitos-de-musica-cubana/	Varios Artistas	El Que Siembra Su Maíz – Orquesta de Bebo Valdés	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000012	partial_10_of_15	description_tab	El Que Siembra Su Maíz	Orquesta de Bebo Valdés	split	group		GRP0269	Orquesta de Bebo Valdés	recovered_entity	El Que Siembra Su Maíz	Orquesta de Bebo Valdés		GRP0269	review_required	partial_source_tracklist
+UNIT0113-04-004	SRC0002	4	USB - Colección 100 Exitos de Música Cubana	USB - Colección 100 Exitos de Música Cubana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-exitos-de-musica-cubana/	Varios Artistas	A San Lázaro (Babalú) – Celina y Reutilio	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000012	partial_10_of_15	description_tab	A San Lázaro (Babalú)	Celina y Reutilio	split	none				split_only	A San Lázaro (Babalú)	Celina y Reutilio		GRP0287	review_required	partial_source_tracklist
+
+----- authority/staging/unit0120/UNIT0120_PROMOTION_CANDIDATES.tsv -----
+lines:
+139 authority/staging/unit0120/UNIT0120_PROMOTION_CANDIDATES.tsv
+header:
+     1	unit_candidate_id
+     2	source_id
+     3	source_row
+     4	release_title
+     5	product_title
+     6	release_url
+     7	artist_name
+     8	candidate_title
+     9	review_class
+    10	review_detail
+    11	existing_recording_id
+    12	existing_song_id
+    13	matched_performer_id
+    14	matched_group_id
+    15	resolved_release_id
+    16	source_tracklist_status
+    17	source_extract_method
+    18	candidate_title_clean
+    19	extracted_artist_name
+    20	split_status
+    21	recovered_match_type
+    22	recovered_performer_id
+    23	recovered_group_id
+    24	recovered_entity_name
+    25	recovery_status
+    26	final_candidate_title
+    27	final_artist_name
+    28	final_performer_id
+    29	final_group_id
+    30	unit0119_status
+    31	unit0119_recheck_reasons
+    32	unit0120_status
+    33	unit0120_blockers
+first rows:
+unit_candidate_id	source_id	source_row	release_title	product_title	release_url	artist_name	candidate_title	review_class	review_detail	existing_recording_id	existing_song_id	matched_performer_id	matched_group_id	resolved_release_id	source_tracklist_status	source_extract_method	candidate_title_clean	extracted_artist_name	split_status	recovered_match_type	recovered_performer_id	recovered_group_id	recovered_entity_name	recovery_status	final_candidate_title	final_artist_name	final_performer_id	final_group_id	unit0119_status	unit0119_recheck_reasons	unit0120_status	unit0120_blockers
+UNIT0113-04-001	SRC0002	4	USB - Colección 100 Exitos de Música Cubana	USB - Colección 100 Exitos de Música Cubana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-exitos-de-musica-cubana/	Varios Artistas	El Carretero – Guillermo Portabales	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000012	partial_10_of_15	description_tab	El Carretero	Guillermo Portabales	split	none				split_only	El Carretero	Guillermo Portabales	PER000339		review_required	partial_source_tracklist	promotion_candidate	
+UNIT0113-04-002	SRC0002	4	USB - Colección 100 Exitos de Música Cubana	USB - Colección 100 Exitos de Música Cubana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-exitos-de-musica-cubana/	Varios Artistas	Malao de Caña – La Sonora Matancera	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000012	partial_10_of_15	description_tab	Malao de Caña	La Sonora Matancera	split	none				split_only	Malao de Caña	La Sonora Matancera		GRP0286	review_required	partial_source_tracklist	promotion_candidate	
+UNIT0113-04-003	SRC0002	4	USB - Colección 100 Exitos de Música Cubana	USB - Colección 100 Exitos de Música Cubana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-exitos-de-musica-cubana/	Varios Artistas	El Que Siembra Su Maíz – Orquesta de Bebo Valdés	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000012	partial_10_of_15	description_tab	El Que Siembra Su Maíz	Orquesta de Bebo Valdés	split	group		GRP0269	Orquesta de Bebo Valdés	recovered_entity	El Que Siembra Su Maíz	Orquesta de Bebo Valdés		GRP0269	review_required	partial_source_tracklist	promotion_candidate	
+UNIT0113-04-004	SRC0002	4	USB - Colección 100 Exitos de Música Cubana	USB - Colección 100 Exitos de Música Cubana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-exitos-de-musica-cubana/	Varios Artistas	A San Lázaro (Babalú) – Celina y Reutilio	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000012	partial_10_of_15	description_tab	A San Lázaro (Babalú)	Celina y Reutilio	split	none				split_only	A San Lázaro (Babalú)	Celina y Reutilio		GRP0287	review_required	partial_source_tracklist	promotion_candidate	
+UNIT0113-04-005	SRC0002	4	USB - Colección 100 Exitos de Música Cubana	USB - Colección 100 Exitos de Música Cubana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-exitos-de-musica-cubana/	Varios Artistas	Lupita – Fruko y Orquesta	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000012	partial_10_of_15	description_tab	Lupita	Fruko y Orquesta	split	group		GRP0270	Fruko y Orquesta	recovered_entity	Lupita	Fruko y Orquesta		GRP0270	review_required	partial_source_tracklist	promotion_candidate	
+
+----- authority/staging/unit0120/UNIT0120_REMAINING_REVIEW.tsv -----
+lines:
+22 authority/staging/unit0120/UNIT0120_REMAINING_REVIEW.tsv
+header:
+     1	unit_candidate_id
+     2	source_id
+     3	source_row
+     4	release_title
+     5	product_title
+     6	release_url
+     7	artist_name
+     8	candidate_title
+     9	review_class
+    10	review_detail
+    11	existing_recording_id
+    12	existing_song_id
+    13	matched_performer_id
+    14	matched_group_id
+    15	resolved_release_id
+    16	source_tracklist_status
+    17	source_extract_method
+    18	candidate_title_clean
+    19	extracted_artist_name
+    20	split_status
+    21	recovered_match_type
+    22	recovered_performer_id
+    23	recovered_group_id
+    24	recovered_entity_name
+    25	recovery_status
+    26	final_candidate_title
+    27	final_artist_name
+    28	final_performer_id
+    29	final_group_id
+    30	unit0119_status
+    31	unit0119_recheck_reasons
+    32	unit0120_status
+    33	unit0120_blockers
+first rows:
+unit_candidate_id	source_id	source_row	release_title	product_title	release_url	artist_name	candidate_title	review_class	review_detail	existing_recording_id	existing_song_id	matched_performer_id	matched_group_id	resolved_release_id	source_tracklist_status	source_extract_method	candidate_title_clean	extracted_artist_name	split_status	recovered_match_type	recovered_performer_id	recovered_group_id	recovered_entity_name	recovery_status	final_candidate_title	final_artist_name	final_performer_id	final_group_id	unit0119_status	unit0119_recheck_reasons	unit0120_status	unit0120_blockers
+UNIT0113-01-001	SRC0002	1	USB - Colección Música Colombiana	USB - Colección Música Colombiana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-canciones-musica-colombiana/	Varios Intérpretes	Yo Tambien TuveVeinteAños	performer_conflict	performer_or_group_not_resolved_to_authority;release_not_resolved_to_authority;short_description_only_source						complete_or_exceeds_track_count	short_description	Yo Tambien TuveVeinteAños		no_split	none				not_recovered	Yo Tambien TuveVeinteAños				review_required	performer_or_group_unresolved;release_unresolved;short_description_only_source	review_required	missing_performer_group;short_description_only_source
+UNIT0113-05-003	SRC0002	5	USB - Que Viva Diciembre	USB - Que Viva Diciembre	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-que-viva-diciembre/	Varios Artistas	03 Amor Serrano Demo	performer_conflict	performer_or_group_not_resolved_to_authority;release_not_resolved_to_authority;short_description_only_source						complete_or_exceeds_track_count	short_description	03 Amor Serrano Demo		no_split	none				not_recovered	03 Amor Serrano Demo				review_required	performer_or_group_unresolved;release_unresolved;short_description_only_source	review_required	missing_performer_group;short_description_only_source
+UNIT0113-12-001	SRC0002	12	USB - Colección 100 Exitos de Diciembre	USB - Colección 100 Exitos de Diciembre	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/coleccion-100-exitos-de-diciembre-usb-8-gb/	Varios Artistas	Feliz Nochebuena / Los Hispanos	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000017	partial_10_of_15	description_tab	Feliz Nochebuena / Los Hispanos		no_split	none				not_recovered	Feliz Nochebuena / Los Hispanos				review_required	performer_or_group_unresolved;partial_source_tracklist	review_required	missing_performer_group
+UNIT0113-12-003	SRC0002	12	USB - Colección 100 Exitos de Diciembre	USB - Colección 100 Exitos de Diciembre	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/coleccion-100-exitos-de-diciembre-usb-8-gb/	Varios Artistas	En la Nochebuena / La Sonora Matancera	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000017	partial_10_of_15	description_tab	En la Nochebuena / La Sonora Matancera		no_split	none				not_recovered	En la Nochebuena / La Sonora Matancera				review_required	performer_or_group_unresolved;partial_source_tracklist	review_required	missing_performer_group
+UNIT0113-12-004	SRC0002	12	USB - Colección 100 Exitos de Diciembre	USB - Colección 100 Exitos de Diciembre	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/coleccion-100-exitos-de-diciembre-usb-8-gb/	Varios Artistas	Ron de Vinola / Guillermo Buitrago	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000017	partial_10_of_15	description_tab	Ron de Vinola / Guillermo Buitrago		no_split	none				not_recovered	Ron de Vinola / Guillermo Buitrago				review_required	performer_or_group_unresolved;partial_source_tracklist	review_required	missing_performer_group
