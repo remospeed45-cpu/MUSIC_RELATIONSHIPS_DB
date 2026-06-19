@@ -1,0 +1,8 @@
+metric	count
+input_rows	100
+songs_to_append	100
+recordings_to_append	100
+first_song_id	SONG004682
+last_song_id	SONG004781
+first_recording_id	REC006106
+last_recording_id	REC006205

@@ -1,0 +1,5 @@
+metric	count
+input_rows	100
+clean_rows	100
+group_resolved	96
+performer_resolved	4
