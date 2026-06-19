@@ -1,0 +1,30 @@
+
+FILE: authority/staging/unit0161/UNIT0161_RECORDINGS_TO_APPEND.tsv
+101 authority/staging/unit0161/UNIT0161_RECORDINGS_TO_APPEND.tsv
+recording_id	canonical_recording_title	canonical_song_id	primary_group_id	primary_performer_id	recording_genre_id	release_id	label_id	recording_year	country	language	source_id	confidence	review_status	created_at	updated_at
+REC006106	La Cerveza	SONG004682	GRP0278							Spanish	SRC0002	medium	approved	2026-06-19	2026-06-19
+
+FILE: authority/staging/unit0161/UNIT0161_SONGS_TO_APPEND.tsv
+101 authority/staging/unit0161/UNIT0161_SONGS_TO_APPEND.tsv
+song_id	canonical_song_title	alternate_titles	composer	lyricist	country	language	source_id	confidence	review_status	created_at	updated_at
+SONG004682	La Cerveza					Spanish	SRC0002	medium	approved	2026-06-19	2026-06-19
+
+FILE: authority/staging/unit0158/UNIT0158_RECORDING_PROMOTION_CANDIDATES.tsv
+101 authority/staging/unit0158/UNIT0158_RECORDING_PROMOTION_CANDIDATES.tsv
+candidate_title	artist_name	source_id	release_title	candidate_status
+La Cerveza	Los Hispanos	SRC0002	USB - Colección 100 Exitos de Rodolfo Aicardi	promotion_candidate
+
+FILE: authority/staging/unit0158/UNIT0158_SONG_PROMOTION_CANDIDATES.tsv
+101 authority/staging/unit0158/UNIT0158_SONG_PROMOTION_CANDIDATES.tsv
+candidate_title	source_id	release_title	candidate_status
+La Cerveza	SRC0002	USB - Colección 100 Exitos de Rodolfo Aicardi	promotion_candidate
+
+FILE: authority/staging/unit0120/UNIT0120_PROMOTION_CANDIDATES.tsv
+139 authority/staging/unit0120/UNIT0120_PROMOTION_CANDIDATES.tsv
+unit_candidate_id	source_id	source_row	release_title	product_title	release_url	artist_name	candidate_title	review_class	review_detail	existing_recording_id	existing_song_id	matched_performer_id	matched_group_id	resolved_release_id	source_tracklist_status	source_extract_method	candidate_title_clean	extracted_artist_name	split_status	recovered_match_type	recovered_performer_id	recovered_group_id	recovered_entity_name	recovery_status	final_candidate_title	final_artist_name	final_performer_id	final_group_id	unit0119_status	unit0119_recheck_reasons	unit0120_status	unit0120_blockers
+UNIT0113-04-001	SRC0002	4	USB - Colección 100 Exitos de Música Cubana	USB - Colección 100 Exitos de Música Cubana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-exitos-de-musica-cubana/	Varios Artistas	El Carretero – Guillermo Portabales	performer_conflict	partial_or_estimated_source_tracklist;performer_or_group_not_resolved_to_authority					REL000012	partial_10_of_15	description_tab	El Carretero	Guillermo Portabales	split	none				split_only	El Carretero	Guillermo Portabales	PER000339		review_required	partial_source_tracklist	promotion_candidate	
+
+FILE: authority/staging/unit0120/UNIT0120_REMAINING_REVIEW.tsv
+22 authority/staging/unit0120/UNIT0120_REMAINING_REVIEW.tsv
+unit_candidate_id	source_id	source_row	release_title	product_title	release_url	artist_name	candidate_title	review_class	review_detail	existing_recording_id	existing_song_id	matched_performer_id	matched_group_id	resolved_release_id	source_tracklist_status	source_extract_method	candidate_title_clean	extracted_artist_name	split_status	recovered_match_type	recovered_performer_id	recovered_group_id	recovered_entity_name	recovery_status	final_candidate_title	final_artist_name	final_performer_id	final_group_id	unit0119_status	unit0119_recheck_reasons	unit0120_status	unit0120_blockers
+UNIT0113-01-001	SRC0002	1	USB - Colección Música Colombiana	USB - Colección Música Colombiana	https://tiendadiscosfuentes.com/productos/musica-memoria-usb/colecciones-usb/usb-coleccion-100-canciones-musica-colombiana/	Varios Intérpretes	Yo Tambien TuveVeinteAños	performer_conflict	performer_or_group_not_resolved_to_authority;release_not_resolved_to_authority;short_description_only_source						complete_or_exceeds_track_count	short_description	Yo Tambien TuveVeinteAños		no_split	none				not_recovered	Yo Tambien TuveVeinteAños				review_required	performer_or_group_unresolved;release_unresolved;short_description_only_source	review_required	missing_performer_group;short_description_only_source

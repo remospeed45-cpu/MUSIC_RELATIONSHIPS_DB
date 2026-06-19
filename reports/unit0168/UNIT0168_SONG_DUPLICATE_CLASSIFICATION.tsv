@@ -1,0 +1,127 @@
+normalized_title	count	classification	song_ids	titles	source_ids	review_statuses
+el jardinero	3	likely_number_prefix_duplicate	SONG001251|SONG004574|SONG004771	El Jardinero|10. El Jardinero|El Jardinero	SRC0001|SRC0002|SRC0002	approved_title_candidate|approved|approved
+la bruja	3	likely_number_prefix_duplicate	SONG001837|SONG004564|SONG004761	La Bruja|20. La Bruja|La Bruja	SRC0001|SRC0002|SRC0002	approved_title_candidate|approved|approved
+la suegra	3	likely_number_prefix_duplicate	SONG002077|SONG004531|SONG004726	La Suegra|5. La Suegra|La Suegra	SRC0001|SRC0002|SRC0002	approved_title_candidate|approved|approved
+ni cuerpo ni corazon	3	likely_number_prefix_duplicate	SONG002686|SONG004520|SONG004715	Ni Cuerpo Ni Corazon|14. Ni Cuerpo Ni Corazon|Ni Cuerpo Ni Corazon	SRC0001|SRC0002|SRC0002	approved_title_candidate|approved|approved
+plegaria	3	likely_number_prefix_duplicate	SONG003054|SONG004489|SONG004683	Plegaria|2. Plegaria|Plegaria	SRC0001|SRC0002|SRC0002	approved_title_candidate|approved|approved
+tengo celos	3	likely_number_prefix_duplicate	SONG003723|SONG004571|SONG004768	Tengo Celos|7. Tengo Celos|Tengo Celos	SRC0001|SRC0002|SRC0002	approved_title_candidate|approved|approved
+tu solo tu	3	needs_song_merge_review	SONG003864|SONG003876|SONG003878	Tu, Solo Tu|Tú Sólo Tú|Tú, Sólo Tú	SRC0001|SRC0001|SRC0001	approved_title_candidate|approved_title_candidate|approved_title_candidate
+veinte anos	3	likely_number_prefix_duplicate	SONG003969|SONG004582|SONG004779	Veinte Años|18. Veinte Años|Veinte Años	SRC0001|SRC0002|SRC0002	approved_title_candidate|approved|approved
+yo no fui	3	likely_number_prefix_duplicate	SONG004125|SONG004529|SONG004724	Yo No Fui|3. Yo No Fui|Yo No Fui	SRC0001|SRC0002|SRC0002	approved_title_candidate|approved|approved
+la cerveza	3	likely_number_prefix_duplicate	SONG004281|SONG004488|SONG004682	La Cerveza|1. La Cerveza|La Cerveza	SRC0002|SRC0002|SRC0002	approved|approved|approved
+feliz nochebuena	3	likely_number_prefix_duplicate	SONG004309|SONG004511|SONG004706	Feliz Nochebuena|5. Feliz Nochebuena|Feliz Nochebuena	SRC0002|SRC0002|SRC0002	approved|approved|approved
+ocho dias	3	likely_number_prefix_duplicate	SONG004490|SONG004593|SONG004684	3. Ocho Dias|Ocho Dias|Ocho Dias	SRC0002|SRC0002|SRC0002	approved|approved|approved
+boquita de caramelo	3	likely_number_prefix_duplicate	SONG004491|SONG004595|SONG004686	5. Boquita De Caramelo|Boquita De Caramelo|Boquita De Caramelo	SRC0002|SRC0002|SRC0002	approved|approved|approved
+me voy pa macondo	3	likely_number_prefix_duplicate	SONG004492|SONG004596|SONG004687	6. Me Voy Pa Macondo|Me Voy Pa Macondo|Me Voy Pa Macondo	SRC0002|SRC0002|SRC0002	approved|approved|approved
+tabaco y ron	3	likely_number_prefix_duplicate	SONG004493|SONG004597|SONG004688	7. Tabaco Y Ron|Tabaco Y Ron|Tabaco Y Ron	SRC0002|SRC0002|SRC0002	approved|approved|approved
+asi empezaron papa y mama	3	likely_number_prefix_duplicate	SONG004494|SONG004598|SONG004689	8. Asi Empezaron Papa Y Mama|Asi Empezaron Papa Y Mama|Asi Empezaron Papa Y Mama	SRC0002|SRC0002|SRC0002	approved|approved|approved
+la conoci un domingo	3	likely_number_prefix_duplicate	SONG004495|SONG004599|SONG004690	9. La Conoci Un Domingo|La Conoci Un Domingo|La Conoci Un Domingo	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el papelito blanco	3	likely_number_prefix_duplicate	SONG004496|SONG004600|SONG004691	10. El Papelito Blanco|El Papelito Blanco|El Papelito Blanco	SRC0002|SRC0002|SRC0002	approved|approved|approved
+olvidemos el pasado	3	likely_number_prefix_duplicate	SONG004497|SONG004601|SONG004692	11. Olvidemos El Pasado|Olvidemos El Pasado|Olvidemos El Pasado	SRC0002|SRC0002|SRC0002	approved|approved|approved
+carinito	3	likely_number_prefix_duplicate	SONG004498|SONG004602|SONG004693	12. Cariñito|Cariñito|Cariñito	SRC0002|SRC0002|SRC0002	approved|approved|approved
+fiesta en mi pueblo	3	likely_number_prefix_duplicate	SONG004499|SONG004603|SONG004694	13. Fiesta En Mi Pueblo|Fiesta En Mi Pueblo|Fiesta En Mi Pueblo	SRC0002|SRC0002|SRC0002	approved|approved|approved
+ojitos hechiceros	3	likely_number_prefix_duplicate	SONG004500|SONG004604|SONG004695	14. Ojitos Hechiceros|Ojitos Hechiceros|Ojitos Hechiceros	SRC0002|SRC0002|SRC0002	approved|approved|approved
+quiero que me des tu amor	3	likely_number_prefix_duplicate	SONG004501|SONG004605|SONG004696	15. Quiero Que Me Des Tu Amor|Quiero Que Me Des Tu Amor|Quiero Que Me Des Tu Amor	SRC0002|SRC0002|SRC0002	approved|approved|approved
+los cien anos de macondo	3	likely_number_prefix_duplicate	SONG004502|SONG004606|SONG004697	16. Los Cien Años De Macondo|Los Cien Años De Macondo|Los Cien Años De Macondo	SRC0002|SRC0002|SRC0002	approved|approved|approved
+vagabundo soy	3	likely_number_prefix_duplicate	SONG004503|SONG004607|SONG004698	17. Vagabundo Soy|Vagabundo Soy|Vagabundo Soy	SRC0002|SRC0002|SRC0002	approved|approved|approved
+la colegiala	3	likely_number_prefix_duplicate	SONG004504|SONG004608|SONG004699	18. La Colegiala|La Colegiala|La Colegiala	SRC0002|SRC0002|SRC0002	approved|approved|approved
+por favor olvidame	3	likely_number_prefix_duplicate	SONG004505|SONG004609|SONG004700	19. Por Favor Olvidame|Por Favor Olvidame|Por Favor Olvidame	SRC0002|SRC0002|SRC0002	approved|approved|approved
+botellita de ron	3	likely_number_prefix_duplicate	SONG004506|SONG004610|SONG004701	20. Botellita De Ron|Botellita De Ron|Botellita De Ron	SRC0002|SRC0002|SRC0002	approved|approved|approved
+adonay	3	likely_number_prefix_duplicate	SONG004507|SONG004611|SONG004702	1. Adonay|Adonay|Adonay	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el preso	3	likely_number_prefix_duplicate	SONG004508|SONG004612|SONG004703	2. El Preso|El Preso|El Preso	SRC0002|SRC0002|SRC0002	approved|approved|approved
+daniela	3	likely_number_prefix_duplicate	SONG004509|SONG004613|SONG004704	3. Daniela|Daniela|Daniela	SRC0002|SRC0002|SRC0002	approved|approved|approved
+los domingos	3	likely_number_prefix_duplicate	SONG004510|SONG004614|SONG004705	4. Los Domingos|Los Domingos|Los Domingos	SRC0002|SRC0002|SRC0002	approved|approved|approved
+chan con chan	3	likely_number_prefix_duplicate	SONG004512|SONG004615|SONG004707	6. Chan Con Chan|Chan Con Chan|Chan Con Chan	SRC0002|SRC0002|SRC0002	approved|approved|approved
+la misma vaina	3	likely_number_prefix_duplicate	SONG004513|SONG004616|SONG004708	7. La Misma Vaina|La Misma Vaina|La Misma Vaina	SRC0002|SRC0002|SRC0002	approved|approved|approved
+cantares de navidad	3	likely_number_prefix_duplicate	SONG004514|SONG004617|SONG004709	8. Cantares De Navidad|Cantares De Navidad|Cantares De Navidad	SRC0002|SRC0002|SRC0002	approved|approved|approved
+muchachita celosa	3	likely_number_prefix_duplicate	SONG004515|SONG004618|SONG004710	9. Muchachita Celosa|Muchachita Celosa|Muchachita Celosa	SRC0002|SRC0002|SRC0002	approved|approved|approved
+entre que si y que no	3	likely_number_prefix_duplicate	SONG004516|SONG004619|SONG004711	10. Entre Que Si Y Que No|Entre Que Si Y Que No|Entre Que Si Y Que No	SRC0002|SRC0002|SRC0002	approved|approved|approved
+agua de cu	3	likely_number_prefix_duplicate	SONG004517|SONG004620|SONG004712	11. Agua De Cu|Agua De Cu|Agua De Cu	SRC0002|SRC0002|SRC0002	approved|approved|approved
+la cinta blanca	3	likely_number_prefix_duplicate	SONG004518|SONG004621|SONG004713	12. La Cinta Blanca|La Cinta Blanca|La Cinta Blanca	SRC0002|SRC0002|SRC0002	approved|approved|approved
+enamorado	3	likely_number_prefix_duplicate	SONG004519|SONG004622|SONG004714	13. Enamorado|Enamorado|Enamorado	SRC0002|SRC0002|SRC0002	approved|approved|approved
+adios adios corazon	3	likely_number_prefix_duplicate	SONG004521|SONG004623|SONG004716	15. Adios Adios Corazon|Adios Adios Corazon|Adios Adios Corazon	SRC0002|SRC0002|SRC0002	approved|approved|approved
+pelaita	3	likely_number_prefix_duplicate	SONG004522|SONG004624|SONG004717	16. Pelaita|Pelaita|Pelaita	SRC0002|SRC0002|SRC0002	approved|approved|approved
+sin corazon en el pecho	3	likely_number_prefix_duplicate	SONG004523|SONG004625|SONG004718	17. Sin Corazon En El Pecho|Sin Corazon En El Pecho|Sin Corazon En El Pecho	SRC0002|SRC0002|SRC0002	approved|approved|approved
+carola	3	likely_number_prefix_duplicate	SONG004524|SONG004626|SONG004719	18. Carola|Carola|Carola	SRC0002|SRC0002|SRC0002	approved|approved|approved
+la cunadita	3	likely_number_prefix_duplicate	SONG004525|SONG004627|SONG004720	19. La Cuñadita|La Cuñadita|La Cuñadita	SRC0002|SRC0002|SRC0002	approved|approved|approved
+cara carita	3	likely_number_prefix_duplicate	SONG004526|SONG004628|SONG004721	20. Cara Carita|Cara Carita|Cara Carita	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el lunarcito	3	likely_number_prefix_duplicate	SONG004527|SONG004629|SONG004722	1. El Lunarcito|El Lunarcito|El Lunarcito	SRC0002|SRC0002|SRC0002	approved|approved|approved
+dile	3	likely_number_prefix_duplicate	SONG004528|SONG004630|SONG004723	2. Dile|Dile|Dile	SRC0002|SRC0002|SRC0002	approved|approved|approved
+perdido y borracho	3	likely_number_prefix_duplicate	SONG004530|SONG004631|SONG004725	4. Perdido Y Borracho|Perdido Y Borracho|Perdido Y Borracho	SRC0002|SRC0002|SRC0002	approved|approved|approved
+donde estas mariana	3	likely_number_prefix_duplicate	SONG004532|SONG004632|SONG004727	6. Donde Estas Mariana|Donde Estas Mariana|Donde Estas Mariana	SRC0002|SRC0002|SRC0002	approved|approved|approved
+ya para que	3	likely_number_prefix_duplicate	SONG004533|SONG004633|SONG004728	7. Ya Para Que|Ya Para Que|Ya Para Que	SRC0002|SRC0002|SRC0002	approved|approved|approved
+penas por un amor	3	likely_number_prefix_duplicate	SONG004534|SONG004634|SONG004729	8. Penas Por Un Amor|Penas Por Un Amor|Penas Por Un Amor	SRC0002|SRC0002|SRC0002	approved|approved|approved
+linda rosa	3	likely_number_prefix_duplicate	SONG004535|SONG004635|SONG004730	9. Linda Rosa|Linda Rosa|Linda Rosa	SRC0002|SRC0002|SRC0002	approved|approved|approved
+que regrese	3	likely_number_prefix_duplicate	SONG004536|SONG004636|SONG004732	11. Que Regrese|Que Regrese|Que Regrese	SRC0002|SRC0002|SRC0002	approved|approved|approved
+voy cantando	3	likely_number_prefix_duplicate	SONG004537|SONG004637|SONG004733	12. Voy Cantando|Voy Cantando|Voy Cantando	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el casado arrepentido	3	likely_number_prefix_duplicate	SONG004538|SONG004638|SONG004734	13. El Casado Arrepentido|El Casado Arrepentido|El Casado Arrepentido	SRC0002|SRC0002|SRC0002	approved|approved|approved
+cumbia marinera	3	likely_number_prefix_duplicate	SONG004539|SONG004639|SONG004735	14. Cumbia Marinera|Cumbia Marinera|Cumbia Marinera	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el maestro	3	likely_number_prefix_duplicate	SONG004540|SONG004640|SONG004736	15. El Maestro|El Maestro|El Maestro	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el tizon	3	likely_number_prefix_duplicate	SONG004541|SONG004641|SONG004737	16. El Tizon|El Tizon|El Tizon	SRC0002|SRC0002|SRC0002	approved|approved|approved
+manuelito barrios	3	likely_number_prefix_duplicate	SONG004542|SONG004642|SONG004738	17. Manuelito Barrios|Manuelito Barrios|Manuelito Barrios	SRC0002|SRC0002|SRC0002	approved|approved|approved
+casi casi	3	likely_number_prefix_duplicate	SONG004543|SONG004643|SONG004739	18. Casi Casi|Casi Casi|Casi Casi	SRC0002|SRC0002|SRC0002	approved|approved|approved
+entonces cuando	3	likely_number_prefix_duplicate	SONG004544|SONG004644|SONG004740	19. Entonces Cuando|Entonces Cuando|Entonces Cuando	SRC0002|SRC0002|SRC0002	approved|approved|approved
+la bandolera	3	likely_number_prefix_duplicate	SONG004545|SONG004645|SONG004741	20. La Bandolera|La Bandolera|La Bandolera	SRC0002|SRC0002|SRC0002	approved|approved|approved
+ya se marcho	3	likely_number_prefix_duplicate	SONG004546|SONG004646|SONG004742	1. Ya Se Marcho|Ya Se Marcho|Ya Se Marcho	SRC0002|SRC0002|SRC0002	approved|approved|approved
+masculino y femenino	3	likely_number_prefix_duplicate	SONG004547|SONG004647|SONG004743	2. Masculino Y Femenino|Masculino Y Femenino|Masculino Y Femenino	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el cangrejito enamorado	3	likely_number_prefix_duplicate	SONG004548|SONG004648|SONG004744	3. El Cangrejito Enamorado|El Cangrejito Enamorado|El Cangrejito Enamorado	SRC0002|SRC0002|SRC0002	approved|approved|approved
+se la llevo el tren	3	likely_number_prefix_duplicate	SONG004549|SONG004649|SONG004745	4. Se La Llevo El Tren|Se La Llevo El Tren|Se La Llevo El Tren	SRC0002|SRC0002|SRC0002	approved|approved|approved
+lorenza	3	likely_number_prefix_duplicate	SONG004550|SONG004650|SONG004746	5. Lorenza|Lorenza|Lorenza	SRC0002|SRC0002|SRC0002	approved|approved|approved
+linda muchachita	3	likely_number_prefix_duplicate	SONG004551|SONG004651|SONG004747	6. Linda Muchachita|Linda Muchachita|Linda Muchachita	SRC0002|SRC0002|SRC0002	approved|approved|approved
+carita de cielo	3	likely_number_prefix_duplicate	SONG004552|SONG004652|SONG004748	7. Carita De Cielo|Carita De Cielo|Carita De Cielo	SRC0002|SRC0002|SRC0002	approved|approved|approved
+amor por computadora	3	likely_number_prefix_duplicate	SONG004553|SONG004653|SONG004749	8. Amor Por Computadora|Amor Por Computadora|Amor Por Computadora	SRC0002|SRC0002|SRC0002	approved|approved|approved
+la burra y la chiva	3	likely_number_prefix_duplicate	SONG004554|SONG004654|SONG004750	9. La Burra Y La Chiva|La Burra Y La Chiva|La Burra Y La Chiva	SRC0002|SRC0002|SRC0002	approved|approved|approved
+mi cumbion	3	likely_number_prefix_duplicate	SONG004555|SONG004655|SONG004751	10. Mi Cumbion|Mi Cumbion|Mi Cumbion	SRC0002|SRC0002|SRC0002	approved|approved|approved
+los algodones	3	likely_number_prefix_duplicate	SONG004556|SONG004657|SONG004753	12. Los Algodones|Los Algodones|Los Algodones	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el pescador triste	3	likely_number_prefix_duplicate	SONG004557|SONG004658|SONG004754	13. El Pescador Triste|El Pescador Triste|El Pescador Triste	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el telefono	3	likely_number_prefix_duplicate	SONG004558|SONG004659|SONG004755	14. El Telefono|El Telefono|El Telefono	SRC0002|SRC0002|SRC0002	approved|approved|approved
+mi primavera	3	likely_number_prefix_duplicate	SONG004559|SONG004660|SONG004756	15. Mi Primavera|Mi Primavera|Mi Primavera	SRC0002|SRC0002|SRC0002	approved|approved|approved
+la revancha	3	likely_number_prefix_duplicate	SONG004560|SONG004661|SONG004757	16. La Revancha|La Revancha|La Revancha	SRC0002|SRC0002|SRC0002	approved|approved|approved
+cinturita de jabon	3	likely_number_prefix_duplicate	SONG004561|SONG004662|SONG004758	17. Cinturita De Jabon|Cinturita De Jabon|Cinturita De Jabon	SRC0002|SRC0002|SRC0002	approved|approved|approved
+fiesta de cumpleanos	3	likely_number_prefix_duplicate	SONG004562|SONG004663|SONG004759	18. Fiesta De Cumpleaños|Fiesta De Cumpleaños|Fiesta De Cumpleaños	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el escorpion	3	likely_number_prefix_duplicate	SONG004563|SONG004664|SONG004760	19. El Escorpion|El Escorpion|El Escorpion	SRC0002|SRC0002|SRC0002	approved|approved|approved
+que no quede huella	3	likely_number_prefix_duplicate	SONG004565|SONG004665|SONG004762	1. Que No Quede Huella|Que No Quede Huella|Que No Quede Huella	SRC0002|SRC0002|SRC0002	approved|approved|approved
+no peliemos tanto	3	likely_number_prefix_duplicate	SONG004566|SONG004666|SONG004763	2. No Peliemos Tanto|No Peliemos Tanto|No Peliemos Tanto	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el lamento de tu voz	3	likely_number_prefix_duplicate	SONG004567|SONG004667|SONG004764	3. El Lamento De Tu Voz|El Lamento De Tu Voz|El Lamento De Tu Voz	SRC0002|SRC0002|SRC0002	approved|approved|approved
+limoncito con ron	3	likely_number_prefix_duplicate	SONG004568|SONG004668|SONG004765	4. Limoncito Con Ron|Limoncito Con Ron|Limoncito Con Ron	SRC0002|SRC0002|SRC0002	approved|approved|approved
+borremos el pasado	3	likely_number_prefix_duplicate	SONG004569|SONG004669|SONG004766	5. Borremos El Pasado|Borremos El Pasado|Borremos El Pasado	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el baile del brinquito	3	likely_number_prefix_duplicate	SONG004570|SONG004670|SONG004767	6. El Baile Del Brinquito|El Baile Del Brinquito|El Baile Del Brinquito	SRC0002|SRC0002|SRC0002	approved|approved|approved
+brisa sala	3	likely_number_prefix_duplicate	SONG004572|SONG004671|SONG004769	8. Brisa Sala|Brisa Sala|Brisa Sala	SRC0002|SRC0002|SRC0002	approved|approved|approved
+el ciclon	3	likely_number_prefix_duplicate	SONG004573|SONG004672|SONG004770	9. El Ciclon|El Ciclon|El Ciclon	SRC0002|SRC0002|SRC0002	approved|approved|approved
+la hamaca raya	3	likely_number_prefix_duplicate	SONG004575|SONG004673|SONG004772	11. La Hamaca Raya|La Hamaca Raya|La Hamaca Raya	SRC0002|SRC0002|SRC0002	approved|approved|approved
+se va la vida	3	likely_number_prefix_duplicate	SONG004576|SONG004674|SONG004773	12. Se Va La Vida|Se Va La Vida|Se Va La Vida	SRC0002|SRC0002|SRC0002	approved|approved|approved
+muchachita del oriente	3	likely_number_prefix_duplicate	SONG004577|SONG004675|SONG004774	13. Muchachita Del Oriente|Muchachita Del Oriente|Muchachita Del Oriente	SRC0002|SRC0002|SRC0002	approved|approved|approved
+ya voy hacia ti	3	likely_number_prefix_duplicate	SONG004578|SONG004676|SONG004775	14. Ya Voy Hacia Ti|Ya Voy Hacia Ti|Ya Voy Hacia Ti	SRC0002|SRC0002|SRC0002	approved|approved|approved
+lindo clavelito	3	likely_number_prefix_duplicate	SONG004579|SONG004677|SONG004776	15. Lindo Clavelito|Lindo Clavelito|Lindo Clavelito	SRC0002|SRC0002|SRC0002	approved|approved|approved
+negra candela	3	likely_number_prefix_duplicate	SONG004580|SONG004678|SONG004777	16. Negra Candela|Negra Candela|Negra Candela	SRC0002|SRC0002|SRC0002	approved|approved|approved
+no me alcanza	3	likely_number_prefix_duplicate	SONG004581|SONG004679|SONG004778	17. No Me Alcanza|No Me Alcanza|No Me Alcanza	SRC0002|SRC0002|SRC0002	approved|approved|approved
+la ladrona	3	likely_number_prefix_duplicate	SONG004583|SONG004680|SONG004780	19. La Ladrona|La Ladrona|La Ladrona	SRC0002|SRC0002|SRC0002	approved|approved|approved
+provinciana	3	likely_number_prefix_duplicate	SONG004584|SONG004681|SONG004781	20. Provinciana|Provinciana|Provinciana	SRC0002|SRC0002|SRC0002	approved|approved|approved
+adios adios adios	2	needs_song_merge_review	SONG000056|SONG000072	Adios Adios Adios|Adios, Adios, Adios	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+alla en el rancho grande	2	needs_song_merge_review	SONG000128|SONG000131	Alla En El Rancho Grande|Allá En El Rancho Grande	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+ay jalisco no te rajes	2	needs_song_merge_review	SONG000335|SONG000347	Ay Jalisco No Te Rajes|Ay! Jalisco No Te Rajes	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+campanero campanero	2	needs_song_merge_review	SONG000471|SONG000472	Campanero Campanero|Campanero, Campanero	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+cielo azul cielo nublado	2	needs_song_merge_review	SONG000578|SONG000579	Cielo Azul Cielo Nublado|Cielo Azul, Cielo Nublado	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+con quien palabras	2	needs_song_merge_review	SONG000640|SONG000641	Con Quien Palabras|Con Quien Palabras?	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+corazon corazoncito	2	needs_song_merge_review	SONG000684|SONG000696	Corazon Corazoncito|Corazon, Corazoncito	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+corazon corazon	2	needs_song_merge_review	SONG000695|SONG000700	Corazon, Corazon|Corazón Corazón	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+crei	2	needs_song_merge_review	SONG000758|SONG000761	Crei|Creí	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+el alazan y el rocio	2	needs_song_merge_review	SONG001028|SONG001029	El Alazán Y El Rocio|El Alazán Y El Rocío	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+el gavilan pollero	2	needs_song_merge_review	SONG001208|SONG001210	El Gavilan Pollero|El Gavilán Pollero	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+el mundo es mio	2	needs_song_merge_review	SONG001300|SONG001301	El Mundo Es Mio|El Mundo Es Mio?	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+espana mi bella espana	2	needs_song_merge_review	SONG001542|SONG001543	España, Mi Bella Espana|España, Mi Bella España	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+flor sin retono	2	needs_song_merge_review	SONG001610|SONG001611	Flor Sin Retono|Flor Sin Retoño	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+guitarras lloren guitarras	2	needs_song_merge_review	SONG001667|SONG001668	Guitarras Lloren Guitarras|Guitarras, Lloren Guitarras	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+los desenganos	2	needs_song_merge_review	SONG002274|SONG002275	Los Desengaños|Los Deseñganos	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+maria luisa	2	needs_song_merge_review	SONG002393|SONG004434	María Luísa|María Luisa	SRC0001|SRC0003	approved_title_candidate|approved_title_candidate
+mananitas tapatias	2	needs_song_merge_review	SONG002405|SONG002406	Mañanitas Tapatias|Mañanitas Tapatías	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+mucho corazon	2	needs_song_merge_review	SONG002622|SONG002623	Mucho Corazon|Mucho Corazón	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+que bonito que bonito	2	needs_song_merge_review	SONG003205|SONG003206	Que Bonito Que Bonito|Que Bonito, Que Bonito	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+que si que no	2	needs_song_merge_review	SONG003269|SONG003271	Que Si Que No|Que Si, Que No	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+rosa rosita	2	needs_song_merge_review	SONG003399|SONG003400	Rosa Rosita|Rosa, Rosita	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+sabor a mi	2	needs_song_merge_review	SONG003425|SONG003426	Sabor A Mi|Sabor A Mí	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+senor porque	2	needs_song_merge_review	SONG003496|SONG003497	Señor Porque|Señor, Porque	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+ya estaras jabon de olor	2	needs_song_merge_review	SONG004066|SONG004067	Ya Estaras Jabon De Olor|Ya Estarás Jabon De Olor	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+yo quisiera senor locutor	2	needs_song_merge_review	SONG004134|SONG004135	Yo Quisiera Señor Locutor|Yo Quisiera, Señor Locutor	SRC0001|SRC0001	approved_title_candidate|approved_title_candidate
+triste diciembre	2	needs_song_merge_review	SONG004594|SONG004685	Triste Diciembre|Triste Diciembre	SRC0002|SRC0002	approved|approved
+mis zapatos viejos	2	needs_song_merge_review	SONG004656|SONG004752	Mis Zapatos Viejos|Mis Zapatos Viejos	SRC0002|SRC0002	approved|approved
