@@ -1,0 +1,3 @@
+songs_to_promote	89
+recordings_to_promote	89
+review_required	6
