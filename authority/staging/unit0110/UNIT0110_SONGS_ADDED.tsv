@@ -1,0 +1,14 @@
+promotion_candidate_id	song_id	canonical_song_title	source_id	confidence	review_status	mp3_instances
+UNIT0109-READY-001	SONG004474	Dile Que Por Mi No Tema	SRC0003	high	approved_title_candidate	3
+UNIT0109-READY-002	SONG004475	Sopita En Botella	SRC0003	high	approved_title_candidate	2
+UNIT0109-READY-003	SONG004476	Cao Cao, Mani Picao	SRC0003	high	approved_title_candidate	1
+UNIT0109-READY-004	SONG004477	Cucala	SRC0003	high	approved_title_candidate	1
+UNIT0109-READY-005	SONG004478	El Pai y La Mai	SRC0003	high	approved_title_candidate	1
+UNIT0109-READY-006	SONG004479	En El Bajio	SRC0003	medium	approved_title_candidate	1
+UNIT0109-READY-007	SONG004480	Guede Zaina	SRC0003	high	approved_title_candidate	1
+UNIT0109-READY-008	SONG004481	Juancito Trucupey	SRC0003	high	approved_title_candidate	1
+UNIT0109-READY-009	SONG004482	Ritmo Tambo Y Flores	SRC0003	high	approved_title_candidate	1
+UNIT0109-READY-010	SONG004483	Rock and Roll	SRC0003	high	approved_title_candidate	1
+UNIT0109-READY-011	SONG004484	Rumba Para Parejas	SRC0003	high	approved_title_candidate	1
+UNIT0109-READY-012	SONG004485	Te Busco	SRC0003	high	approved_title_candidate	1
+UNIT0109-READY-013	SONG004486	Usted Abusó	SRC0003	high	approved_title_candidate	1

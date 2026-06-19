@@ -1,0 +1,14 @@
+promotion_candidate_id	recording_id	canonical_recording_title	canonical_song_id	primary_group_id	primary_performer_id	release_id	source_id	confidence	review_status	candidate_performer_text	mp3_instances
+UNIT0109-READY-001	REC005898	Dile Que Por Mi No Tema	SONG004474		PER000001		SRC0003	high	approved	Celia Cruz	3
+UNIT0109-READY-002	REC005899	Sopita En Botella	SONG004475		PER000001		SRC0003	high	approved	Celia Cruz	2
+UNIT0109-READY-003	REC005900	Cao Cao, Mani Picao	SONG004476		PER000001		SRC0003	high	approved	Celia Cruz	1
+UNIT0109-READY-004	REC005901	Cucala	SONG004477		PER000001		SRC0003	high	approved	Celia Cruz	1
+UNIT0109-READY-005	REC005902	El Pai y La Mai	SONG004478	GRP0001	PER000001		SRC0003	high	approved	Celia Cruz y La Sonora Matancera	1
+UNIT0109-READY-006	REC005903	En El Bajio	SONG004479	GRP0001	PER000001		SRC0003	medium	approved	Laito Sureda y Celia Cruz Con La Sonora Matancera	1
+UNIT0109-READY-007	REC005904	Guede Zaina	SONG004480		PER000001		SRC0003	high	approved	Celia Cruz	1
+UNIT0109-READY-008	REC005905	Juancito Trucupey	SONG004481	GRP0001	PER000001		SRC0003	high	approved	Celia Cruz Con La Sonora Matancera	1
+UNIT0109-READY-009	REC005906	Ritmo Tambo Y Flores	SONG004482		PER000001		SRC0003	high	approved	Celia Cruz	1
+UNIT0109-READY-010	REC005907	Rock and Roll	SONG004483	GRP0001	PER000001		SRC0003	high	approved	Celia Cruz & La Sonora Matancera	1
+UNIT0109-READY-011	REC005908	Rumba Para Parejas	SONG004484	GRP0001	PER000001		SRC0003	high	approved	Celia Cruz & Sonora Matancera	1
+UNIT0109-READY-012	REC005909	Te Busco	SONG004485		PER000001		SRC0003	high	approved	Celia Cruz	1
+UNIT0109-READY-013	REC005910	Usted Abusó	SONG004486		PER000001		SRC0003	high	approved	Celia Cruz y Willie Colón	1
