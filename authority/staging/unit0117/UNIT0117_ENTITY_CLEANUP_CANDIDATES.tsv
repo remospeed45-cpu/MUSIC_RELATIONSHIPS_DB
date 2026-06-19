@@ -1,0 +1,20 @@
+raw_name	clean_name	entity_type	rows	action	review_note
+Rodolfo Aicardi Y Su Tipica Ra7	Rodolfo Aicardi y Su Típica RA7	group	17	candidate_entity	normalize typo/case/accent
+Rodolfo Aicardi	Rodolfo Aicardi	performer	4	candidate_entity	solo performer
+Pacho Galán y Su Orquesta	Pacho Galán y Su Orquesta	group	2	candidate_entity	orchestra group
+Agustín Bedoya y Su Conjunto	Agustín Bedoya y Su Conjunto	group	2	candidate_entity	conjunto group
+Rodolfo Aicardi Con El Grupo Monteadentro	Rodolfo Aicardi con el Grupo Monteadentro	group	2	candidate_entity	group
+Rodolfo Aicardi Con Los Idolos	Rodolfo Aicardi con Los Ídolos	group	2	candidate_entity	group not solo performer
+Guillermo Portabales	Guillermo Portabales	performer	1	candidate_entity	solo performer
+La Sonora Matancera	La Sonora Matancera	group	1	candidate_entity	group
+Celina y Reutilio	Celina y Reutilio	group	1	candidate_entity	duo/group
+Roberto Ledesma	Roberto Ledesma	performer	1	candidate_entity	solo performer
+Orlando Contreras	Orlando Contreras	performer	1	candidate_entity	solo performer
+Lito Barrientos y Su Orquesta	Lito Barrientos y Su Orquesta	group	1	candidate_entity	orchestra group
+Clímaco Sarmiento y Su Orquesta	Clímaco Sarmiento y Su Orquesta	group	1	candidate_entity	orchestra group
+Pedro Laza y Sus Pelayeros	Pedro Laza y Sus Pelayeros	group	1	candidate_entity	group not solo performer
+Joaquín Bedoya y Su Conjunto	Joaquín Bedoya y Su Conjunto	group	1	candidate_entity	conjunto group
+Bobby Cruz	Bobby Cruz	performer	1	candidate_entity	solo performer
+Siente el Vallenato	Siente el Vallenato	group	1	review_required	ambiguous: could be collection/release not artist
+Rodolfo Aicardi Con Los Bestiales	Rodolfo Aicardi con Los Bestiales	group	1	candidate_entity	group
+Rodolfo Aicardi Con Los Hermanos Aicardi	Rodolfo Aicardi con Los Hermanos Aicardi	group	1	candidate_entity	group

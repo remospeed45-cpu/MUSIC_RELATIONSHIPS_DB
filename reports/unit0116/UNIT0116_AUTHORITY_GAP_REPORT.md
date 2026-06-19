@@ -1,0 +1,28 @@
+# UNIT0116 Authority Gap Report
+
+- split_only_rows: 42
+- unique_artists: 19
+- candidate_groups: 7
+- candidate_performers: 12
+
+## Top Missing Entities
+
+- Rodolfo Aicardi Y Su Tipica Ra7: 17
+- Rodolfo Aicardi: 4
+- Pacho Galán y Su Orquesta: 2
+- Agustín Bedoya y Su Conjunto: 2
+- Rodolfo Aicardi Con El Grupo Monteadentro: 2
+- Rodolfo Aicardi Con Los Idolos: 2
+- Guillermo Portabales: 1
+- La Sonora Matancera: 1
+- Celina y Reutilio: 1
+- Roberto Ledesma: 1
+- Orlando Contreras: 1
+- Lito Barrientos y Su Orquesta: 1
+- Clímaco Sarmiento y Su Orquesta: 1
+- Pedro Laza y Sus Pelayeros: 1
+- Joaquín Bedoya y Su Conjunto: 1
+- Bobby Cruz: 1
+- Siente el Vallenato: 1
+- Rodolfo Aicardi Con Los Bestiales: 1
+- Rodolfo Aicardi Con Los Hermanos Aicardi: 1
