@@ -1,0 +1,256 @@
+unit_candidate_id	product_title	artist_name	artist_entity_type	candidate_title	existing_recording_id	existing_song_id	review_reason
+UNIT0113-01-001	USB - Colección Música Colombiana	Varios Intérpretes	performer	Yo Tambien TuveVeinteAños			artist_not_matched_to_authority
+UNIT0113-01-002	USB - Colección Música Colombiana	Varios Intérpretes	performer	Las Acacias	REC005601	SONG004252	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-01-003	USB - Colección Música Colombiana	Varios Intérpretes	performer	Ayer Me Echaron Del Pueblo	REC005602	SONG004253	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-01-004	USB - Colección Música Colombiana	Varios Intérpretes	performer	Un Recuerdo De Amor	REC005603	SONG004254	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-01-005	USB - Colección Música Colombiana	Varios Intérpretes	performer	Grato Silencio	REC005604	SONG004255	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-01-006	USB - Colección Música Colombiana	Varios Intérpretes	performer	Pesares	REC005605	SONG004256	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-01-007	USB - Colección Música Colombiana	Varios Intérpretes	performer	Antioqueñita	REC005606	SONG004257	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-01-008	USB - Colección Música Colombiana	Varios Intérpretes	performer	Tierra Labrantia	REC005607	SONG004258	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-01-009	USB - Colección Música Colombiana	Varios Intérpretes	performer	Las Mirlas	REC005608	SONG004259	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-01-010	USB - Colección Música Colombiana	Varios Intérpretes	performer	Huri	REC005591;REC005609	SONG004245	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-02-001	USB - Colección 100 Exitos | Helenita Vargas	Helenita Vargas	performer	María de los Guardias	REC005610	SONG004260	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-02-002	USB - Colección 100 Exitos | Helenita Vargas	Helenita Vargas	performer	Señor	REC005611	SONG004261	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-02-003	USB - Colección 100 Exitos | Helenita Vargas	Helenita Vargas	performer	No Te Pido Más	REC005612	SONG004262	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-02-004	USB - Colección 100 Exitos | Helenita Vargas	Helenita Vargas	performer	Castiga Tirano	REC005613	SONG004263	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-02-005	USB - Colección 100 Exitos | Helenita Vargas	Helenita Vargas	performer	Señora	REC004666;REC005614	SONG003498	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-02-006	USB - Colección 100 Exitos | Helenita Vargas	Helenita Vargas	performer	Mal Hombre	REC003167;REC005615	SONG002330	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-02-007	USB - Colección 100 Exitos | Helenita Vargas	Helenita Vargas	performer	Propiedad Privada	REC005616	SONG004264	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-02-008	USB - Colección 100 Exitos | Helenita Vargas	Helenita Vargas	performer	La Hija del Penal	REC005617	SONG004265	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-02-009	USB - Colección 100 Exitos | Helenita Vargas	Helenita Vargas	performer	Me la Robaste	REC005618	SONG004266	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-02-010	USB - Colección 100 Exitos | Helenita Vargas	Helenita Vargas	performer	Nos Estorbó la Ropa	REC005619	SONG004267	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-03-001	USB - Colección 100 Exitos de La Sonora Matancera	La Sonora Matancera	group	El Sofá	REC005550	SONG004207	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-03-002	USB - Colección 100 Exitos de La Sonora Matancera	La Sonora Matancera	group	Quién Será	REC004413;REC004414;REC005551	SONG003305	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-03-003	USB - Colección 100 Exitos de La Sonora Matancera	La Sonora Matancera	group	Burundanga	REC005552	SONG004208	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-03-004	USB - Colección 100 Exitos de La Sonora Matancera	La Sonora Matancera	group	Todo Me Gusta de Ti	REC005553	SONG004209	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-03-005	USB - Colección 100 Exitos de La Sonora Matancera	La Sonora Matancera	group	El Mambo es Universal	REC005554	SONG004210	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-03-006	USB - Colección 100 Exitos de La Sonora Matancera	La Sonora Matancera	group	Cuando Tú Seas Mía	REC005555	SONG004211	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-03-007	USB - Colección 100 Exitos de La Sonora Matancera	La Sonora Matancera	group	Oye Mima	REC005556	SONG004212	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-03-008	USB - Colección 100 Exitos de La Sonora Matancera	La Sonora Matancera	group	Desesperación	REC005557	SONG004213	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-03-009	USB - Colección 100 Exitos de La Sonora Matancera	La Sonora Matancera	group	Quedé Zaina	REC005558	SONG004214	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-03-010	USB - Colección 100 Exitos de La Sonora Matancera	La Sonora Matancera	group	Historia de Un Amor	REC002285;REC002286;REC002287;REC005559	SONG001714	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-04-001	USB - Colección 100 Exitos de Música Cubana	Varios Artistas	performer	El Carretero – Guillermo Portabales			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-04-002	USB - Colección 100 Exitos de Música Cubana	Varios Artistas	performer	Malao de Caña – La Sonora Matancera			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-04-003	USB - Colección 100 Exitos de Música Cubana	Varios Artistas	performer	El Que Siembra Su Maíz – Orquesta de Bebo Valdés			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-04-004	USB - Colección 100 Exitos de Música Cubana	Varios Artistas	performer	A San Lázaro (Babalú) – Celina y Reutilio			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-04-005	USB - Colección 100 Exitos de Música Cubana	Varios Artistas	performer	Lupita – Fruko y Orquesta			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-04-006	USB - Colección 100 Exitos de Música Cubana	Varios Artistas	performer	Yo Tengo Pena – Los Compadres			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-04-007	USB - Colección 100 Exitos de Música Cubana	Varios Artistas	performer	Mira Que Eres LInda – Roberto Ledesma			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-04-008	USB - Colección 100 Exitos de Música Cubana	Varios Artistas	performer	Alegre Petición – Trío Matamoros			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-04-009	USB - Colección 100 Exitos de Música Cubana	Varios Artistas	performer	Nuevamente – Orlando Contreras			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-04-010	USB - Colección 100 Exitos de Música Cubana	Varios Artistas	performer	Adiós Compay Gato – Los Guaracheros de Oriente			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-05-001	USB - Que Viva Diciembre	Varios Artistas	performer	Las Tapas	REC005630	SONG004275	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-05-002	USB - Que Viva Diciembre	Varios Artistas	performer	Quiero Ser Feliz	REC005631	SONG004276	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-05-003	USB - Que Viva Diciembre	Varios Artistas	performer	03 Amor Serrano Demo			artist_not_matched_to_authority
+UNIT0113-05-004	USB - Que Viva Diciembre	Varios Artistas	performer	Plegaria	REC004074;REC004075;REC005633	SONG003054	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-05-005	USB - Que Viva Diciembre	Varios Artistas	performer	Capullo De Rosa Blanca	REC005634	SONG004278	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-05-006	USB - Que Viva Diciembre	Varios Artistas	performer	El Bailador	REC005577;REC005635	SONG004232	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-05-007	USB - Que Viva Diciembre	Varios Artistas	performer	Cumbia Arabe	REC001087;REC005636	SONG000822	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-05-008	USB - Que Viva Diciembre	Varios Artistas	performer	La Boquitrompona	REC005637;REC005665	SONG004279	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-05-009	USB - Que Viva Diciembre	Varios Artistas	performer	El Porteñito	REC005638	SONG004280	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-05-010	USB - Que Viva Diciembre	Varios Artistas	performer	La Cerveza	REC005639	SONG004281	recording_title_exists;song_title_exists;artist_not_matched_to_authority
+UNIT0113-06-001	USB - Colección 100 Exitos del Siglo | Joe Arroyo	Joe Arroyo	performer	A Mi Dios Todo le Debo	REC005560	SONG004215	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-06-002	USB - Colección 100 Exitos del Siglo | Joe Arroyo	Joe Arroyo	performer	Confundido	REC005561	SONG004216	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-06-003	USB - Colección 100 Exitos del Siglo | Joe Arroyo	Joe Arroyo	performer	El Arbol	REC005562	SONG004217	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-06-004	USB - Colección 100 Exitos del Siglo | Joe Arroyo	Joe Arroyo	performer	El Caminante	REC005563	SONG004218	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-06-005	USB - Colección 100 Exitos del Siglo | Joe Arroyo	Joe Arroyo	performer	El Centurión de la Noche	REC005564	SONG004219	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-06-006	USB - Colección 100 Exitos del Siglo | Joe Arroyo	Joe Arroyo	performer	El Cocinero Mayor	REC005565	SONG004220	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-06-007	USB - Colección 100 Exitos del Siglo | Joe Arroyo	Joe Arroyo	performer	El Son del Caballo	REC005566	SONG004221	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-06-008	USB - Colección 100 Exitos del Siglo | Joe Arroyo	Joe Arroyo	performer	La Maestranza # 1	REC005567	SONG004222	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-06-009	USB - Colección 100 Exitos del Siglo | Joe Arroyo	Joe Arroyo	performer	Por Ti No Moriré	REC005568	SONG004223	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-06-010	USB - Colección 100 Exitos del Siglo | Joe Arroyo	Joe Arroyo	performer	Teresa Vuelve	REC005569	SONG004224	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-07-001	USB - Colección Homenaje a Toño Fuentes	Toño Fuentes	performer	Cosas Como Tu	REC005590	SONG004244	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-07-002	USB - Colección Homenaje a Toño Fuentes	Toño Fuentes	performer	Huri	REC005591;REC005609	SONG004245	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-07-003	USB - Colección Homenaje a Toño Fuentes	Toño Fuentes	performer	La Cumparsita	REC002533;REC005592	SONG001886	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-07-004	USB - Colección Homenaje a Toño Fuentes	Toño Fuentes	performer	Mis Flores Negras	REC005593	SONG004246	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-07-005	USB - Colección Homenaje a Toño Fuentes	Toño Fuentes	performer	Ojos Negros	REC005594	SONG004247	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-07-006	USB - Colección Homenaje a Toño Fuentes	Toño Fuentes	performer	Perdón	REC005595	SONG004248	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-07-007	USB - Colección Homenaje a Toño Fuentes	Toño Fuentes	performer	Prenda del Alma	REC004207;REC005596	SONG003157	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-07-008	USB - Colección Homenaje a Toño Fuentes	Toño Fuentes	performer	Prisionero de Tus Brazos	REC005597	SONG004249	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-07-009	USB - Colección Homenaje a Toño Fuentes	Toño Fuentes	performer	Pueblito Viejo	REC005598	SONG004250	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-07-010	USB - Colección Homenaje a Toño Fuentes	Toño Fuentes	performer	Quiéreme Mucho	REC004422;REC004423;REC005599	SONG003309	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-08-001	USB - Colección 100 Exitos | Cuatro Grandes de la Música Tropical	Varios Artistas	performer	Festival en Guararé – Los Corraleros de Majagual			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-08-002	USB - Colección 100 Exitos | Cuatro Grandes de la Música Tropical	Varios Artistas	performer	Playas Marinas – Calixto Ochoa y Su Conjunto			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-08-003	USB - Colección 100 Exitos | Cuatro Grandes de la Música Tropical	Varios Artistas	performer	Te Llevaré – Lisandro Meza y Su Conjunto			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-08-004	USB - Colección 100 Exitos | Cuatro Grandes de la Música Tropical	Varios Artistas	performer	Celos de Amor – Armando Hernández con el Combo Caribe			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-08-005	USB - Colección 100 Exitos | Cuatro Grandes de la Música Tropical	Varios Artistas	performer	Esta Noche es Mía – Alfredo Gutiérrez y Su Conjunto			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-08-006	USB - Colección 100 Exitos | Cuatro Grandes de la Música Tropical	Varios Artistas	performer	Mata E Caña – Calixto Ochoa y Su Conjunto			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-08-007	USB - Colección 100 Exitos | Cuatro Grandes de la Música Tropical	Varios Artistas	performer	Entre Rejas – Lisandro Meza y Su Conjunto			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-08-008	USB - Colección 100 Exitos | Cuatro Grandes de la Música Tropical	Varios Artistas	performer	La Zenaida – Armando Hernández con el Combo Caribe			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-08-009	USB - Colección 100 Exitos | Cuatro Grandes de la Música Tropical	Varios Artistas	performer	Dos Mujeres – Alfredo Gutiérrez y Su Conjunto			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-08-010	USB - Colección 100 Exitos | Cuatro Grandes de la Música Tropical	Varios Artistas	performer	Los Sabanales – Los Corraleros de Majagual			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-09-001	USB - Colección 100 Cumbias, Porros y Gaitas del Siglo	Varios Artistas	performer	La Sombra de Tu Sonrisa - Pacho Galán y Su Orquesta			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-09-002	USB - Colección 100 Cumbias, Porros y Gaitas del Siglo	Varios Artistas	performer	Santo Domingo - Los Cumbiamberos de Pacheco			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-09-003	USB - Colección 100 Cumbias, Porros y Gaitas del Siglo	Varios Artistas	performer	El Toro Miura - Los Corraleros de Majagual			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-09-004	USB - Colección 100 Cumbias, Porros y Gaitas del Siglo	Varios Artistas	performer	Cumbia en Do Menor - Lito Barrientos y Su Orquesta			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-09-005	USB - Colección 100 Cumbias, Porros y Gaitas del Siglo	Varios Artistas	performer	El Tirabuzón - Clímaco Sarmiento y Su Orquesta			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-09-006	USB - Colección 100 Cumbias, Porros y Gaitas del Siglo	Varios Artistas	performer	La Morena Encarnación - Los Corraleros de Majagual			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-09-007	USB - Colección 100 Cumbias, Porros y Gaitas del Siglo	Varios Artistas	performer	La Ñeca - Pedro Laza y Sus Pelayeros			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-09-008	USB - Colección 100 Cumbias, Porros y Gaitas del Siglo	Varios Artistas	performer	Cumbia Cienaguera - Conjunto Típico Vallenato			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-09-009	USB - Colección 100 Cumbias, Porros y Gaitas del Siglo	Varios Artistas	performer	En la Madrugá - Pacho Galán y Su Orquesta			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-09-010	USB - Colección 100 Cumbias, Porros y Gaitas del Siglo	Varios Artistas	performer	Cumbia Sampuesana - Conjunto Típico Vallenato			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-10-001	USB - Colección 100 Canciones Infantiles	Varios Artistas	performer	El Barquito	REC005650	SONG004291	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-10-002	USB - Colección 100 Canciones Infantiles	Varios Artistas	performer	La Chivita	REC005651	SONG004292	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-10-003	USB - Colección 100 Canciones Infantiles	Varios Artistas	performer	Los Diez Perritos	REC005652	SONG004293	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-10-004	USB - Colección 100 Canciones Infantiles	Varios Artistas	performer	El Cucú	REC005653	SONG004294	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-10-005	USB - Colección 100 Canciones Infantiles	Varios Artistas	performer	La Gallinita Josefina	REC005654	SONG004295	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-10-006	USB - Colección 100 Canciones Infantiles	Varios Artistas	performer	Los Pollitos Dicen	REC005655	SONG004296	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-10-007	USB - Colección 100 Canciones Infantiles	Varios Artistas	performer	Arriba Juan	REC005656	SONG004297	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-10-008	USB - Colección 100 Canciones Infantiles	Varios Artistas	performer	La Mar	REC005657	SONG004298	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-10-009	USB - Colección 100 Canciones Infantiles	Varios Artistas	performer	Pulgarcito	REC005658	SONG004299	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-10-010	USB - Colección 100 Canciones Infantiles	Varios Artistas	performer	La Cucaracha	REC002527;REC002528;REC005659	SONG001882	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-11-001	USB - Colección 100 Parranderas del Siglo	Varios Artistas	performer	Echele Agua a la Sopa - Los Alegres Parranderos			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-11-002	USB - Colección 100 Parranderas del Siglo	Varios Artistas	performer	El Enredo - Joaquín Bedoya y Su Conjunto			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-11-003	USB - Colección 100 Parranderas del Siglo	Varios Artistas	performer	El Duende Alegre - Los Alegres Parranderos			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-11-004	USB - Colección 100 Parranderas del Siglo	Varios Artistas	performer	La Encomienda - Agustín Bedoya y Su Conjunto			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-11-005	USB - Colección 100 Parranderas del Siglo	Varios Artistas	performer	La Dulce Toma - Los Alegres Parranderos			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-11-006	USB - Colección 100 Parranderas del Siglo	Varios Artistas	performer	La Boquitrompona - El Manicomio de Vargasvil			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-11-007	USB - Colección 100 Parranderas del Siglo	Varios Artistas	performer	Que lo DIga Ella - Los Alegres Parranderos			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-11-008	USB - Colección 100 Parranderas del Siglo	Varios Artistas	performer	Las Piponchas - Agustín Bedoya y Su Conjunto			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-11-009	USB - Colección 100 Parranderas del Siglo	Varios Artistas	performer	Ya Voy Toño - Los Alegres Parranderos			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-11-010	USB - Colección 100 Parranderas del Siglo	Varios Artistas	performer	Mi Novia de Malas - Los Integrados			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-12-001	USB - Colección 100 Exitos de Diciembre	Varios Artistas	performer	Feliz Nochebuena / Los Hispanos			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-12-002	USB - Colección 100 Exitos de Diciembre	Varios Artistas	performer	Bella es la Navida / Ricardo Ray - Bobby Cruz			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-12-003	USB - Colección 100 Exitos de Diciembre	Varios Artistas	performer	En la Nochebuena / La Sonora Matancera			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-12-004	USB - Colección 100 Exitos de Diciembre	Varios Artistas	performer	Ron de Vinola / Guillermo Buitrago			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-12-005	USB - Colección 100 Exitos de Diciembre	Varios Artistas	performer	El Hijo Ausente / Pastor López y Su Combo			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-12-006	USB - Colección 100 Exitos de Diciembre	Varios Artistas	performer	Maldita Navidad / Gabriel Romero y Su Orquesta			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-12-007	USB - Colección 100 Exitos de Diciembre	Varios Artistas	performer	El Pesebre / Afrosound			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-12-008	USB - Colección 100 Exitos de Diciembre	Varios Artistas	performer	Aires de Navidad / Los Titanes			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-12-009	USB - Colección 100 Exitos de Diciembre	Varios Artistas	performer	Grito Vagabundo / Guillermo Buitrago			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-12-010	USB - Colección 100 Exitos de Diciembre	Varios Artistas	performer	Pascua en Navidad / Luis Felipe González			source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-13-001	USB - Colección 100 Villancicos del Siglo	Varios Artistas	performer	Niño del Alma Mía	REC005680	SONG004318	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-13-002	USB - Colección 100 Villancicos del Siglo	Varios Artistas	performer	Feliz Navidad	REC005681	SONG004319	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-13-003	USB - Colección 100 Villancicos del Siglo	Varios Artistas	performer	Tutaina	REC005682	SONG004320	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-13-004	USB - Colección 100 Villancicos del Siglo	Varios Artistas	performer	Salve Reina y Madre	REC005683	SONG004321	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-13-005	USB - Colección 100 Villancicos del Siglo	Varios Artistas	performer	Zagalillo	REC005684	SONG004322	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-13-006	USB - Colección 100 Villancicos del Siglo	Varios Artistas	performer	Antón	REC005685	SONG004323	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-13-007	USB - Colección 100 Villancicos del Siglo	Varios Artistas	performer	La Nanita Nana	REC005686	SONG004324	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-13-008	USB - Colección 100 Villancicos del Siglo	Varios Artistas	performer	Vamos Vamos Pastorcitos	REC005687	SONG004325	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-13-009	USB - Colección 100 Villancicos del Siglo	Varios Artistas	performer	El Burrito de Belén	REC005688	SONG004326	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-13-010	USB - Colección 100 Villancicos del Siglo	Varios Artistas	performer	Dónde Están Mis Juguetes	REC005689	SONG004327	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-14-001	USB - Colección 100 Exitos de Pastor López	Pastor López	performer	Solo Un Cigarro	REC005690	SONG004328	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-14-002	USB - Colección 100 Exitos de Pastor López	Pastor López	performer	Tempestad	REC005691	SONG004329	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-14-003	USB - Colección 100 Exitos de Pastor López	Pastor López	performer	Traicionera	REC005029;REC005692	SONG003788	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-14-004	USB - Colección 100 Exitos de Pastor López	Pastor López	performer	EL Hijo Ausente	REC005674;REC005693	SONG004313	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-14-005	USB - Colección 100 Exitos de Pastor López	Pastor López	performer	Golpe con Golpe	REC005694	SONG004330	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-14-006	USB - Colección 100 Exitos de Pastor López	Pastor López	performer	Fue Por Una Cerveza	REC005695	SONG004331	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-14-007	USB - Colección 100 Exitos de Pastor López	Pastor López	performer	Añoranza Febril	REC005696	SONG004332	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-14-008	USB - Colección 100 Exitos de Pastor López	Pastor López	performer	Brisas del Valle	REC005697	SONG004333	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-14-009	USB - Colección 100 Exitos de Pastor López	Pastor López	performer	Cállate Corazón	REC005698	SONG004334	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-14-010	USB - Colección 100 Exitos de Pastor López	Pastor López	performer	El Ausente	REC001372;REC001373;REC005699	SONG001044	recording_title_exists;song_title_exists;source_tracklist_partial_or_estimated;artist_not_matched_to_authority
+UNIT0113-16-001	Íntimo - Siente el Vallenato	Varios Artistas	performer	1.Me Sobran Las Palabras | Duban Bayona			artist_not_matched_to_authority
+UNIT0113-16-002	Íntimo - Siente el Vallenato	Varios Artistas	performer	2.Voy A Olvidarte | Amín Martinez			artist_not_matched_to_authority
+UNIT0113-16-003	Íntimo - Siente el Vallenato	Varios Artistas	performer	3.Solo Hay Una | Luis Miguel Fuentes			artist_not_matched_to_authority
+UNIT0113-16-004	Íntimo - Siente el Vallenato	Varios Artistas	performer	4.Donde Estarás | Robinson Damían			artist_not_matched_to_authority
+UNIT0113-16-005	Íntimo - Siente el Vallenato	Varios Artistas	performer	5.No Te Olvidaré | Luis Mateus			artist_not_matched_to_authority
+UNIT0113-16-006	Íntimo - Siente el Vallenato	Varios Artistas	performer	6.Por que Te Amo | Diomedes Dionisio Diaz			artist_not_matched_to_authority
+UNIT0113-16-007	Íntimo - Siente el Vallenato	Varios Artistas	performer	7.Tierra Mala | Amín Martinez			artist_not_matched_to_authority
+UNIT0113-16-008	Íntimo - Siente el Vallenato	Varios Artistas	performer	8.Vuelvete a Ir | Fabian Corrales			artist_not_matched_to_authority
+UNIT0113-16-009	Íntimo - Siente el Vallenato	Varios Artistas	performer	También puedes escucharlo en las plataformas digitales:			artist_not_matched_to_authority
+UNIT0113-16-010	Íntimo - Siente el Vallenato	Varios Artistas	performer	ÍNTIMO – Siente el Vallenato			artist_not_matched_to_authority
+UNIT0113-17-001	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	DISCO NUMERO 1			artist_not_matched_to_authority
+UNIT0113-17-002	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	1. La Cerveza - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-003	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	2. Plegaria - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-004	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	3. Ocho Dias - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-005	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	4. Triste Diciembre -Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-006	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	5. Boquita De Caramelo - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-007	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	6. Me Voy Pa Macondo - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-008	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	7. Tabaco Y Ron - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-009	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	8. Asi Empezaron Papa Y Mama - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-010	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	9. La Conoci Un Domingo - Rodolfo Aicardi Con El Grupo Monteadentro			artist_not_matched_to_authority
+UNIT0113-17-011	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	10. El Papelito Blanco - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-012	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	11. Olvidemos El Pasado - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-013	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	12. Cariñito - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-014	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	13. Fiesta En Mi Pueblo - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-015	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	14. Ojitos Hechiceros - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-016	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	15. Quiero Que Me Des Tu Amor - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-017	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	16. Los Cien Años De Macondo - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-018	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	17. Vagabundo Soy - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-019	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	18. La Colegiala - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-020	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	19. Por Favor Olvidame - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-021	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	20. Botellita De Ron - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-022	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	DISCO NUMERO 2			artist_not_matched_to_authority
+UNIT0113-17-023	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	1. Adonay - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-024	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	2. El Preso - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-025	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	3. Daniela - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-026	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	4. Los Domingos - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-027	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	5. Feliz Nochebuena - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-028	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	6. Chan Con Chan - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-029	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	7. La Misma Vaina - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-030	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	8. Cantares De Navidad - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-031	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	9. Muchachita Celosa - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-032	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	10. Entre Que Si Y Que No - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-033	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	11. Agua De Cu - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-034	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	12. La Cinta Blanca - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-035	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	13. Enamorado - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-036	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	14. Ni Cuerpo Ni Corazon - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-037	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	15. Adios Adios Corazon - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-038	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	16. Pelaita - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-039	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	17. Sin Corazon En El Pecho - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-040	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	18. Carola - La Sonora Dinamita			artist_not_matched_to_authority
+UNIT0113-17-041	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	19. La Cuñadita - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-042	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	20. Cara Carita - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-043	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	DISCO NUMERO 3			artist_not_matched_to_authority
+UNIT0113-17-044	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	1. El Lunarcito - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-045	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	2. Dile - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-046	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	3. Yo No Fui - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-047	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	4. Perdido Y Borracho - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-048	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	5. La Suegra - Rodolfo Aicardi			artist_not_matched_to_authority
+UNIT0113-17-049	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	6. Donde Estas Mariana - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-050	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	7. Ya Para Que - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-051	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	8. Penas Por Un Amor - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-052	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	9. Linda Rosa - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-053	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	10. Te Castigo Haciendote Llorar Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-054	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	11. Que Regrese - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-055	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	12. Voy Cantando - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-056	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	13. El Casado Arrepentido - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-057	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	14. Cumbia Marinera - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-058	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	15. El Maestro - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-059	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	16. El Tizon - La Sonora Dinamita			artist_not_matched_to_authority
+UNIT0113-17-060	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	17. Manuelito Barrios - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-061	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	18. Casi Casi - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-062	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	19. Entonces Cuando - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-063	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	20. La Bandolera - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-064	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	DISCO NUMERO 4			artist_not_matched_to_authority
+UNIT0113-17-065	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	1. Ya Se Marcho - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-066	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	2. Masculino Y Femenino - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-067	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	3. El Cangrejito Enamorado - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-068	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	4. Se La Llevo El Tren - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-069	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	5. Lorenza - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-070	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	6. Linda Muchachita - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-071	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	7. Carita De Cielo - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-072	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	8. Amor Por Computadora - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-073	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	9. La Burra Y La Chiva - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-074	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	10. Mi Cumbion - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-075	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	11. Mis Zapatos Viejos- Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-076	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	12. Los Algodones - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-077	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	13. El Pescador Triste - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-078	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	14. El Telefono - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-079	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	15. Mi Primavera - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-080	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	16. La Revancha - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-081	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	17. Cinturita De Jabon - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-082	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	18. Fiesta De Cumpleaños - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-083	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	19. El Escorpion - Rodolfo Aicardi			artist_not_matched_to_authority
+UNIT0113-17-084	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	20. La Bruja - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-085	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	DISCO NUMERO 5			artist_not_matched_to_authority
+UNIT0113-17-086	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	1. Que No Quede Huella - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-087	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	2. No Peliemos Tanto - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-088	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	3. El Lamento De Tu Voz - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-089	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	4. Limoncito Con Ron - Rodolfo Aicardi			artist_not_matched_to_authority
+UNIT0113-17-090	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	5. Borremos El Pasado - Rodolfo Aicardi			artist_not_matched_to_authority
+UNIT0113-17-091	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	6. El Baile Del Brinquito - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-092	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	7. Tengo Celos - Rodolfo Aicardi Con Los Idolos			artist_not_matched_to_authority
+UNIT0113-17-093	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	8. Brisa Sala - Rodolfo Aicardi Con Los Idolos			artist_not_matched_to_authority
+UNIT0113-17-094	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	9. El Ciclon - La Sonora Dinamita			artist_not_matched_to_authority
+UNIT0113-17-095	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	10. El Jardinero - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-096	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	11. La Hamaca Raya - Rodolfo Aicardi Con Los Bestiales			artist_not_matched_to_authority
+UNIT0113-17-097	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	12. Se Va La Vida - Rodolfo Aicardi Con Los Hermanos Aicardi			artist_not_matched_to_authority
+UNIT0113-17-098	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	13. Muchachita Del Oriente - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-099	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	14. Ya Voy Hacia Ti - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-100	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	15. Lindo Clavelito - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-101	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	16. Negra Candela - Los Hispanos			artist_not_matched_to_authority
+UNIT0113-17-102	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	17. No Me Alcanza - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-103	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	18. Veinte Años - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
+UNIT0113-17-104	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	19. La Ladrona - Rodolfo Aicardi Con El Grupo Monteadentro			artist_not_matched_to_authority
+UNIT0113-17-105	USB - Colección 100 Exitos de Rodolfo Aicardi	Rodolfo Aicardi	performer	20. Provinciana - Rodolfo Aicardi Y Su Tipica Ra7			artist_not_matched_to_authority
