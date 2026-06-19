@@ -14,10 +14,10 @@ READY_FOR_MASTER_NODE_MIGRATION = NO
 
 Blockers:
 
-- `Music_Reference_DB` is one commit ahead of `origin/main`; it contains local-only committed work that must be pushed, exported, or intentionally excluded before Lenovo deletion.
-- This audit report itself is a new local file in `MUSIC_RELATIONSHIPS_DB` until committed or otherwise migrated.
+- OptiPlex SSH endpoint is reachable at `remospeed@100.97.207.91`, but authentication failed from Lenovo with `Permission denied (publickey,password)`.
+- OptiPlex repository and Music-folder verification could not be completed because remote SSH commands could not be authenticated.
 - Multiple operational documents contain hardcoded node/user paths. Most are historical or governance references, but they should be reviewed before making OptiPlex the single authoritative node.
-- OptiPlex verification has not been performed from this Lenovo audit. Do not delete Lenovo copies until OptiPlex clone integrity, remotes, and latest commits are verified on the target node.
+- Do not delete Lenovo copies until OptiPlex clone integrity, remotes, latest commits, and authoritative Music storage are verified on the target node.
 
 ## A. Repository Inventory
 
@@ -297,3 +297,66 @@ Do not delete from Lenovo until OptiPlex has been verified with matching content
 - `git diff --name-only`
 - `rg -l 'remospeed|remo-speed' /home/remo-speed/codex_work`
 - `rg -l '/home/remospeed/|/home/remo-speed/' /home/remo-speed/codex_work`
+
+## OPTIPLEX_VERIFICATION
+
+Verification date: 2026-06-18 from Lenovo G70 path `/home/remo-speed/codex_work/MUSIC_RELATIONSHIPS_DB`.
+
+Local synchronization completed before OptiPlex verification:
+
+- `Music_Reference_DB` was verified clean and ahead by the expected commit `2903974 Add unmatched entity genre audit`.
+- `Music_Reference_DB` was pushed to `origin/main`; post-push status was clean and synchronized.
+- `MUSIC_RELATIONSHIPS_DB` committed and pushed this report as `d5518e9 Add migration audit report for OptiPlex master node transition`.
+- `MUSIC_RELATIONSHIPS_DB` post-push status was clean and synchronized.
+
+OptiPlex SSH target discovered from local docs:
+
+- Hostname / Tailscale name: `remospeed-optiplex-7010`
+- Tailscale IP: `100.97.207.91`
+- SSH user: `remospeed`
+- Expected workspace root: `/home/remospeed/codex_work`
+
+SSH checks:
+
+- `ssh remospeed@100.97.207.91` initially failed before network access because local system SSH config reported `Bad owner or permissions on /etc/ssh/ssh_config.d/20-systemd-ssh-proxy.conf`.
+- Retried with `ssh -F /dev/null ... remospeed@100.97.207.91`.
+- Result: host reachable, authentication failed with `Permission denied (publickey,password)`.
+- Retried hostname `remospeed-optiplex-7010`; DNS resolution failed from Lenovo.
+
+Required fields:
+
+| Field | Result |
+| --- | --- |
+| SSH reachable | YES, TCP/SSH endpoint responded at `100.97.207.91`; usable login NO due authentication failure |
+| OptiPlex hostname/user/path | `remospeed-optiplex-7010` / `remospeed` / expected `/home/remospeed/codex_work` from docs |
+| `MUSIC_RELATIONSHIPS_DB` present | UNKNOWN, remote command not authenticated |
+| `MUSIC_RELATIONSHIPS_DB` HEAD | UNKNOWN, remote command not authenticated |
+| `MUSIC_RELATIONSHIPS_DB` git clean | UNKNOWN, remote command not authenticated |
+| `Music_Reference_DB` present | UNKNOWN, remote command not authenticated |
+| `Music_Reference_DB` HEAD | UNKNOWN, remote command not authenticated |
+| `Music_Reference_DB` git clean | UNKNOWN, remote command not authenticated |
+| `PROYECTO_00` present | UNKNOWN, remote command not authenticated |
+| Music folder present | UNKNOWN, remote command not authenticated |
+
+Remaining blockers:
+
+- Remote SSH authentication to OptiPlex must be fixed or credentials/keys must be provided.
+- After SSH works, verify on OptiPlex:
+  - `/home/remospeed/codex_work/MUSIC_RELATIONSHIPS_DB`
+  - `/home/remospeed/codex_work/Music_Reference_DB`
+  - `/home/remospeed/codex_work/PROYECTO_00`
+  - `/home/remospeed/Music` or the authoritative Music folder
+- For each existing OptiPlex Git repository, run `git status`, `git log --oneline -5`, and `git remote -v`.
+
+READY_FOR_MASTER_NODE_MIGRATION = NO
+
+Exact blockers:
+
+- OptiPlex SSH login is not usable from Lenovo: `remospeed@100.97.207.91` returns `Permission denied (publickey,password)`.
+- OptiPlex copies of `MUSIC_RELATIONSHIPS_DB`, `Music_Reference_DB`, and `PROYECTO_00` are unverified.
+- OptiPlex authoritative Music folder is unverified.
+
+Lenovo deletion candidates:
+
+- None approved at this time.
+- Do not delete any Lenovo copy until OptiPlex verification is completed and recorded.
