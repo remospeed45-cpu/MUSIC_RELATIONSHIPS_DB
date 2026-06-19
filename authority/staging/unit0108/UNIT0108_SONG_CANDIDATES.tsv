@@ -1,0 +1,19 @@
+unit_song_candidate_id	candidate_song_title	source_rows	existing_song_ids	duplicate_status	confidence	review_status
+UNIT0108-SONG-001	Dile Que Por Mi No Tema	3		new_candidate_with_duplicate_mp3_instances	medium-high	staged_for_review
+UNIT0108-SONG-002	Sopita En Botella	2		new_candidate_with_duplicate_mp3_instances	medium-high	staged_for_review
+UNIT0108-SONG-003	Cao Cao, Mani Picao	1		new_candidate	medium-high	staged_for_review
+UNIT0108-SONG-004	Celia cruz y la Sonora Matancera - La guagua	1		new_candidate	medium	staged_for_review
+UNIT0108-SONG-005	Cucala	1		new_candidate	medium-high	staged_for_review
+UNIT0108-SONG-006	El Pai y La Mai	1		new_candidate	medium-high	staged_for_review
+UNIT0108-SONG-007	En El Bajio	1		new_candidate	medium	staged_for_review
+UNIT0108-SONG-008	Guede Zaina	1		new_candidate	medium-high	staged_for_review
+UNIT0108-SONG-009	Juancito Trucupey	1		new_candidate	medium-high	staged_for_review
+UNIT0108-SONG-010	Kinshasa, October 1974	1		new_candidate	low	manual_review_required
+UNIT0108-SONG-011	Perdón	1	SONG004248	existing_song_duplicate	medium	manual_review_required
+UNIT0108-SONG-012	Ritmo Tambo Y Flores	1		new_candidate	medium-high	staged_for_review
+UNIT0108-SONG-013	Rock and Roll	1		new_candidate	medium-high	staged_for_review
+UNIT0108-SONG-014	Rumba Para Parejas	1		new_candidate	medium-high	staged_for_review
+UNIT0108-SONG-015	Super Salsa 1978 Puerto Rico	1		new_candidate	low	manual_review_required
+UNIT0108-SONG-016	Te Busco	1		new_candidate	medium-high	staged_for_review
+UNIT0108-SONG-017	Usted abusó	1		new_candidate	medium-high	staged_for_review
+UNIT0108-SONG-018	Vallan Vallende	1		new_candidate	medium	staged_for_review

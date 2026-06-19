@@ -1,0 +1,19 @@
+unit_relationship_candidate_id	candidate_recording_title	candidate_performer_text	relationship_type	existing_performer_id	existing_group_id	confidence	review_status	notes
+UNIT0108-RELN-001	Dile Que Por Mi No Tema	Celia Cruz	recording_performer_or_group	PER000001		medium-high	staged_for_review	
+UNIT0108-RELN-002	Sopita En Botella	Celia Cruz	recording_performer_or_group	PER000001		medium-high	staged_for_review	
+UNIT0108-RELN-003	Cao Cao, Mani Picao	Celia Cruz	recording_performer_or_group	PER000001		medium-high	staged_for_review	
+UNIT0108-RELN-004	Celia cruz y la Sonora Matancera - La guagua	Celia cruz y la Sonora Matancera	recording_performer_or_group	PER000001	GRP0001	medium	staged_for_review	manual extraction incomplete
+UNIT0108-RELN-005	Cucala	Celia Cruz	recording_performer_or_group	PER000001		medium-high	staged_for_review	
+UNIT0108-RELN-006	El Pai y La Mai	Celia Cruz y La Sonora Matancera	recording_performer_or_group	PER000001	GRP0001	medium-high	staged_for_review	
+UNIT0108-RELN-007	En El Bajio	Laito Sureda y Celia Cruz Con La Sonora Matancera	recording_performer_or_group	PER000001	GRP0001	medium	staged_for_review	
+UNIT0108-RELN-008	Guede Zaina	Celia Cruz	recording_performer_or_group	PER000001		medium-high	staged_for_review	
+UNIT0108-RELN-009	Juancito Trucupey	Celia Cruz Con La Sonora Matancera	recording_performer_or_group	PER000001	GRP0001	medium-high	staged_for_review	
+UNIT0108-RELN-010	Kinshasa, October 1974	Celia Cruz & Johnny Pacheco	recording_performer_or_group	PER000001		low	manual_review_required	title may be event/video rather than canonical recording
+UNIT0108-RELN-011	Perdón	Celia Cruz & Pete Conde	recording_performer_or_group	PER000001		medium	staged_for_review	
+UNIT0108-RELN-012	Ritmo Tambo Y Flores	Celia Cruz	recording_performer_or_group	PER000001		medium-high	staged_for_review	
+UNIT0108-RELN-013	Rock and Roll	Celia Cruz & La Sonora Matancera	recording_performer_or_group	PER000001	GRP0001	medium-high	staged_for_review	
+UNIT0108-RELN-014	Rumba Para Parejas	Celia Cruz & Sonora Matancera	recording_performer_or_group	PER000001	GRP0001	medium-high	staged_for_review	
+UNIT0108-RELN-015	Super Salsa 1978 Puerto Rico	Hector Lavoe, Ruben Blades, Willie Colon, Celia Cruz, Yomo Toro	recording_performer_or_group	PER000001		low	manual_review_required	multi-artist file; may be mix/live compilation rather than single recording
+UNIT0108-RELN-016	Te Busco	Celia Cruz	recording_performer_or_group	PER000001		medium-high	staged_for_review	
+UNIT0108-RELN-017	Usted abusó	Celia Cruz y Willie Colón	recording_performer_or_group	PER000001		medium-high	staged_for_review	
+UNIT0108-RELN-018	Vallan Vallende	Celia Cruz Y La Sonora Matancera	recording_performer_or_group	PER000001	GRP0001	medium	staged_for_review	title spelling needs review

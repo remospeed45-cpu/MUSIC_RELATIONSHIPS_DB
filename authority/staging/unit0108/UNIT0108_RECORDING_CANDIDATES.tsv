@@ -1,0 +1,19 @@
+unit_recording_candidate_id	candidate_recording_title	candidate_song_title	candidate_performer_text	source_basis	source_rows	existing_recording_ids	existing_song_ids	duplicate_status	confidence	review_status	notes
+UNIT0108-REC-001	Dile Que Por Mi No Tema	Dile Que Por Mi No Tema	Celia Cruz	UNIT0105 unknown MP3 scan + existing project source review	3			new_candidate_with_duplicate_mp3_instances	medium-high	staged_for_review	
+UNIT0108-REC-002	Sopita En Botella	Sopita En Botella	Celia Cruz	UNIT0105 unknown MP3 scan + existing project source review	2			new_candidate_with_duplicate_mp3_instances	medium-high	staged_for_review	
+UNIT0108-REC-003	Cao Cao, Mani Picao	Cao Cao, Mani Picao	Celia Cruz	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium-high	staged_for_review	
+UNIT0108-REC-004	Celia cruz y la Sonora Matancera - La guagua	Celia cruz y la Sonora Matancera - La guagua	Celia cruz y la Sonora Matancera	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium	staged_for_review	manual extraction incomplete
+UNIT0108-REC-005	Cucala	Cucala	Celia Cruz	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium-high	staged_for_review	
+UNIT0108-REC-006	El Pai y La Mai	El Pai y La Mai	Celia Cruz y La Sonora Matancera	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium-high	staged_for_review	
+UNIT0108-REC-007	En El Bajio	En El Bajio	Laito Sureda y Celia Cruz Con La Sonora Matancera	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium	staged_for_review	
+UNIT0108-REC-008	Guede Zaina	Guede Zaina	Celia Cruz	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium-high	staged_for_review	
+UNIT0108-REC-009	Juancito Trucupey	Juancito Trucupey	Celia Cruz Con La Sonora Matancera	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium-high	staged_for_review	
+UNIT0108-REC-010	Kinshasa, October 1974	Kinshasa, October 1974	Celia Cruz & Johnny Pacheco	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	low	manual_review_required	title may be event/video rather than canonical recording
+UNIT0108-REC-011	Perdón	Perdón	Celia Cruz & Pete Conde	UNIT0105 unknown MP3 scan + existing project source review	1	REC005595	SONG004248	existing_recording_duplicate	medium	manual_review_required	
+UNIT0108-REC-012	Ritmo Tambo Y Flores	Ritmo Tambo Y Flores	Celia Cruz	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium-high	staged_for_review	
+UNIT0108-REC-013	Rock and Roll	Rock and Roll	Celia Cruz & La Sonora Matancera	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium-high	staged_for_review	
+UNIT0108-REC-014	Rumba Para Parejas	Rumba Para Parejas	Celia Cruz & Sonora Matancera	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium-high	staged_for_review	
+UNIT0108-REC-015	Super Salsa 1978 Puerto Rico	Super Salsa 1978 Puerto Rico	Hector Lavoe, Ruben Blades, Willie Colon, Celia Cruz, Yomo Toro	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	low	manual_review_required	multi-artist file; may be mix/live compilation rather than single recording
+UNIT0108-REC-016	Te Busco	Te Busco	Celia Cruz	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium-high	staged_for_review	
+UNIT0108-REC-017	Usted abusó	Usted abusó	Celia Cruz y Willie Colón	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium-high	staged_for_review	
+UNIT0108-REC-018	Vallan Vallende	Vallan Vallende	Celia Cruz Y La Sonora Matancera	UNIT0105 unknown MP3 scan + existing project source review	1			new_candidate	medium	staged_for_review	title spelling needs review

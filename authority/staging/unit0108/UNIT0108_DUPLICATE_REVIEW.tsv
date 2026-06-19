@@ -1,0 +1,19 @@
+normalized_title	candidate_title	mp3_instances	existing_recording_ids	existing_song_ids	duplicate_assessment
+dile que por mi no tema	Dile Que Por Mi No Tema	3			duplicate_mp3_instances
+sopita en botella	Sopita En Botella	2			duplicate_mp3_instances
+cao cao mani picao	Cao Cao, Mani Picao	1			no_master_duplicate_detected
+celia cruz y la sonora matancera la guagua	Celia cruz y la Sonora Matancera - La guagua	1			no_master_duplicate_detected
+cucala	Cucala	1			no_master_duplicate_detected
+el pai y la mai	El Pai y La Mai	1			no_master_duplicate_detected
+en el bajio	En El Bajio	1			no_master_duplicate_detected
+guede zaina	Guede Zaina	1			no_master_duplicate_detected
+juancito trucupey	Juancito Trucupey	1			no_master_duplicate_detected
+kinshasa october 1974	Kinshasa, October 1974	1			no_master_duplicate_detected
+perdon	Perdón	1	REC005595	SONG004248	existing_recording_duplicate;existing_song_duplicate
+ritmo tambo y flores	Ritmo Tambo Y Flores	1			no_master_duplicate_detected
+rock and roll	Rock and Roll	1			no_master_duplicate_detected
+rumba para parejas	Rumba Para Parejas	1			no_master_duplicate_detected
+super salsa 1978 puerto rico	Super Salsa 1978 Puerto Rico	1			no_master_duplicate_detected
+te busco	Te Busco	1			no_master_duplicate_detected
+usted abuso	Usted abusó	1			no_master_duplicate_detected
+vallan vallende	Vallan Vallende	1			no_master_duplicate_detected
