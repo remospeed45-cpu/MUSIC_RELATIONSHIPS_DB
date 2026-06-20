@@ -6,22 +6,22 @@ CURRENT_PHASE:
 INFRA-FASE-3
 
 CURRENT_UNIT:
-INFRA-0025
+INFRA-0026
 
 LAST_COMPLETED_UNIT:
-INFRA-0024
+INFRA-0025
 
 CURRENT_CHECKPOINT:
 PENDING_COMMIT
 
 NEXT_ACTION:
-Decide next safe action after dry-run photo staging plan.
+Consolidate music research sources into BOSGAME.
 
 BLOCKERS:
 None
 
 MIGRATIONS_EXECUTED:
-No
+Yes - Foundation copied to BOSGAME.
 
 DELETIONS_EXECUTED:
 No

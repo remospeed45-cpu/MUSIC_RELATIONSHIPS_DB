@@ -35,3 +35,7 @@ Hash-based photo manifests and SHA256 comparison completed. OPTIPLEX hashed 3410
 2026-06-20
 INFRA-0024
 Photo staging dry-run plan created. Planning manifests generated for OPTIPLEX-only files and BOSGAME-only protected reference files. OPTIPLEX-only planned rows: 1244, unique SHA256 hashes: 1240, size: 11.66 GB. BOSGAME-only protected rows: 1148, unique SHA256 hashes: 1143, size: 13.36 GB. No migration, deletion, deduplication, or canonical replacement executed.
+
+2026-06-20
+INFRA-0025
+Foundation consolidation executed. Copied Operational_Foundation and PROYECTO_00 template from OPTIPLEX to BOSGAME at /srv/storage/Foundation. Destination contains Operational_Foundation and PROJECT00_TEMPLATE. Verification showed 22 files and 216K total on BOSGAME. No source deletion performed.

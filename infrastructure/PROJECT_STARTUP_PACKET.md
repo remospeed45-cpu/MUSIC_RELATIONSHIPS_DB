@@ -10,7 +10,7 @@ CURRENT_PHASE:
 INFRA-FASE-3
 
 CURRENT_UNIT:
-INFRA-0025
+INFRA-0026
 
 CURRENT_CHECKPOINT:
 PENDING_COMMIT
@@ -39,17 +39,18 @@ COMPLETED:
 - Photo consolidation policy.
 - Hash-based photo comparison.
 - Dry-run photo staging plan.
+- Foundation consolidation to BOSGAME.
 
 NOT APPROVED:
 
-- Migrations.
 - Deletions.
 - Deduplication.
+- Music library migration.
 
 NEXT ACTION:
 
-INFRA-0025
-Decide next safe action after dry-run photo staging plan.
+INFRA-0026
+Consolidate music research sources into BOSGAME.
 
 REORIENTATION RULE:
 
@@ -63,14 +64,11 @@ Then continue from CURRENT_UNIT.
 
 LATEST FINDING:
 
-INFRA-0024 created planning manifests only.
+INFRA-0025 copied Foundation materials to BOSGAME:
 
-OPTIPLEX-only planned file rows: 1244
-OPTIPLEX-only unique SHA256 hashes: 1240
-OPTIPLEX planned review size: 11.66 GB
+/srv/storage/Foundation/Operational_Foundation
+/srv/storage/Foundation/PROJECT00_TEMPLATE
 
-BOSGAME-only protected file rows: 1148
-BOSGAME-only unique SHA256 hashes: 1143
-BOSGAME protected review size: 13.36 GB
+This includes the operational foundation package and the PROJECT00 template used to start new projects.
 
-No photo migration, deletion, or deduplication is approved.
+No source deletion or deduplication was performed.
