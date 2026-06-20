@@ -9,13 +9,13 @@ CURRENT_UNIT:
 INFRA-0028
 
 LAST_COMPLETED_UNIT:
-INFRA-0027
+INFRA-0029
 
 CURRENT_CHECKPOINT:
-PENDING_COMMIT
+INFRA-0028_PAUSED
 
 NEXT_ACTION:
-Consolidate photo collections into BOSGAME storage.
+Complete deferred bulk photo staging copy when faster local transfer opportunity is available, or continue safe infrastructure documentation.
 
 BLOCKERS:
 None

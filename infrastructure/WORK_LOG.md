@@ -47,3 +47,25 @@ Music research source consolidation executed. Copied 18 PDFs from OPTIPLEX /home
 2026-06-20
 INFRA-0027
 Project repository consolidation executed. Copied active OPTIPLEX project repositories and recovery project directory to BOSGAME /srv/storage/Projects. Verified Git repositories on BOSGAME for Codex_Normalizar_Musica, Hycrete_Core, LATIN_MUSIC_AUTHORITY_DB, MUSIC_MP3_AUTHORITY_DB, Music_Reference_DB, and MUSIC_RELATIONSHIPS_DB. BOSGAME project storage contains 15932 files. No source deletion performed.
+
+2026-06-20
+INFRA-0029
+Infrastructure Operations Registry created.
+
+Created:
+- infrastructure/status/INFRASTRUCTURE_OPERATIONS_REGISTRY.md
+
+Documented:
+- BOSGAME canonical storage server
+- OPTIPLEX primary processing workstation
+- LENOVO continuity workstation
+- Tailscale IPv4 and IPv6 addresses
+- user and home paths
+- canonical BOSGAME storage roots
+- Foundation locations
+- repository working copy locations
+- PROJECT_DATA locations
+- operational rules
+
+Status:
+INFRA-0029 completed.

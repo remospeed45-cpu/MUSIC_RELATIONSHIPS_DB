@@ -13,7 +13,7 @@ CURRENT_UNIT:
 INFRA-0028
 
 CURRENT_CHECKPOINT:
-PENDING_COMMIT
+INFRA-0028_PAUSED
 
 AUTHORITATIVE REPOSITORY:
 MUSIC_RELATIONSHIPS_DB
@@ -42,17 +42,23 @@ COMPLETED:
 - Foundation consolidation to BOSGAME.
 - Music research PDF consolidation to BOSGAME.
 - Project repository consolidation to BOSGAME.
+- Infrastructure Operations Registry.
+
+OPEN:
+
+- INFRA-0028 photo staging remains paused pending deferred bulk photo copy.
 
 NOT APPROVED:
 
 - Deletions.
 - Deduplication.
 - Music library migration.
+- OPTIPLEX photo collection deletion.
 
 NEXT ACTION:
 
 INFRA-0028
-Consolidate photo collections into BOSGAME storage.
+Complete deferred bulk photo staging copy when faster local transfer opportunity is available, or continue safe infrastructure documentation.
 
 REORIENTATION RULE:
 
@@ -66,19 +72,19 @@ Then continue from CURRENT_UNIT.
 
 LATEST FINDING:
 
-INFRA-0027 copied project repositories to BOSGAME:
+INFRA-0029 created the authoritative Infrastructure Operations Registry:
 
-/srv/storage/Projects
+- infrastructure/status/INFRASTRUCTURE_OPERATIONS_REGISTRY.md
 
-Verified Git repositories on BOSGAME:
-- Codex_Normalizar_Musica
-- Hycrete_Core
-- LATIN_MUSIC_AUTHORITY_DB
-- MUSIC_MP3_AUTHORITY_DB
-- Music_Reference_DB
-- MUSIC_RELATIONSHIPS_DB
+Documented:
+- BOSGAME canonical storage server
+- OPTIPLEX primary processing workstation
+- LENOVO continuity workstation
+- Tailscale addresses
+- canonical storage roots
+- Foundation locations
+- repository working copy locations
+- PROJECT_DATA locations
+- operational rules
 
-Recovery project copied to:
-- /srv/storage/Projects/_recovery/MUSIC_RELATIONSHIPS_DB_RECOVERY_20260617_133319
-
-No source deletion or deduplication was performed.
+No deletion or deduplication was performed.
