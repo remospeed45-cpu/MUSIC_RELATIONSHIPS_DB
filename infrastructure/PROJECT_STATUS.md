@@ -6,22 +6,22 @@ CURRENT_PHASE:
 INFRA-FASE-3
 
 CURRENT_UNIT:
-INFRA-0027
+INFRA-0028
 
 LAST_COMPLETED_UNIT:
-INFRA-0026
+INFRA-0027
 
 CURRENT_CHECKPOINT:
 PENDING_COMMIT
 
 NEXT_ACTION:
-Consolidate project repositories and project data into BOSGAME structure.
+Consolidate photo collections into BOSGAME storage.
 
 BLOCKERS:
 None
 
 MIGRATIONS_EXECUTED:
-Yes - Foundation and music research sources copied to BOSGAME.
+Yes - Foundation, music research sources, and project repositories copied to BOSGAME.
 
 DELETIONS_EXECUTED:
 No
