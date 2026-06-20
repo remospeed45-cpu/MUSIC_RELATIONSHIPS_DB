@@ -6,16 +6,16 @@ CURRENT_PHASE:
 INFRA-FASE-3
 
 CURRENT_UNIT:
-INFRA-0021
+INFRA-0022
 
 LAST_COMPLETED_UNIT:
-INFRA-0020
+INFRA-0021
 
 CURRENT_CHECKPOINT:
-a3a9afe
+47c5486
 
 NEXT_ACTION:
-Create migration candidate inventory.
+Define photo collection consolidation policy before any photo migration.
 
 BLOCKERS:
 None

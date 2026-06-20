@@ -18,3 +18,8 @@ Migration sequence plan created.
 
 2026-06-20
 OPTIPLEX synchronized with infrastructure planning branch.
+
+
+2026-06-20
+INFRA-0021
+Migration candidate inventory created. Photo comparison reports generated. OPTIPLEX and BOSGAME photo collections are related but not identical.

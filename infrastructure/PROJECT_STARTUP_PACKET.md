@@ -10,10 +10,10 @@ CURRENT_PHASE:
 INFRA-FASE-3
 
 CURRENT_UNIT:
-INFRA-0021
+INFRA-0022
 
 CURRENT_CHECKPOINT:
-a3a9afe
+47c5486
 
 AUTHORITATIVE REPOSITORY:
 MUSIC_RELATIONSHIPS_DB
@@ -45,8 +45,8 @@ NOT APPROVED:
 
 NEXT ACTION:
 
-INFRA-0021
-Create migration candidate inventory.
+INFRA-0022
+Define photo collection consolidation policy before any photo migration.
 
 REORIENTATION RULE:
 
@@ -56,3 +56,15 @@ Read:
 - WORK_LOG.md
 
 Then continue from CURRENT_UNIT.
+
+
+LATEST FINDING:
+
+INFRA-0021 found that OPTIPLEX and BOSGAME photo collections are strongly related but not identical.
+
+Photo comparison:
+- Common size+filename keys: 2135
+- OPTIPLEX-only keys: 1274
+- BOSGAME-only keys: 1185
+
+No photo migration, deletion, or deduplication is approved.
