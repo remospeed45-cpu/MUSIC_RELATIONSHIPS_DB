@@ -6,16 +6,16 @@ CURRENT_PHASE:
 INFRA-FASE-3
 
 CURRENT_UNIT:
-INFRA-0024
+INFRA-0025
 
 LAST_COMPLETED_UNIT:
-INFRA-0023
+INFRA-0024
 
 CURRENT_CHECKPOINT:
-57f4e8e
+PENDING_COMMIT
 
 NEXT_ACTION:
-Create dry-run staging copy plan for hash-unique photo files.
+Decide next safe action after dry-run photo staging plan.
 
 BLOCKERS:
 None

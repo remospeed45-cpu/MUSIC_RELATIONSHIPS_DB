@@ -31,3 +31,7 @@ Photo consolidation policy defined. No migration, deletion, or deduplication app
 2026-06-20
 INFRA-0023
 Hash-based photo manifests and SHA256 comparison completed. OPTIPLEX hashed 3410 files with 0 missing/errors. BOSGAME hashed 3320 files with 0 missing/errors. Common SHA256 hashes: 2148. OPTIPLEX-only SHA256 hashes: 1240. BOSGAME-only SHA256 hashes: 1143. No migration, deletion, or deduplication executed.
+
+2026-06-20
+INFRA-0024
+Photo staging dry-run plan created. Planning manifests generated for OPTIPLEX-only files and BOSGAME-only protected reference files. OPTIPLEX-only planned rows: 1244, unique SHA256 hashes: 1240, size: 11.66 GB. BOSGAME-only protected rows: 1148, unique SHA256 hashes: 1143, size: 13.36 GB. No migration, deletion, deduplication, or canonical replacement executed.
