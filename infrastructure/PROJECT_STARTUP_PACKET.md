@@ -10,7 +10,7 @@ CURRENT_PHASE:
 INFRA-FASE-3
 
 CURRENT_UNIT:
-INFRA-0026
+INFRA-0027
 
 CURRENT_CHECKPOINT:
 PENDING_COMMIT
@@ -40,6 +40,7 @@ COMPLETED:
 - Hash-based photo comparison.
 - Dry-run photo staging plan.
 - Foundation consolidation to BOSGAME.
+- Music research PDF consolidation to BOSGAME.
 
 NOT APPROVED:
 
@@ -49,8 +50,8 @@ NOT APPROVED:
 
 NEXT ACTION:
 
-INFRA-0026
-Consolidate music research sources into BOSGAME.
+INFRA-0027
+Consolidate project repositories and project data into BOSGAME structure.
 
 REORIENTATION RULE:
 
@@ -64,11 +65,12 @@ Then continue from CURRENT_UNIT.
 
 LATEST FINDING:
 
-INFRA-0025 copied Foundation materials to BOSGAME:
+INFRA-0026 copied 18 music research PDFs to BOSGAME:
 
-/srv/storage/Foundation/Operational_Foundation
-/srv/storage/Foundation/PROJECT00_TEMPLATE
+/srv/storage/Music/Research/Discographies
 
-This includes the operational foundation package and the PROJECT00 template used to start new projects.
+Verified size: 87M.
+
+These are research/reference documents, not MP3 music library files.
 
 No source deletion or deduplication was performed.
