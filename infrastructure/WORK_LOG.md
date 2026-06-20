@@ -23,3 +23,7 @@ OPTIPLEX synchronized with infrastructure planning branch.
 2026-06-20
 INFRA-0021
 Migration candidate inventory created. Photo comparison reports generated. OPTIPLEX and BOSGAME photo collections are related but not identical.
+
+2026-06-20
+INFRA-0022
+Photo consolidation policy defined. No migration, deletion, or deduplication approved. Next action is hash-based photo comparison manifests.

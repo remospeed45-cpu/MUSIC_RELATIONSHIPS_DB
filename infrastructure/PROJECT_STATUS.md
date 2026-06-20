@@ -6,16 +6,16 @@ CURRENT_PHASE:
 INFRA-FASE-3
 
 CURRENT_UNIT:
-INFRA-0022
+INFRA-0023
 
 LAST_COMPLETED_UNIT:
-INFRA-0021
+INFRA-0022
 
 CURRENT_CHECKPOINT:
-47c5486
+6229b23
 
 NEXT_ACTION:
-Define photo collection consolidation policy before any photo migration.
+Create hash-based photo comparison manifests.
 
 BLOCKERS:
 None
