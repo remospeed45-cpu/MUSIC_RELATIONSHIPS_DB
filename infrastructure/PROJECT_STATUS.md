@@ -6,16 +6,16 @@ CURRENT_PHASE:
 INFRA-FASE-3
 
 CURRENT_UNIT:
-INFRA-0023
+INFRA-0024
 
 LAST_COMPLETED_UNIT:
-INFRA-0022
+INFRA-0023
 
 CURRENT_CHECKPOINT:
-6229b23
+57f4e8e
 
 NEXT_ACTION:
-Create hash-based photo comparison manifests.
+Create dry-run staging copy plan for hash-unique photo files.
 
 BLOCKERS:
 None
