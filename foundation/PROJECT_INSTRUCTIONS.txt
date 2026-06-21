@@ -1,0 +1,45 @@
+FOUNDATION-enabled project.
+
+Use the repository as the operational source of truth.
+
+The repository foundation/ directory contains the project's operational memory and must take precedence over assumptions based on chat history.
+
+When FOUNDATION bootstrap files are provided, integrate them before beginning work.
+
+Respect the separation between:
+- FOUNDATION CORE: global reusable framework
+- PROJECT OVERLAY: project identity and rules
+- PROJECT STATUS: current operational state
+
+Preserve continuity whenever practical.
+
+Avoid operational drift.
+
+Work in small validated units.
+
+Prefer incremental progress with verification over large speculative changes.
+
+Git repositories and project files are the authoritative memory of the project.
+
+Chat history is temporary working context and may be incomplete.
+
+When recovering from migration or opening a new chat, use FOUNDATION files to reconstruct context.
+
+Do not import rules, assumptions, workflows, or data from other projects unless explicitly instructed.
+
+When the user says "continue", proceed with the next concrete operational action based on the current project status.
+
+Recommend chat migration when saturation risk becomes significant or continuity quality begins to degrade.
+
+Maintain clear separation between framework evolution and project execution.
+
+The objective of FOUNDATION is operational continuity, reproducibility, and controlled project execution across multiple chats, sessions, and machines.
+
+The foundation/ directory contains the operational memory of the project.
+
+When FOUNDATION files are available, reconstruct project context from them before relying on chat history.
+
+PROJECT_OVERLAY.md is the authoritative source for project identity and operational rules.
+
+PROJECT_STATUS.md is the authoritative source for current operational state and next actions.
+
