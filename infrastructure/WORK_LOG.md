@@ -49,67 +49,69 @@ INFRA-0027
 Project repository consolidation executed. Copied active OPTIPLEX project repositories and recovery project directory to BOSGAME /srv/storage/Projects. Verified Git repositories on BOSGAME for Codex_Normalizar_Musica, Hycrete_Core, LATIN_MUSIC_AUTHORITY_DB, MUSIC_MP3_AUTHORITY_DB, Music_Reference_DB, and MUSIC_RELATIONSHIPS_DB. BOSGAME project storage contains 15932 files. No source deletion performed.
 
 2026-06-20
+
+2026-06-20
+INFRA-0028
+Photo staging infrastructure created on BOSGAME.
+
+Created:
+- /srv/storage/PROJECT_DATA/INFRASTRUCTURE_REORGANIZATION/staging/photo_review/from_optiplex_unique_sha256
+- /srv/storage/PROJECT_DATA/INFRASTRUCTURE_REORGANIZATION/staging/photo_review/bosgame_unique_reference_only
+
+Validated:
+- OPTIPLEX -> BOSGAME SSH connectivity
+- SCP pilot transfer
+- RSYNC pilot transfer
+- Unicode path handling
+- Photo staging destination
+
+Pilot verification:
+- 5 files copied successfully
+- Staging size after pilot: 49 MB
+- Staging file count after pilot: 5
+
+Decision:
+Mass transfer of 1244 OPTIPLEX-unique photo files deferred for faster local transfer opportunity.
+
+Status:
+INFRA-0028 remains open pending bulk photo copy completion.
+
+2026-06-20
 INFRA-0029
 Infrastructure Operations Registry created.
 
 Created:
 - infrastructure/status/INFRASTRUCTURE_OPERATIONS_REGISTRY.md
 
-Documented:
-- BOSGAME canonical storage server
-- OPTIPLEX primary processing workstation
-- LENOVO continuity workstation
-- Tailscale IPv4 and IPv6 addresses
-- user and home paths
-- canonical BOSGAME storage roots
-- Foundation locations
-- repository working copy locations
-- PROJECT_DATA locations
-- operational rules
-
 Status:
 INFRA-0029 completed.
+
+2026-06-20
+INFRA-0030
+Legacy cleanup policy drafted and project decisions updated.
+
+Created:
+- infrastructure/status/INFRASTRUCTURE_LEGACY_CLEANUP_POLICY_DRAFT.md
+
+Status:
+INFRA-0030 completed.
 
 2026-06-20
 INFRA-0031
 Canonical Workspace Transition pilot initiated using LATIN_MUSIC_AUTHORITY_DB.
 
-Findings:
-
-- LATIN_MUSIC_AUTHORITY_DB already exists on BOSGAME at:
-  /srv/storage/Projects/LATIN_MUSIC_AUTHORITY_DB
-
-- BOSGAME repository verified:
-  - Git functional
-  - Working tree clean
-  - Read/write operations verified
-
-- BosgameMedia Samba share already exposes:
-  /srv/storage
-
-- Repository centralization is substantially complete.
-
-- Primary remaining problem is not repository migration.
-  Primary remaining problem is unified workspace access.
-
-- LENOVO currently accesses local clone:
-  ~/codex_work/LATIN_MUSIC_AUTHORITY_DB
-
-- LENOVO does not currently access BOSGAME project workspace directly.
-
-Architectural conclusion:
-
-Previous assumption:
-- Project repositories still require centralization.
-
-Revised understanding:
+Conclusion:
 - Repositories are already centralized on BOSGAME.
 - Remaining work is transition from local working copies to centralized workspace access.
-
-Proposed direction:
-
 - SMB becomes primary workspace protocol.
 - SSH remains administrative protocol.
-- BOSGAME is candidate central workspace host.
-- LATIN_MUSIC_AUTHORITY_DB selected as pilot project.
 
+2026-06-21
+INFRA-0056
+Music_Reference_DB dangling WIP commit review completed.
+
+Result:
+PASS WITH WARNINGS
+
+Commit:
+47e7110

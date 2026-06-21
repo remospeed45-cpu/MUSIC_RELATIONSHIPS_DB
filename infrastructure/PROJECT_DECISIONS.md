@@ -28,16 +28,16 @@ DECISION-0009
 Music migration deferred until organization and authority workflows mature.
 
 DECISION-0010
-Photo consolidation does not authorize deletion of OPTIPLEX photo collections.
+Photo consolidation into BOSGAME does not authorize deletion of OPTIPLEX photo collections.
 
 DECISION-0011
-Music collections remain preserved on OPTIPLEX until future organization phases are completed.
+Music collections remain preserved on OPTIPLEX until a future music organization phase is completed.
 
 DECISION-0012
-Repository working copies on OPTIPLEX and LENOVO remain valid operational workspaces until centralized workspace transition is completed.
+Operational repository clones on OPTIPLEX and LENOVO are legitimate working copies and are not cleanup targets solely because BOSGAME contains repository archives.
 
 DECISION-0013
-Copy completion alone does not authorize deletion.
+Copy completion alone does not authorize deletion. Deletion requires verification, documented approval, and logged execution.
 
 DECISION-0014
 Repository centralization on BOSGAME is considered substantially complete.
@@ -50,4 +50,3 @@ SMB is the preferred operational workspace protocol.
 
 DECISION-0017
 SSH is the preferred administrative protocol.
-
