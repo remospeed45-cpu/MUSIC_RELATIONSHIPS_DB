@@ -69,3 +69,47 @@ Documented:
 
 Status:
 INFRA-0029 completed.
+
+2026-06-20
+INFRA-0031
+Canonical Workspace Transition pilot initiated using LATIN_MUSIC_AUTHORITY_DB.
+
+Findings:
+
+- LATIN_MUSIC_AUTHORITY_DB already exists on BOSGAME at:
+  /srv/storage/Projects/LATIN_MUSIC_AUTHORITY_DB
+
+- BOSGAME repository verified:
+  - Git functional
+  - Working tree clean
+  - Read/write operations verified
+
+- BosgameMedia Samba share already exposes:
+  /srv/storage
+
+- Repository centralization is substantially complete.
+
+- Primary remaining problem is not repository migration.
+  Primary remaining problem is unified workspace access.
+
+- LENOVO currently accesses local clone:
+  ~/codex_work/LATIN_MUSIC_AUTHORITY_DB
+
+- LENOVO does not currently access BOSGAME project workspace directly.
+
+Architectural conclusion:
+
+Previous assumption:
+- Project repositories still require centralization.
+
+Revised understanding:
+- Repositories are already centralized on BOSGAME.
+- Remaining work is transition from local working copies to centralized workspace access.
+
+Proposed direction:
+
+- SMB becomes primary workspace protocol.
+- SSH remains administrative protocol.
+- BOSGAME is candidate central workspace host.
+- LATIN_MUSIC_AUTHORITY_DB selected as pilot project.
+
